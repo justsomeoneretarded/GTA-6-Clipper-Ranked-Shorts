@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T15:14:03Z",
+  "generated_at": "2026-11-19T22:34:20Z",
   "scanned": {
     "d66f80f00ab35d8f5532": "2026-11-18T12:29:44Z",
     "4f8b3e763c3765bfbfdf": "2026-11-18T12:29:55Z",
@@ -40,32 +40,59 @@
     "8e8f25bbdafd9861f4d9": "2026-11-19T07:03:24Z",
     "3e9cb39f3bb2258da74a": "2026-11-19T07:03:35Z",
     "b0202a1fe0d65e513533": "2026-11-19T07:03:49Z",
+    "74c148990aacfe78a076": "2026-11-19T14:55:44Z",
+    "d67107a14ca02920093a": "2026-11-19T14:58:02Z",
+    "fb5b2c0f1b2d38d7244c": "2026-11-19T14:58:02Z",
+    "e16f2782e5ac5ce0ae77": "2026-11-19T14:58:02Z",
+    "70df4f7cc4c3a830eed6": "2026-11-19T15:12:13Z",
+    "cc0a65354fbc3d41c98c": "2026-11-19T15:18:43Z",
+    "1f30101bc8ac799fb555": "2026-11-19T15:18:43Z",
+    "3d01e62cfb7b797314e8": "2026-11-19T15:18:43Z",
+    "c7da3a61fac346985c89": "2026-11-19T15:19:23Z",
+    "f885d141f726ebba3ef5": "2026-11-19T15:20:46Z",
+    "e71d77b88532e3189ef8": "2026-11-19T15:22:22Z",
+    "2dbc76fbd50bbc3a9d69": "2026-11-19T15:25:58Z",
+    "cc67e0227fac9f7bbb35": "2026-11-19T15:31:05Z",
+    "1a354f5b2690da0e0c35": "2026-11-19T15:33:03Z",
+    "11685f6dda7e985946dc": "2026-11-19T15:33:03Z",
+    "3432eb43ccf004100051": "2026-11-19T15:33:03Z",
+    "76b449be63961afae961": "2026-11-19T15:33:16Z",
+    "c19de4596658d828fb69": "2026-11-19T15:38:41Z",
     "bfeb05425a994329bc09": "2026-11-19T06:41:03Z",
     "f88b206f750c0abb3e6e": "2026-11-19T06:44:56Z",
     "6581be64d6ac4603914c": "2026-11-19T06:46:31Z",
     "0a09b6570e4f649f4c40": "2026-11-19T06:46:54Z",
-    "74c148990aacfe78a076": "2026-11-19T14:18:52Z",
-    "d67107a14ca02920093a": "2026-11-19T14:19:14Z",
-    "e16f2782e5ac5ce0ae77": "2026-11-19T14:19:14Z",
-    "cc0a65354fbc3d41c98c": "2026-11-19T14:19:14Z",
     "046f05a5e9e867ee3cf1": "2026-11-19T14:19:34Z",
-    "70df4f7cc4c3a830eed6": "2026-11-19T14:20:50Z",
     "5125658348e9785edd97": "2026-11-19T14:23:16Z",
     "74d92091d64102ee2df7": "2026-11-19T14:24:58Z",
-    "1f30101bc8ac799fb555": "2026-11-19T14:25:35Z",
-    "1a354f5b2690da0e0c35": "2026-11-19T14:25:35Z",
-    "11685f6dda7e985946dc": "2026-11-19T14:25:35Z",
-    "c7da3a61fac346985c89": "2026-11-19T14:25:46Z",
     "e04bd216b4df64fba49e": "2026-11-19T14:28:01Z",
-    "e71d77b88532e3189ef8": "2026-11-19T14:29:46Z",
     "20ef96ca76574bff988b": "2026-11-19T14:36:11Z",
-    "2dbc76fbd50bbc3a9d69": "2026-11-19T14:37:38Z",
     "e477932fb6c8a2d64dfb": "2026-11-19T14:46:36Z",
-    "3432eb43ccf004100051": "2026-11-19T14:47:48Z",
     "1cd31b604a36364505ad": "2026-11-19T14:47:48Z",
     "027d831562266a849215": "2026-11-19T14:47:48Z",
-    "76b449be63961afae961": "2026-11-19T14:48:11Z",
-    "ec3e8372b6d6f2cbe600": "2026-11-19T14:50:22Z"
+    "ec3e8372b6d6f2cbe600": "2026-11-19T14:50:22Z",
+    "90f90388f8e5aaeff2c9": "2026-11-19T22:13:26Z",
+    "2f9046a2d648d8bb5962": "2026-11-19T22:13:45Z",
+    "cc87fe369c869c18f105": "2026-11-19T22:13:45Z",
+    "42c238c0630fa8a263df": "2026-11-19T22:13:45Z",
+    "ff9795888fa07212230c": "2026-11-19T22:13:48Z",
+    "2c34722d60ce76ebc830": "2026-11-19T22:15:50Z",
+    "fd10c969a8ce1f38eef6": "2026-11-19T22:15:54Z",
+    "184d3057fad7a47d773b": "2026-11-19T22:17:32Z",
+    "85d1947467b205a855e8": "2026-11-19T22:19:14Z",
+    "a737663240fef855d6b2": "2026-11-19T22:19:50Z",
+    "94748091e4220cbf7952": "2026-11-19T22:19:50Z",
+    "bb5e474b00178326f9d7": "2026-11-19T22:19:50Z",
+    "60f3f3b9027cb73dcd57": "2026-11-19T22:19:56Z",
+    "dc2dc4c9d950497422bb": "2026-11-19T22:22:58Z",
+    "c17696af1f93c580a409": "2026-11-19T22:24:45Z",
+    "2d758a8b9a9aa7ca2e0b": "2026-11-19T22:24:49Z",
+    "04b3a4b87929c286a77b": "2026-11-19T22:26:18Z",
+    "e7c103ee96f35088b691": "2026-11-19T22:28:07Z",
+    "6ff9beb58ddc70325455": "2026-11-19T22:28:26Z",
+    "af39c0d528280cab1ce9": "2026-11-19T22:28:26Z",
+    "abc0289b2182a7f540de": "2026-11-19T22:28:26Z",
+    "970214e2ee471eded601": "2026-11-19T22:28:39Z"
   },
   "sources": {
     "youtube:-UuHA1h-Cf8": {
@@ -83,6 +110,36 @@
       "parent_offset": null,
       "recording": false
     },
+    "youtube:-euBHK6uYrg": {
+      "key": "youtube:-euBHK6uYrg",
+      "url": "https://www.youtube.com/watch?v=-euBHK6uYrg",
+      "platform": "youtube",
+      "title": "GTA 6 But I CAN'T Break Any Laws..",
+      "creator": "Caylus  ",
+      "duration": 763.0,
+      "views": 567221,
+      "published": "2026-11-19T09:46:36Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:169ZzvPxvvM": {
+      "key": "youtube:169ZzvPxvvM",
+      "url": "https://www.youtube.com/watch?v=169ZzvPxvvM",
+      "platform": "youtube",
+      "title": "MY FIRST DAY IN VICE CITY | GTA 6 GAMEPLAY #1",
+      "creator": "Techno Gamerz",
+      "duration": 7650.0,
+      "views": 8298488,
+      "published": "2026-11-19T13:30:31Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
     "youtube:8zpkGW2DGCo": {
       "key": "youtube:8zpkGW2DGCo",
       "url": "https://www.youtube.com/watch?v=8zpkGW2DGCo",
@@ -90,7 +147,7 @@
       "title": "GTA 6 - Free Roam Exploring - NEXT GEN Ray Tracing Looks INCREDIBLE! (4K Open World)",
       "creator": "DubStepZz",
       "duration": 2606.0,
-      "views": 126308,
+      "views": 637527,
       "published": "2026-11-18T22:30:28Z",
       "rights": "unspecified",
       "anchors": [],
@@ -113,6 +170,21 @@
       "parent_offset": null,
       "recording": false
     },
+    "youtube:CukTYtF72KY": {
+      "key": "youtube:CukTYtF72KY",
+      "url": "https://www.youtube.com/watch?v=CukTYtF72KY",
+      "platform": "youtube",
+      "title": "GTA 6 Walkthrough Gameplay Part 2 - JASON DUVAL (GRAND THEFT AUTO 6)",
+      "creator": "theRadBrad",
+      "duration": 3741.0,
+      "views": 711145,
+      "published": "2026-11-19T15:00:35Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
     "youtube:HzzzoomJ-Os": {
       "key": "youtube:HzzzoomJ-Os",
       "url": "https://www.youtube.com/watch?v=HzzzoomJ-Os",
@@ -120,7 +192,7 @@
       "title": "🔴 LIVE! - GTA 6 EARLY ACCESS with TYPICAL GAMER! (PS5 PRO)",
       "creator": "Typical Gamer",
       "duration": 35745.0,
-      "views": 2575960,
+      "views": 2691994,
       "published": "2026-11-19T01:16:55Z",
       "rights": "unspecified",
       "anchors": [],
@@ -137,6 +209,21 @@
       "duration": 14121.0,
       "views": 124864,
       "published": "2026-11-18T22:45:12Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:TFmtM1kRWp4": {
+      "key": "youtube:TFmtM1kRWp4",
+      "url": "https://www.youtube.com/watch?v=TFmtM1kRWp4",
+      "platform": "youtube",
+      "title": "🔴GTA 6 IS FINALLY HERE | LIVE GTA VI INDIA",
+      "creator": "Xyaa",
+      "duration": 21162.0,
+      "views": 696241,
+      "published": "2026-11-19T06:02:28Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
@@ -165,7 +252,7 @@
       "title": "Grand Theft Auto 6 Gameplay and Impressions...",
       "creator": "jackfrags",
       "duration": 2218.0,
-      "views": 1299125,
+      "views": 2356613,
       "published": "2026-11-18T22:04:15Z",
       "rights": "unspecified",
       "anchors": [],
@@ -203,6 +290,21 @@
       "parent_offset": null,
       "recording": false
     },
+    "youtube:fJUt1YegOB0": {
+      "key": "youtube:fJUt1YegOB0",
+      "url": "https://www.youtube.com/watch?v=fJUt1YegOB0",
+      "platform": "youtube",
+      "title": "What to expect from GTA 6 as ‘masterpiece’ game released around the world",
+      "creator": "ITV News",
+      "duration": 296.0,
+      "views": 42308,
+      "published": "2026-11-18T23:00:57Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
     "youtube:gZf-qhJt_SM": {
       "key": "youtube:gZf-qhJt_SM",
       "url": "https://www.youtube.com/watch?v=gZf-qhJt_SM",
@@ -210,8 +312,38 @@
       "title": "GTA 6 Is Already a DISASTER...",
       "creator": "Jaac",
       "duration": 501.0,
-      "views": 109007,
+      "views": 133757,
       "published": "2026-11-18T22:37:02Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:l-oEKLu4Y3w": {
+      "key": "youtube:l-oEKLu4Y3w",
+      "url": "https://www.youtube.com/watch?v=l-oEKLu4Y3w",
+      "platform": "youtube",
+      "title": "BACK AT IT AGAIN IN THE VICE CITY!!!! | NO PROMOTIONS",
+      "creator": "CarryisLive",
+      "duration": 14410.0,
+      "views": 3427459,
+      "published": "2026-11-19T15:38:34Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:oyHFwPNd_c4": {
+      "key": "youtube:oyHFwPNd_c4",
+      "url": "https://www.youtube.com/watch?v=oyHFwPNd_c4",
+      "platform": "youtube",
+      "title": "So I Played GTA 6..",
+      "creator": "Asmongold TV  ",
+      "duration": 32523.0,
+      "views": 2559983,
+      "published": "2026-11-19T05:07:12Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
@@ -251,6 +383,21 @@
       "fingerprint": "cb135c6c77e8e1c0.e338e9a90db0f8d4.c3c9d8514c62eaca"
     },
     {
+      "id": "23741337938ad6762a15",
+      "span": {
+        "source": "youtube:CK6XFkFSoyc",
+        "start": 132.08,
+        "end": 144.08
+      },
+      "theme": "driving",
+      "hook": "Notice how the SUV shifts its weight during a sharp turn.",
+      "setup": "A comparison between vehicle physics in Grand Theft Auto VI and GTA IV shows a dark SUV driving down a city street.",
+      "payoff": "The SUV leans heavily and jiggles on its suspension through the turn while the dialogue notes how much the vehicle shifts weight.",
+      "evidence": "The side-by-side view shows suspension response and weight transfer on a turning vehicle.",
+      "score": 84.0,
+      "fingerprint": "860f4d0c0f03c3cd.0d2e2c4d993af3d3.4c4ca5291bc9b387"
+    },
+    {
       "id": "10acd9bceafe92fe34a7",
       "span": {
         "source": "youtube:xgZCLTZbvs8",
@@ -268,6 +415,21 @@
   ],
   "pending": [
     {
+      "id": "7b99ca4b45b561045492",
+      "span": {
+        "source": "youtube:oyHFwPNd_c4",
+        "start": 21102.64,
+        "end": 21140.64
+      },
+      "theme": "discovery",
+      "hook": "Inspecting items inside the house during a tense standoff.",
+      "setup": "Jason investigates the interior rooms and picks up a magazine while avoiding the probation officer outside.",
+      "payoff": "Jason flips through the 'Reel Talk' magazine displaying fishing hotspots while the streamer comments on the absurdity of the situation.",
+      "evidence": "The item menu opens with the title 'Magazines, Books & Comics 3/27' displaying an 'OFF THE HOOK' magazine cover.",
+      "score": 82.0,
+      "fingerprint": ""
+    },
+    {
       "id": "cf989a3d6fba309020a3",
       "span": {
         "source": "youtube:HzzzoomJ-Os",
@@ -279,51 +441,6 @@
       "setup": "Jason approaches the bar counter inside The Rusty Anchor and selects a Key Largo iced tea.",
       "payoff": "A cinematic closeup shows the drink being served and Jason holding the vibrant blue iced tea with ice cubes.",
       "evidence": "Bar interaction prompt and cinematic view of the iced tea drink on the counter.",
-      "score": 80.0,
-      "fingerprint": ""
-    },
-    {
-      "id": "122344f852eb66783527",
-      "span": {
-        "source": "youtube:Yvt6gRUPbjc",
-        "start": 396.0,
-        "end": 425.0
-      },
-      "theme": "mission",
-      "hook": "Entering the motel room",
-      "setup": "Jason walks back to room 06 at the Starlet Motel.",
-      "payoff": "Jason walks inside and interacts with Lucia, who is relaxing inside.",
-      "evidence": "Jason entering motel room 06 and talking with Lucia.",
-      "score": 80.0,
-      "fingerprint": ""
-    },
-    {
-      "id": "c38ffb4603d6571df591",
-      "span": {
-        "source": "youtube:HzzzoomJ-Os",
-        "start": 12670.9,
-        "end": 12694.4
-      },
-      "theme": "mission",
-      "hook": "Arriving at the old boatyard to find NPCs.",
-      "setup": "The player drives following mission objectives to find Dunk's friends.",
-      "payoff": "The player drives into an abandoned warehouse and confronts NPCs sitting around a fire.",
-      "evidence": "Car entering warehouse interior with NPC dialogue.",
-      "score": 80.0,
-      "fingerprint": ""
-    },
-    {
-      "id": "34ab17ef053d3d7b82fa",
-      "span": {
-        "source": "youtube:Yvt6gRUPbjc",
-        "start": 17015.66,
-        "end": 17029.66
-      },
-      "theme": "chase",
-      "hook": "Carjacking confrontation on the street",
-      "setup": "Jason forces his way into a car while pedestrians react",
-      "payoff": "He throws the driver out onto the pavement and drives away",
-      "evidence": "What the hell? You better stop!",
       "score": 80.0,
       "fingerprint": ""
     },
@@ -343,17 +460,32 @@
       "fingerprint": ""
     },
     {
-      "id": "8a9d132e4397b006f3dd",
+      "id": "8c54a6ec89f8cf593ef5",
       "span": {
-        "source": "youtube:CK6XFkFSoyc",
-        "start": 132.08,
-        "end": 162.08
+        "source": "youtube:169ZzvPxvvM",
+        "start": 5273.53,
+        "end": 5315.53
       },
-      "theme": "driving",
-      "hook": "Driving cars into ocean water to compare physics.",
-      "setup": "Both games show a convertible being driven into shallow beach water near a pier.",
-      "payoff": "The water splashes and reacts differently around the tires and body of the cars in each engine.",
-      "evidence": "Vehicles splashing through shallow ocean waves on a sandy beach.",
+      "theme": "discovery",
+      "hook": "Hygiene and pet care routine",
+      "setup": "The player checks the bathroom to freshen up and take a shower, then feeds the snake.",
+      "payoff": "The snake in the terrarium coils up to eat the food, and the player gets a focus buff.",
+      "evidence": "Freshen up hokar aur focus mila. Let's go apne saamp ko bhi kha... bhai yaar bahut saare task hain yaar.",
+      "score": 80.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "1b22cdf468f735bbf788",
+      "span": {
+        "source": "youtube:CukTYtF72KY",
+        "start": 2171.41,
+        "end": 2202.41
+      },
+      "theme": "discovery",
+      "hook": "Jason does home repairs using a power tool on drywall.",
+      "setup": "Jason interacts with the wall in the bedroom to pick up a power tool.",
+      "payoff": "He drills screws into the drywall and then uses a hand tool to smooth out the surface.",
+      "evidence": "Jason uses a power drill to secure drywall in the safehouse.",
       "score": 80.0,
       "fingerprint": ""
     },
@@ -369,6 +501,36 @@
       "setup": "The player runs from a drone stand to hijack an Ocelot Jugular parked on the street.",
       "payoff": "Driving through industrial gates to reach the mission objective.",
       "evidence": "Hijacking the white sedan labeled 'OCELOT JUGULAR' and driving off.",
+      "score": 78.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "16b4427e92d7d8472de5",
+      "span": {
+        "source": "youtube:oyHFwPNd_c4",
+        "start": 20872.64,
+        "end": 20910.64
+      },
+      "theme": "mission",
+      "hook": "Flying low over a river while carrying out drop instructions.",
+      "setup": "Jason and Lucia converse in the seaplane about avoiding attention and staying low over the waterways.",
+      "payoff": "The plane hugs the treetops and navigates tight river bends while the characters argue over navigation.",
+      "evidence": "Audio features Lucia saying 'Open that door and hold on real tight. I'll get as low as I can for you.'",
+      "score": 78.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "d92271b1f0d7b0d6f2e2",
+      "span": {
+        "source": "youtube:CukTYtF72KY",
+        "start": 2228.41,
+        "end": 2263.41
+      },
+      "theme": "discovery",
+      "hook": "Jason changes his outfit and accessories inside the safehouse wardrobe.",
+      "setup": "Jason walks into the living area and accesses the wardrobe closet.",
+      "payoff": "He browses multiple outfits and puts on a classic curb chain necklace before checking his reflection.",
+      "evidence": "Jason selects a shirt and adds a chain necklace from the wardrobe menu.",
       "score": 78.0,
       "fingerprint": ""
     },
@@ -433,17 +595,47 @@
       "fingerprint": ""
     },
     {
-      "id": "da7f7252b9fe83b857dc",
+      "id": "167dc3345b3e99e86dca",
       "span": {
-        "source": "youtube:gZf-qhJt_SM",
-        "start": 350.72,
-        "end": 362.72
+        "source": "youtube:fJUt1YegOB0",
+        "start": 34.5,
+        "end": 46.0
       },
-      "theme": "podcast",
-      "hook": "Comparing GTA 6 to Red Dead Redemption 2.",
-      "setup": "A translated post asks if GTA 6 is simply a slower, more story-driven experience akin to Red Dead 2.",
-      "payoff": "Discussion centers on whether drawn-out gameplay and cinematic scenes match fan expectations.",
-      "evidence": "A tweet comparing GTA 6 to Red Dead 2 with negative commentary on pacing.",
+      "theme": "driving",
+      "hook": "Evolution from 1997 top-down graphics",
+      "setup": "Commentary about Grand Theft Auto's humble beginnings in Dundee in 1997",
+      "payoff": "Top-down 2D gameplay footage of blue cars navigating city streets with retro UI elements",
+      "evidence": "Top-down gameplay showing a blue car driving past a street sign reading South Park with 1997 watermark",
+      "score": 75.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "79e62c887b23c574462e",
+      "span": {
+        "source": "youtube:CukTYtF72KY",
+        "start": 2397.41,
+        "end": 2414.41
+      },
+      "theme": "driving",
+      "hook": "Jason gets into his black Vapid pickup truck to leave the property.",
+      "setup": "Jason runs down the stairs toward the parked truck.",
+      "payoff": "He opens the driver door, gets inside, and drives off down the road.",
+      "evidence": "Jason enters his Vapid truck and starts driving away.",
+      "score": 75.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "8edd5d1d49dd5833733d",
+      "span": {
+        "source": "youtube:TFmtM1kRWp4",
+        "start": 11658.4,
+        "end": 11685.2
+      },
+      "theme": "discovery",
+      "hook": "Checking Jason's character profile stats.",
+      "setup": "The player opens the pause menu to review Jason Duval's criminal profile and stats.",
+      "payoff": "The player checks body shape, cardio, and nutrition stats on screen.",
+      "evidence": "Jason Duval profile stats displayed on screen.",
       "score": 75.0,
       "fingerprint": ""
     },
@@ -474,6 +666,36 @@
       "setup": "The player drives the yellow convertible through residential trailer park streets.",
       "payoff": "The player interacts with the car and navigates to the destination while discussing game details.",
       "evidence": "Character driving through trailer park environment with mini-map visible.",
+      "score": 70.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "fd3950024ed0671eba23",
+      "span": {
+        "source": "youtube:169ZzvPxvvM",
+        "start": 5140.53,
+        "end": 5166.53
+      },
+      "theme": "discovery",
+      "hook": "Waking up and changing clothes",
+      "setup": "The player character wakes up in bed, gets dressed, and visits the wardrobe to select workout wear.",
+      "payoff": "The character walks out to the balcony and checks the time on their smartphone, revealing it is 7:07 AM.",
+      "evidence": "Nice. Chal ke bhai fataphat se kapde pehnte hain bhai.",
+      "score": 70.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "1d6ee0e2792f16955f0b",
+      "span": {
+        "source": "youtube:TFmtM1kRWp4",
+        "start": 11855.0,
+        "end": 11878.0
+      },
+      "theme": "driving",
+      "hook": "Rushing out of the liquor store parking lot.",
+      "setup": "Jason gets back into the truck after visiting the liquor store.",
+      "payoff": "Cal yells out as Jason drives off and navigates intersections.",
+      "evidence": "Cal yells, 'Alright, man. I'll catch you on the flip!'",
       "score": 70.0,
       "fingerprint": ""
     },
@@ -536,6 +758,16 @@
     },
     {
       "span": {
+        "source": "youtube:l-oEKLu4Y3w",
+        "start": 3637.4,
+        "end": 3897.4
+      },
+      "theme": "discovery",
+      "story": "The player hunts a crocodile, encounters a mysterious vine-covered figure in the woods, drives around Grassrivers, and handles wildlife inventory.",
+      "score": 92.0
+    },
+    {
+      "span": {
         "source": "youtube:-UuHA1h-Cf8",
         "start": 36.24,
         "end": 427.24
@@ -543,6 +775,26 @@
       "theme": "chase",
       "story": "A sustained 6-star police chase beginning inside a military base, breaking out onto country roads, crossing bridges towards Vice City, battling N.O.O.S.E. units and helicopters, and eventually culminating in a 'wasted' screen after extensive damage.",
       "score": 92.0
+    },
+    {
+      "span": {
+        "source": "youtube:HzzzoomJ-Os",
+        "start": 12450.4,
+        "end": 12744.4
+      },
+      "theme": "mission",
+      "story": "A continuous sequence of open-world exploration and mission driving, starting with the auto-drive feature discovery, navigating through traffic and bridges, experiencing a severe collision, and arriving at the warehouse to talk to NPCs.",
+      "score": 92.0
+    },
+    {
+      "span": {
+        "source": "youtube:CukTYtF72KY",
+        "start": 2146.41,
+        "end": 2414.41
+      },
+      "theme": "discovery",
+      "story": "Jason performs various safehouse activities, including uncovering cash stashes under floorboards, repairing drywall, customizing outfits in the wardrobe, fixing damaged outdoor stairs, and finally driving away in his pickup truck.",
+      "score": 90.0
     },
     {
       "span": {
@@ -576,12 +828,12 @@
     },
     {
       "span": {
-        "source": "youtube:HzzzoomJ-Os",
-        "start": 12450.9,
-        "end": 12789.4
+        "source": "youtube:oyHFwPNd_c4",
+        "start": 85.0,
+        "end": 345.0
       },
       "theme": "mission",
-      "story": "The player engages in the 'Girls' Trip' mission, driving around Leonida in a convertible, trying out the auto-drive feature, navigating through trailer parks, experiencing a highway crash, and finally arriving at the old boatyard to speak with Dunk's friends.",
+      "story": "A cinematic sequence showing Jason and Lucia interacting with police outside a shop, leading to a violent confrontation and a subsequent car ride discussion about life and crime.",
       "score": 88.0
     },
     {
@@ -603,6 +855,46 @@
       "theme": "discovery",
       "story": "An overview of the massive hype surrounding GTA 6 leading up to its release, followed by immediate backlash, viral glitch reports, and divisive fan opinions on social media during launch day.",
       "score": 88.0
+    },
+    {
+      "span": {
+        "source": "youtube:oyHFwPNd_c4",
+        "start": 20770.64,
+        "end": 21030.64
+      },
+      "theme": "mission",
+      "story": "The player pilots a seaplane across river systems in Vice City, executing a bumpy water landing, handling passenger dialogue, and returning home to dodge a probation officer.",
+      "score": 86.0
+    },
+    {
+      "span": {
+        "source": "youtube:-euBHK6uYrg",
+        "start": 259.16,
+        "end": 559.16
+      },
+      "theme": "driving",
+      "story": "The player attempts a law-abiding run through Vice City, navigating traffic lights, using turn indicators, dealing with erratic drivers, and monitoring fuel levels.",
+      "score": 86.0
+    },
+    {
+      "span": {
+        "source": "youtube:169ZzvPxvvM",
+        "start": 71.0,
+        "end": 420.0
+      },
+      "theme": "chase",
+      "story": "A chronological sequence following Jason and Lucia dealing with stolen vehicles, police stops, arguments, and rooftop vistas.",
+      "score": 85.0
+    },
+    {
+      "span": {
+        "source": "youtube:TFmtM1kRWp4",
+        "start": 11671.5,
+        "end": 11940.5
+      },
+      "theme": "driving",
+      "story": "Jason drives around the neighborhood in a pickup truck, visits the hotel to talk with Brian, and drives off toward the radar station.",
+      "score": 85.0
     },
     {
       "span": {
