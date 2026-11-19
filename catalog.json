@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T06:55:22Z",
+  "generated_at": "2026-11-19T15:14:03Z",
   "scanned": {
     "d66f80f00ab35d8f5532": "2026-11-18T12:29:44Z",
     "4f8b3e763c3765bfbfdf": "2026-11-18T12:29:55Z",
@@ -24,114 +24,209 @@
     "6431904c4ae2c68aa8fc": "2026-11-18T19:54:20Z",
     "1512d4da489607104443": "2026-11-18T19:55:30Z",
     "44ee5ab5fd89073a6464": "2026-11-18T19:56:11Z",
+    "8b57ff5bec4c92d2d388": "2026-11-19T06:51:40Z",
+    "4ca75557d903d6e20047": "2026-11-19T06:51:49Z",
+    "d93311b15cb75d467908": "2026-11-19T06:52:05Z",
+    "7fb37d7351c53ecc583a": "2026-11-19T06:53:49Z",
+    "ca0c719b4f79f3b46158": "2026-11-19T06:54:04Z",
+    "3dc6bcb7df2c7a0092e6": "2026-11-19T06:54:24Z",
+    "d955e339972d252ec4a8": "2026-11-19T06:56:48Z",
+    "449a738f3f91cb4389cf": "2026-11-19T06:57:04Z",
+    "31b63b261550a8f7bf80": "2026-11-19T06:57:26Z",
+    "77f422aabd404346f1bf": "2026-11-19T06:58:47Z",
+    "2500840d6d36f311e727": "2026-11-19T06:58:58Z",
+    "5d8040cedf5fb58e0427": "2026-11-19T06:59:12Z",
+    "fbaa4879adc6a3ffe357": "2026-11-19T07:01:54Z",
+    "8e8f25bbdafd9861f4d9": "2026-11-19T07:03:24Z",
+    "3e9cb39f3bb2258da74a": "2026-11-19T07:03:35Z",
+    "b0202a1fe0d65e513533": "2026-11-19T07:03:49Z",
     "bfeb05425a994329bc09": "2026-11-19T06:41:03Z",
-    "ca0c719b4f79f3b46158": "2026-11-19T06:41:24Z",
     "f88b206f750c0abb3e6e": "2026-11-19T06:44:56Z",
     "6581be64d6ac4603914c": "2026-11-19T06:46:31Z",
-    "0a09b6570e4f649f4c40": "2026-11-19T06:46:54Z"
+    "0a09b6570e4f649f4c40": "2026-11-19T06:46:54Z",
+    "74c148990aacfe78a076": "2026-11-19T14:18:52Z",
+    "d67107a14ca02920093a": "2026-11-19T14:19:14Z",
+    "e16f2782e5ac5ce0ae77": "2026-11-19T14:19:14Z",
+    "cc0a65354fbc3d41c98c": "2026-11-19T14:19:14Z",
+    "046f05a5e9e867ee3cf1": "2026-11-19T14:19:34Z",
+    "70df4f7cc4c3a830eed6": "2026-11-19T14:20:50Z",
+    "5125658348e9785edd97": "2026-11-19T14:23:16Z",
+    "74d92091d64102ee2df7": "2026-11-19T14:24:58Z",
+    "1f30101bc8ac799fb555": "2026-11-19T14:25:35Z",
+    "1a354f5b2690da0e0c35": "2026-11-19T14:25:35Z",
+    "11685f6dda7e985946dc": "2026-11-19T14:25:35Z",
+    "c7da3a61fac346985c89": "2026-11-19T14:25:46Z",
+    "e04bd216b4df64fba49e": "2026-11-19T14:28:01Z",
+    "e71d77b88532e3189ef8": "2026-11-19T14:29:46Z",
+    "20ef96ca76574bff988b": "2026-11-19T14:36:11Z",
+    "2dbc76fbd50bbc3a9d69": "2026-11-19T14:37:38Z",
+    "e477932fb6c8a2d64dfb": "2026-11-19T14:46:36Z",
+    "3432eb43ccf004100051": "2026-11-19T14:47:48Z",
+    "1cd31b604a36364505ad": "2026-11-19T14:47:48Z",
+    "027d831562266a849215": "2026-11-19T14:47:48Z",
+    "76b449be63961afae961": "2026-11-19T14:48:11Z",
+    "ec3e8372b6d6f2cbe600": "2026-11-19T14:50:22Z"
   },
   "sources": {
-    "twitch-clip:BeautifulScaryFungusFUNgineer-vOKAsBcSFLz0POLZ": {
-      "key": "twitch-clip:BeautifulScaryFungusFUNgineer-vOKAsBcSFLz0POLZ",
-      "url": "https://clips.twitch.tv/BeautifulScaryFungusFUNgineer-vOKAsBcSFLz0POLZ",
-      "platform": "twitch-clip",
-      "title": "tgg tests how he can grab drinks from the fridge",
-      "creator": "TGG_gta",
-      "duration": 32.0,
-      "views": 70,
-      "published": "2026-11-18T11:53:45Z",
-      "rights": "unspecified",
-      "anchors": [],
-      "parent": "",
-      "parent_offset": null,
-      "recording": false
-    },
-    "twitch-clip:SpikyAlertCookieDuDudu-o9wrV5cBrwlNKB_5": {
-      "key": "twitch-clip:SpikyAlertCookieDuDudu-o9wrV5cBrwlNKB_5",
-      "url": "https://clips.twitch.tv/SpikyAlertCookieDuDudu-o9wrV5cBrwlNKB_5",
-      "platform": "twitch-clip",
-      "title": "kai plays gta 6 first",
-      "creator": "KaiCenat",
-      "duration": 60.0,
-      "views": 6338,
-      "published": "2026-11-18T10:06:29Z",
-      "rights": "unspecified",
-      "anchors": [],
-      "parent": "",
-      "parent_offset": null,
-      "recording": false
-    },
-    "twitch-clip:SquareObeseEagleFutureMan-5N5CHEA_vyiZJgrS": {
-      "key": "twitch-clip:SquareObeseEagleFutureMan-5N5CHEA_vyiZJgrS",
-      "url": "https://clips.twitch.tv/SquareObeseEagleFutureMan-5N5CHEA_vyiZJgrS",
-      "platform": "twitch-clip",
-      "title": "GTA 6 - 100% Walkthrough | Livestream [No Commentary]",
-      "creator": "GTASeriesVideos",
-      "duration": 30.0,
-      "views": 1,
-      "published": "2026-11-18T12:16:13Z",
-      "rights": "unspecified",
-      "anchors": [],
-      "parent": "",
-      "parent_offset": null,
-      "recording": false
-    },
-    "twitch-vod:2932641914": {
-      "key": "twitch-vod:2932641914",
-      "url": "https://www.twitch.tv/videos/2932641914",
-      "platform": "twitch-vod",
-      "title": "🗽GTAVI🗽BANKS ARE DOWN🗽HAKEEM JEFFRIES VOTE🎞️CVH vs SCHUMER📽️TRUMPxXIxPUTIN📽️FUNDRAISER FOR GTA🚉🗽!",
-      "creator": "HasanAbi",
-      "duration": 38699,
-      "views": 28709,
-      "published": "2026-11-18T19:52:40Z",
-      "rights": "unspecified",
-      "anchors": [
-        38579
-      ],
-      "parent": "",
-      "parent_offset": null,
-      "recording": true
-    },
-    "youtube:3PiR0G3rVw8": {
-      "key": "youtube:3PiR0G3rVw8",
-      "url": "https://www.youtube.com/watch?v=3PiR0G3rVw8",
+    "youtube:-UuHA1h-Cf8": {
+      "key": "youtube:-UuHA1h-Cf8",
+      "url": "https://www.youtube.com/watch?v=-UuHA1h-Cf8",
       "platform": "youtube",
-      "title": "GTA 6 PS5 Pro Gameplay - 15 Minutes of The First Mission",
-      "creator": "IGN",
-      "duration": 890.0,
-      "views": 1322464,
-      "published": "2026-11-18T11:20:31Z",
+      "title": "Can a TANK Survive a 6-STAR Police Chase in GTA 6? | PS5 Pro Gameplay",
+      "creator": "GameV",
+      "duration": 572.0,
+      "views": 484887,
+      "published": "2026-11-18T21:05:14Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
       "parent_offset": null,
       "recording": false
     },
-    "youtube:jwwDSn-HW0o": {
-      "key": "youtube:jwwDSn-HW0o",
-      "url": "https://www.youtube.com/watch?v=jwwDSn-HW0o",
+    "youtube:8zpkGW2DGCo": {
+      "key": "youtube:8zpkGW2DGCo",
+      "url": "https://www.youtube.com/watch?v=8zpkGW2DGCo",
       "platform": "youtube",
-      "title": "GTA 6 Just Got a MASSIVE Last Minute Info Dump...",
-      "creator": "Hazard",
-      "duration": 702.0,
-      "views": 1245416,
-      "published": "2026-11-17T21:15:28Z",
+      "title": "GTA 6 - Free Roam Exploring - NEXT GEN Ray Tracing Looks INCREDIBLE! (4K Open World)",
+      "creator": "DubStepZz",
+      "duration": 2606.0,
+      "views": 126308,
+      "published": "2026-11-18T22:30:28Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
       "parent_offset": null,
       "recording": false
     },
-    "youtube:vVVIWEGciKk": {
-      "key": "youtube:vVVIWEGciKk",
-      "url": "https://www.youtube.com/watch?v=vVVIWEGciKk",
+    "youtube:CK6XFkFSoyc": {
+      "key": "youtube:CK6XFkFSoyc",
+      "url": "https://www.youtube.com/watch?v=CK6XFkFSoyc",
       "platform": "youtube",
-      "title": "GTA 6 - Before You Buy",
-      "creator": "gameranx",
-      "duration": 1542.0,
-      "views": 937228,
-      "published": "2026-11-18T15:47:51Z",
+      "title": "GTA 6 VS GTA 4 (CAR PHYSICS COMPARISON)",
+      "creator": "Onespot Gaming",
+      "duration": 679.0,
+      "views": 619208,
+      "published": "2026-11-18T21:03:02Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:HzzzoomJ-Os": {
+      "key": "youtube:HzzzoomJ-Os",
+      "url": "https://www.youtube.com/watch?v=HzzzoomJ-Os",
+      "platform": "youtube",
+      "title": "🔴 LIVE! - GTA 6 EARLY ACCESS with TYPICAL GAMER! (PS5 PRO)",
+      "creator": "Typical Gamer",
+      "duration": 35745.0,
+      "views": 2575960,
+      "published": "2026-11-19T01:16:55Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:Mw4MrVRO_co": {
+      "key": "youtube:Mw4MrVRO_co",
+      "url": "https://www.youtube.com/watch?v=Mw4MrVRO_co",
+      "platform": "youtube",
+      "title": "First Look at GTA 6! 🔥 IT'S FINALLY GETTING GOOD!",
+      "creator": "Fresh Spawns",
+      "duration": 14121.0,
+      "views": 124864,
+      "published": "2026-11-18T22:45:12Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:Ui5eAdG6a-I": {
+      "key": "youtube:Ui5eAdG6a-I",
+      "url": "https://www.youtube.com/watch?v=Ui5eAdG6a-I",
+      "platform": "youtube",
+      "title": "GTA 6 – I Stole a Plane From the Airport and Fighter Jets Chased Me!",
+      "creator": "Champs Network",
+      "duration": 492.0,
+      "views": 37674,
+      "published": "2026-11-18T23:14:23Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:Wd-vKw3XYP0": {
+      "key": "youtube:Wd-vKw3XYP0",
+      "url": "https://www.youtube.com/watch?v=Wd-vKw3XYP0",
+      "platform": "youtube",
+      "title": "Grand Theft Auto 6 Gameplay and Impressions...",
+      "creator": "jackfrags",
+      "duration": 2218.0,
+      "views": 1299125,
+      "published": "2026-11-18T22:04:15Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:YOxDxdVD4MY": {
+      "key": "youtube:YOxDxdVD4MY",
+      "url": "https://www.youtube.com/watch?v=YOxDxdVD4MY",
+      "platform": "youtube",
+      "title": "GTA 6: Lucia's Mother Cutscene (4K)",
+      "creator": "Sirloin",
+      "duration": 957.0,
+      "views": 59194,
+      "published": "2026-11-19T00:30:14Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:Yvt6gRUPbjc": {
+      "key": "youtube:Yvt6gRUPbjc",
+      "url": "https://www.youtube.com/watch?v=Yvt6gRUPbjc",
+      "platform": "youtube",
+      "title": "GTA 6 - Full Game Walkthrough (No Commentary) 100% 4K",
+      "creator": "Sirloin",
+      "duration": 41194.0,
+      "views": 669564,
+      "published": "2026-11-18T22:04:11Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:gZf-qhJt_SM": {
+      "key": "youtube:gZf-qhJt_SM",
+      "url": "https://www.youtube.com/watch?v=gZf-qhJt_SM",
+      "platform": "youtube",
+      "title": "GTA 6 Is Already a DISASTER...",
+      "creator": "Jaac",
+      "duration": 501.0,
+      "views": 109007,
+      "published": "2026-11-18T22:37:02Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:xgZCLTZbvs8": {
+      "key": "youtube:xgZCLTZbvs8",
+      "url": "https://www.youtube.com/watch?v=xgZCLTZbvs8",
+      "platform": "youtube",
+      "title": "How REALISTIC Is GTA 6’s Emergency Response? | GTA 6 PS5 Pro Gameplay",
+      "creator": "GameV",
+      "duration": 481.0,
+      "views": 93169,
+      "published": "2026-11-19T01:12:32Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
@@ -141,137 +236,393 @@
   },
   "moments": [
     {
-      "id": "0be767dafed68e916870",
+      "id": "f3bbb4a6262936e74f45",
       "span": {
-        "source": "twitch-clip:SpikyAlertCookieDuDudu-o9wrV5cBrwlNKB_5",
-        "start": 48.0,
-        "end": 60.0
-      },
-      "theme": "chase",
-      "hook": "A man suddenly climbs into the back seat of the car.",
-      "setup": "Jason and Lucia are parked in a car discussing being cautious.",
-      "payoff": "The man in the back seat yells We gotta go. Like, right fucking now and Lucia drives away.",
-      "evidence": "Man enters back seat, says Jason? Lucia?, then yells We gotta go. Like, right fucking now as Lucia speeds off.",
-      "score": 93.5,
-      "fingerprint": "8000121210ccc440.81aca6a606666c40.8100141010182870"
-    },
-    {
-      "id": "a178a3374c26b5f44ab5",
-      "span": {
-        "source": "twitch-clip:BeautifulScaryFungusFUNgineer-vOKAsBcSFLz0POLZ",
-        "start": 1.0,
-        "end": 31.33
+        "source": "youtube:8zpkGW2DGCo",
+        "start": 404.0,
+        "end": 425.0
       },
       "theme": "discovery",
-      "hook": "Should we test it? Should we see if he actually grabs something properly from the fridge?",
-      "setup": "The player opens the fridge, selects Raine Water, and drinks it.",
-      "payoff": "The player buffs stamina and focus, then throws the bottle into the bin.",
-      "evidence": "The player opens the fridge, picks Raine Water, drinks it while stats update on screen, and throws the bottle into the bin.",
-      "score": 85.5,
-      "fingerprint": "7666262eeef2f666.9c1c441630379696.ce0f2f3fbb1b9b56"
+      "hook": "The player pulls into a Pollo Diablo drive-thru to interact with the menu.",
+      "setup": "The player navigates the pickup truck into the drive-thru lane and orders food from the digital kiosk.",
+      "payoff": "The player collects the Reverse Chicken Sandwich, eats it at the window, and receives a health buff.",
+      "evidence": "The interface displays 'Approach the speaker to order', followed by menu options including 'Reverse Chicken Sandwich ($10)' and a 'Health buffed' notification after consuming it.",
+      "score": 85.25,
+      "fingerprint": "cb135c6c77e8e1c0.e338e9a90db0f8d4.c3c9d8514c62eaca"
     },
     {
-      "id": "2f21e476e78b233a7d9e",
+      "id": "10acd9bceafe92fe34a7",
       "span": {
-        "source": "youtube:3PiR0G3rVw8",
-        "start": 314.1,
-        "end": 325.1
-      },
-      "theme": "discovery",
-      "hook": "Player spots a suspicious deal unfolding across the swamp.",
-      "setup": "The player and companion arrive by boat near a wooden dock with a plane and figures.",
-      "payoff": "The player equips binoculars and scopes in on the meeting on the dock.",
-      "evidence": "Binoculars are selected from the weapon wheel to zoom in on the characters on the dock.",
-      "score": 85.0,
-      "fingerprint": "0382884b4a2713d3.0786089390966723.8f07131397972723"
-    },
-    {
-      "id": "b75af79cea613f024fe9",
-      "span": {
-        "source": "twitch-vod:2932641914",
-        "start": 38281.5,
-        "end": 38297.1
+        "source": "youtube:xgZCLTZbvs8",
+        "start": 313.32,
+        "end": 353.32
       },
       "theme": "mission",
-      "hook": "Jason demands the app link and calls the bank situation bullshit.",
-      "setup": "Jason leaves the bank manager's office and joins Lucia outside by a bench.",
-      "payoff": "Jason asks if Lucia is good and she replies, No, not really.",
-      "evidence": "Jason says, Send me a link to the app and later asks, You good? while Lucia answers, No, not really.",
-      "score": 83.5,
-      "fingerprint": "49a3b3373379b879.0d47c78fcf4f5769.06103133b3a2a2f2"
-    },
-    {
-      "id": "22bb3522f471add80a82",
-      "span": {
-        "source": "twitch-clip:SquareObeseEagleFutureMan-5N5CHEA_vyiZJgrS",
-        "start": 0.0,
-        "end": 29.5
-      },
-      "theme": "mission",
-      "hook": "Character approaches a yellow lift outside a police impound.",
-      "setup": "Player controls a character in camo shorts and a white tank top with a rifle slung over their shoulder, operating a lift against a wall labeled 'POLICE IMPOUND 786-555-0121'.",
-      "payoff": "The lift rises to the roof level, allowing the character to step off onto the rooftop and walk forward as an objective prompt appears: 'Move quietly and stay out of sight to avoid detection.'",
-      "evidence": "Character operates lift controls, elevates to the roof level, steps onto the rooftop, and receives stealth objective prompt.",
-      "score": 82.25,
-      "fingerprint": "612505072332f393.c90102264647d060.699edaaba9d45564"
-    },
-    {
-      "id": "14744b54db70afa9b33a",
-      "span": {
-        "source": "twitch-vod:2932641914",
-        "start": 38477.0,
-        "end": 38488.5
-      },
-      "theme": "mission",
-      "hook": "Lucia talks about joint savings and standing up from the table.",
-      "setup": "Jason and Lucia discuss money and setting something away.",
-      "payoff": "Jason and Lucia stand close near the coffee table before Jason walks away to use his phone.",
-      "evidence": "Lucia says, 'My Tia Lorena tells me she's doing fine, but you're right.' Jason says, 'You never know.'",
-      "score": 80.5,
-      "fingerprint": "83331139292c2c88.8fcfcd8dcdcd8e4c.191b1b65714b4f4d"
+      "hook": "Player hoists an unconscious NPC over their shoulder on a crowded beach.",
+      "setup": "The player carries the body across the sand, dodging beachgoers and obstacles while dialogue plays.",
+      "payoff": "The player carries the body all the way into the ocean water until a crime is reported.",
+      "evidence": "Carrying body from beach into the water leading to 'Crime reported' at 51.750 seconds.",
+      "score": 82.0,
+      "fingerprint": "ffffadfc5ddfefef.ff7fbf2f9b194fee.7f1f3f9f5fdfdfde"
     }
   ],
-  "pending": [],
+  "pending": [
+    {
+      "id": "cf989a3d6fba309020a3",
+      "span": {
+        "source": "youtube:HzzzoomJ-Os",
+        "start": 425.0,
+        "end": 475.0
+      },
+      "theme": "discovery",
+      "hook": "Ordering drinks at The Rusty Anchor bar",
+      "setup": "Jason approaches the bar counter inside The Rusty Anchor and selects a Key Largo iced tea.",
+      "payoff": "A cinematic closeup shows the drink being served and Jason holding the vibrant blue iced tea with ice cubes.",
+      "evidence": "Bar interaction prompt and cinematic view of the iced tea drink on the counter.",
+      "score": 80.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "122344f852eb66783527",
+      "span": {
+        "source": "youtube:Yvt6gRUPbjc",
+        "start": 396.0,
+        "end": 425.0
+      },
+      "theme": "mission",
+      "hook": "Entering the motel room",
+      "setup": "Jason walks back to room 06 at the Starlet Motel.",
+      "payoff": "Jason walks inside and interacts with Lucia, who is relaxing inside.",
+      "evidence": "Jason entering motel room 06 and talking with Lucia.",
+      "score": 80.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "c38ffb4603d6571df591",
+      "span": {
+        "source": "youtube:HzzzoomJ-Os",
+        "start": 12670.9,
+        "end": 12694.4
+      },
+      "theme": "mission",
+      "hook": "Arriving at the old boatyard to find NPCs.",
+      "setup": "The player drives following mission objectives to find Dunk's friends.",
+      "payoff": "The player drives into an abandoned warehouse and confronts NPCs sitting around a fire.",
+      "evidence": "Car entering warehouse interior with NPC dialogue.",
+      "score": 80.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "34ab17ef053d3d7b82fa",
+      "span": {
+        "source": "youtube:Yvt6gRUPbjc",
+        "start": 17015.66,
+        "end": 17029.66
+      },
+      "theme": "chase",
+      "hook": "Carjacking confrontation on the street",
+      "setup": "Jason forces his way into a car while pedestrians react",
+      "payoff": "He throws the driver out onto the pavement and drives away",
+      "evidence": "What the hell? You better stop!",
+      "score": 80.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "6bc3b6d44fe90a8ee5e5",
+      "span": {
+        "source": "youtube:CK6XFkFSoyc",
+        "start": 235.97,
+        "end": 270.97
+      },
+      "theme": "discovery",
+      "hook": "Bullet impacts on vehicles",
+      "setup": "Shooting different cars to test bullet hole details",
+      "payoff": "Detailed impact decals appearing on car body panels",
+      "evidence": "Close-up of bullet impacts on vehicles",
+      "score": 80.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "8a9d132e4397b006f3dd",
+      "span": {
+        "source": "youtube:CK6XFkFSoyc",
+        "start": 132.08,
+        "end": 162.08
+      },
+      "theme": "driving",
+      "hook": "Driving cars into ocean water to compare physics.",
+      "setup": "Both games show a convertible being driven into shallow beach water near a pier.",
+      "payoff": "The water splashes and reacts differently around the tires and body of the cars in each engine.",
+      "evidence": "Vehicles splashing through shallow ocean waves on a sandy beach.",
+      "score": 80.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "6d908d550cd892aa37bd",
+      "span": {
+        "source": "youtube:Mw4MrVRO_co",
+        "start": 8370.21,
+        "end": 8410.21
+      },
+      "theme": "driving",
+      "hook": "Grabbing a white sedan to start a heist preparation.",
+      "setup": "The player runs from a drone stand to hijack an Ocelot Jugular parked on the street.",
+      "payoff": "Driving through industrial gates to reach the mission objective.",
+      "evidence": "Hijacking the white sedan labeled 'OCELOT JUGULAR' and driving off.",
+      "score": 78.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "238ec3cee36a9ab11e58",
+      "span": {
+        "source": "youtube:Mw4MrVRO_co",
+        "start": 407.0,
+        "end": 465.0
+      },
+      "theme": "discovery",
+      "hook": "Checking phone banking app",
+      "setup": "Lucia pulls out her smartphone to check her funds.",
+      "payoff": "The BuckMe app opens showing zero balance and a checking account.",
+      "evidence": "BuckMe app interface displayed on the in-game smartphone.",
+      "score": 75.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "edc6dcd75f570e893eb5",
+      "span": {
+        "source": "youtube:YOxDxdVD4MY",
+        "start": 396.4,
+        "end": 426.4
+      },
+      "theme": "mission",
+      "hook": "Lucia cleans trash outside her mother's dilapidated house.",
+      "setup": "Lucia's mother tells her to start cleaning the front yard.",
+      "payoff": "Lucia picks up trash and puts it into a dumpster while talking to her mother.",
+      "evidence": "Lucia picks up debris in front of the house and disposes of it in the dumpster.",
+      "score": 75.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "63711da583660b15e148",
+      "span": {
+        "source": "youtube:Yvt6gRUPbjc",
+        "start": 71.0,
+        "end": 98.0
+      },
+      "theme": "driving",
+      "hook": "Driving through muddy terrain",
+      "setup": "Jason drives a grey sedan through rural roads in Leonida.",
+      "payoff": "The car veers off the road and collides with roadside vegetation and another vehicle.",
+      "evidence": "Sedan driving off-road and colliding with another car.",
+      "score": 75.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "96994e12d8159d74403d",
+      "span": {
+        "source": "youtube:CK6XFkFSoyc",
+        "start": 215.97,
+        "end": 234.97
+      },
+      "theme": "discovery",
+      "hook": "Car physics comparison test",
+      "setup": "A test comparing vehicle damage and smoke effects between games",
+      "payoff": "Side by side burnout smoke rendering comparison",
+      "evidence": "Burnout smoke simulation shown side-by-side",
+      "score": 75.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "da7f7252b9fe83b857dc",
+      "span": {
+        "source": "youtube:gZf-qhJt_SM",
+        "start": 350.72,
+        "end": 362.72
+      },
+      "theme": "podcast",
+      "hook": "Comparing GTA 6 to Red Dead Redemption 2.",
+      "setup": "A translated post asks if GTA 6 is simply a slower, more story-driven experience akin to Red Dead 2.",
+      "payoff": "Discussion centers on whether drawn-out gameplay and cinematic scenes match fan expectations.",
+      "evidence": "A tweet comparing GTA 6 to Red Dead 2 with negative commentary on pacing.",
+      "score": 75.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "80fc1f38fa254e9f46e7",
+      "span": {
+        "source": "youtube:Mw4MrVRO_co",
+        "start": 204.0,
+        "end": 240.0
+      },
+      "theme": "discovery",
+      "hook": "Pre-ordering GTA VI on console",
+      "setup": "The streamer shows the Xbox home dashboard with GTA VI pre-ordered.",
+      "payoff": "The game details pop up showing 'Grand Theft Auto VI: Ultimate Edition' and its restricted rating.",
+      "evidence": "Grand Theft Auto VI Ultimate Edition pre-order screen displayed on Xbox interface.",
+      "score": 70.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "438e749c94755afd3bdd",
+      "span": {
+        "source": "youtube:HzzzoomJ-Os",
+        "start": 12513.9,
+        "end": 12530.9
+      },
+      "theme": "driving",
+      "hook": "Driving through a trailer park and commenting on character arms.",
+      "setup": "The player drives the yellow convertible through residential trailer park streets.",
+      "payoff": "The player interacts with the car and navigates to the destination while discussing game details.",
+      "evidence": "Character driving through trailer park environment with mini-map visible.",
+      "score": 70.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "1df180e8da2f04f762f0",
+      "span": {
+        "source": "youtube:Mw4MrVRO_co",
+        "start": 304.0,
+        "end": 350.0
+      },
+      "theme": "mission",
+      "hook": "Checking in on Chapter 2",
+      "setup": "Lucia leans against a motel wall outside Starlet Motel.",
+      "payoff": "Lucia walks out into the open motel parking lot area, transitioning into the new chapter.",
+      "evidence": "Lucia walking along the Starlet Motel walkway in Kelly County.",
+      "score": 65.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "2d3afca442822aa1a362",
+      "span": {
+        "source": "youtube:Ui5eAdG6a-I",
+        "start": 18.64,
+        "end": 28.64
+      },
+      "theme": "chase",
+      "hook": "Security confronts a player at the airport gates.",
+      "setup": "The player drives a pickup truck toward the airport gate while security guards shout final warnings.",
+      "payoff": "The truck crashes through the barrier into the airport tarmac as security opens fire.",
+      "evidence": "Security Guard: Final warning, leave now! Don't make us force you.",
+      "score": 65.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "d11a875a1c93d85da7b6",
+      "span": {
+        "source": "youtube:Ui5eAdG6a-I",
+        "start": 126.64,
+        "end": 160.64
+      },
+      "theme": "mission",
+      "hook": "Sneaking around large cargo planes on the runway.",
+      "setup": "The player runs around parked commercial cargo jets under airport security alert.",
+      "payoff": "The player locates and boards a luxury private jet on the taxiway.",
+      "evidence": "The player runs past Postal Freight and Wayfarer Logistics hangars to enter a private jet.",
+      "score": 60.0,
+      "fingerprint": ""
+    }
+  ],
   "sequences": [
     {
       "span": {
-        "source": "youtube:vVVIWEGciKk",
-        "start": 941.96,
-        "end": 1221.26
+        "source": "youtube:YOxDxdVD4MY",
+        "start": 390.4,
+        "end": 810.4
       },
-      "theme": "discovery",
-      "story": "A comprehensive tour of Grand Theft Auto VI's open world, showcasing swamp aviation, urban exploration, relationship mechanics, and intense rooftop shootouts.",
-      "score": 94.0
+      "theme": "mission",
+      "story": "Lucia helps her mother clean up their dilapidated property, survives an alligator attack in the pool, deals with an armed gang confrontation, and ultimately uses an excavator to demolish the gang's house in retaliation.",
+      "score": 95.0
     },
     {
       "span": {
-        "source": "youtube:3PiR0G3rVw8",
-        "start": 202.1,
-        "end": 482.1
+        "source": "youtube:-UuHA1h-Cf8",
+        "start": 36.24,
+        "end": 427.24
+      },
+      "theme": "chase",
+      "story": "A sustained 6-star police chase beginning inside a military base, breaking out onto country roads, crossing bridges towards Vice City, battling N.O.O.S.E. units and helicopters, and eventually culminating in a 'wasted' screen after extensive damage.",
+      "score": 92.0
+    },
+    {
+      "span": {
+        "source": "youtube:HzzzoomJ-Os",
+        "start": 190.0,
+        "end": 490
       },
       "theme": "mission",
-      "story": "The player navigates a boat through tropical waters, approaches an island camp, uses binoculars to scope out a seaplane deal, and infiltrates the camp grounds.",
+      "story": "Jason explores around his house, interacts with Lucia in the kitchen, gets into his yellow Vapid truck, drives through the neighborhood while using his in-game phone app, and heads to The Rusty Anchor bar to order drinks and meet up with contacts.",
+      "score": 90.0
+    },
+    {
+      "span": {
+        "source": "youtube:CK6XFkFSoyc",
+        "start": 63.08,
+        "end": 366.08
+      },
+      "theme": "discovery",
+      "story": "A comprehensive side-by-side comparison of vehicular physics between Grand Theft Auto VI and Grand Theft Auto IV, testing tire damage, water physics, weight transfer during steering, and rear-end crash deformations.",
+      "score": 90.0
+    },
+    {
+      "span": {
+        "source": "youtube:Wd-vKw3XYP0",
+        "start": 659.57,
+        "end": 919.57
+      },
+      "theme": "discovery",
+      "story": "The player explores the docks, interacts with wildlife, strolls through downtown Vice City at sunset, visits clothing stores, hangs out in a club lounge, and ends up in an escalating police chase after stealing a tour bus.",
+      "score": 90.0
+    },
+    {
+      "span": {
+        "source": "youtube:HzzzoomJ-Os",
+        "start": 12450.9,
+        "end": 12789.4
+      },
+      "theme": "mission",
+      "story": "The player engages in the 'Girls' Trip' mission, driving around Leonida in a convertible, trying out the auto-drive feature, navigating through trailer parks, experiencing a highway crash, and finally arriving at the old boatyard to speak with Dunk's friends.",
       "score": 88.0
     },
     {
       "span": {
-        "source": "youtube:jwwDSn-HW0o",
-        "start": 66.84,
-        "end": 388.84
+        "source": "youtube:CK6XFkFSoyc",
+        "start": 215.97,
+        "end": 514.97
       },
-      "theme": "podcast",
-      "story": "The segment details Rockstar researcher Gregory Johnson's perilous field research in Miami, interviewing former cartel smugglers tied to Pablo Escobar, and how those real experiences shaped the immersive criminal underworld of Grand Theft Auto.",
-      "score": 87.0
+      "theme": "discovery",
+      "story": "A detailed vehicle physics comparison between GTA VI and GTA IV covering burnout smoke, door collisions, and bullet damage.",
+      "score": 88.0
     },
     {
       "span": {
-        "source": "twitch-vod:2932641914",
-        "start": 38279.0,
-        "end": 38539.0
+        "source": "youtube:gZf-qhJt_SM",
+        "start": 18.72,
+        "end": 278.72
       },
-      "theme": "mission",
-      "story": "Jason and Lucia converse outside a building, use the map and phone app BuckMe, and interact in their safehouse.",
-      "score": 85.0
+      "theme": "discovery",
+      "story": "An overview of the massive hype surrounding GTA 6 leading up to its release, followed by immediate backlash, viral glitch reports, and divisive fan opinions on social media during launch day.",
+      "score": 88.0
+    },
+    {
+      "span": {
+        "source": "youtube:8zpkGW2DGCo",
+        "start": 204.0,
+        "end": 482.0
+      },
+      "theme": "driving",
+      "story": "The player exits a safehouse, gets into an SUV, drives through suburban streets to a gas station convenience store, buys supplies and a beverage, and ends up in a street brawl with hostile locals.",
+      "score": 82.0
+    },
+    {
+      "span": {
+        "source": "youtube:Ui5eAdG6a-I",
+        "start": 18.64,
+        "end": 278.64
+      },
+      "theme": "chase",
+      "story": "The player breaches the airport security gate in a truck, evades ground patrols across the tarmac, boards a private jet, and takes off into the skies while police issue air support alerts.",
+      "score": 72.0
     }
   ]
 }
