@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T22:34:20Z",
+  "generated_at": "2026-11-20T03:30:01Z",
   "scanned": {
     "d66f80f00ab35d8f5532": "2026-11-18T12:29:44Z",
     "4f8b3e763c3765bfbfdf": "2026-11-18T12:29:55Z",
@@ -58,6 +58,28 @@
     "3432eb43ccf004100051": "2026-11-19T15:33:03Z",
     "76b449be63961afae961": "2026-11-19T15:33:16Z",
     "c19de4596658d828fb69": "2026-11-19T15:38:41Z",
+    "edf9811e8ded913881f3": "2026-11-19T23:54:45Z",
+    "2f9046a2d648d8bb5962": "2026-11-19T23:55:06Z",
+    "cc87fe369c869c18f105": "2026-11-19T23:55:06Z",
+    "42c238c0630fa8a263df": "2026-11-19T23:55:06Z",
+    "fd10c969a8ce1f38eef6": "2026-11-19T23:56:14Z",
+    "2c34722d60ce76ebc830": "2026-11-19T23:58:20Z",
+    "c471b5a5338f67bffcfa": "2026-11-19T23:58:26Z",
+    "9487375edde5da1c6046": "2026-11-19T23:59:52Z",
+    "864b6974a1738821a682": "2026-11-20T00:01:14Z",
+    "680207e4613aa2c957fe": "2026-11-20T00:01:51Z",
+    "27884456a45d90767339": "2026-11-20T00:01:51Z",
+    "bb5e474b00178326f9d7": "2026-11-20T00:01:51Z",
+    "60f3f3b9027cb73dcd57": "2026-11-20T00:01:59Z",
+    "2d758a8b9a9aa7ca2e0b": "2026-11-20T00:03:37Z",
+    "c17696af1f93c580a409": "2026-11-20T00:05:41Z",
+    "32e11c0de1170213464c": "2026-11-20T00:06:13Z",
+    "a61d64facd6a99d0fb6b": "2026-11-20T00:08:03Z",
+    "5cbbecdd055d09a8b57d": "2026-11-20T00:09:30Z",
+    "af39c0d528280cab1ce9": "2026-11-20T00:10:06Z",
+    "abc0289b2182a7f540de": "2026-11-20T00:10:06Z",
+    "aaab99a9f16efcaa7216": "2026-11-20T00:10:06Z",
+    "37fc5bd7f97afbf33f4f": "2026-11-20T00:10:56Z",
     "bfeb05425a994329bc09": "2026-11-19T06:41:03Z",
     "f88b206f750c0abb3e6e": "2026-11-19T06:44:56Z",
     "6581be64d6ac4603914c": "2026-11-19T06:46:31Z",
@@ -72,27 +94,38 @@
     "027d831562266a849215": "2026-11-19T14:47:48Z",
     "ec3e8372b6d6f2cbe600": "2026-11-19T14:50:22Z",
     "90f90388f8e5aaeff2c9": "2026-11-19T22:13:26Z",
-    "2f9046a2d648d8bb5962": "2026-11-19T22:13:45Z",
-    "cc87fe369c869c18f105": "2026-11-19T22:13:45Z",
-    "42c238c0630fa8a263df": "2026-11-19T22:13:45Z",
     "ff9795888fa07212230c": "2026-11-19T22:13:48Z",
-    "2c34722d60ce76ebc830": "2026-11-19T22:15:50Z",
-    "fd10c969a8ce1f38eef6": "2026-11-19T22:15:54Z",
     "184d3057fad7a47d773b": "2026-11-19T22:17:32Z",
     "85d1947467b205a855e8": "2026-11-19T22:19:14Z",
     "a737663240fef855d6b2": "2026-11-19T22:19:50Z",
     "94748091e4220cbf7952": "2026-11-19T22:19:50Z",
-    "bb5e474b00178326f9d7": "2026-11-19T22:19:50Z",
-    "60f3f3b9027cb73dcd57": "2026-11-19T22:19:56Z",
     "dc2dc4c9d950497422bb": "2026-11-19T22:22:58Z",
-    "c17696af1f93c580a409": "2026-11-19T22:24:45Z",
-    "2d758a8b9a9aa7ca2e0b": "2026-11-19T22:24:49Z",
     "04b3a4b87929c286a77b": "2026-11-19T22:26:18Z",
     "e7c103ee96f35088b691": "2026-11-19T22:28:07Z",
     "6ff9beb58ddc70325455": "2026-11-19T22:28:26Z",
-    "af39c0d528280cab1ce9": "2026-11-19T22:28:26Z",
-    "abc0289b2182a7f540de": "2026-11-19T22:28:26Z",
-    "970214e2ee471eded601": "2026-11-19T22:28:39Z"
+    "970214e2ee471eded601": "2026-11-19T22:28:39Z",
+    "b185d7ef3df9e4e1b14c": "2026-11-20T03:15:17Z",
+    "cf52e6c698cab0796228": "2026-11-20T03:15:39Z",
+    "d7051c0136983eb6e68b": "2026-11-20T03:15:39Z",
+    "b8cbd3f28b7ad6761636": "2026-11-20T03:15:39Z",
+    "5be3872c48f6562ce2f4": "2026-11-20T03:15:44Z",
+    "d3633b46b845bae21486": "2026-11-20T03:16:19Z",
+    "f697b92691050df0c263": "2026-11-20T03:16:24Z",
+    "a5bb52178700b6dccbc0": "2026-11-20T03:17:59Z",
+    "f71b39ab8ba9ae27bf57": "2026-11-20T03:19:54Z",
+    "7e774def3f2d225efc90": "2026-11-20T03:20:16Z",
+    "38aefda7ff2d4220abd1": "2026-11-20T03:20:16Z",
+    "25abd4f29b74c03c9e1d": "2026-11-20T03:20:16Z",
+    "31028ebb491ce150db9b": "2026-11-20T03:20:22Z",
+    "d71306102fa3a51160f0": "2026-11-20T03:21:56Z",
+    "47b074dcb86692386775": "2026-11-20T03:23:15Z",
+    "c3266afbf6e791c54709": "2026-11-20T03:24:50Z",
+    "270dc84fd445046d4f4d": "2026-11-20T03:25:07Z",
+    "a02de63b47294e89f115": "2026-11-20T03:25:07Z",
+    "939859c7639cfdb9b3f3": "2026-11-20T03:25:07Z",
+    "24adb0a6aab7b665c814": "2026-11-20T03:25:12Z",
+    "8ac8cee35692e7b2853e": "2026-11-20T03:26:10Z",
+    "1a800b4ac9934fd8744c": "2026-11-20T03:26:19Z"
   },
   "sources": {
     "youtube:-UuHA1h-Cf8": {
@@ -131,8 +164,8 @@
       "platform": "youtube",
       "title": "MY FIRST DAY IN VICE CITY | GTA 6 GAMEPLAY #1",
       "creator": "Techno Gamerz",
-      "duration": 7650.0,
-      "views": 8298488,
+      "duration": 7516.0,
+      "views": 8892611,
       "published": "2026-11-19T13:30:31Z",
       "rights": "unspecified",
       "anchors": [],
@@ -149,6 +182,21 @@
       "duration": 2606.0,
       "views": 637527,
       "published": "2026-11-18T22:30:28Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:AbMP2JHRinA": {
+      "key": "youtube:AbMP2JHRinA",
+      "url": "https://www.youtube.com/watch?v=AbMP2JHRinA",
+      "platform": "youtube",
+      "title": "GTA 6 OPEN WORLD GAMEPLAY..",
+      "creator": "Hollow",
+      "duration": 5038.0,
+      "views": 469588,
+      "published": "2026-11-19T06:53:56Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
@@ -177,7 +225,7 @@
       "title": "GTA 6 Walkthrough Gameplay Part 2 - JASON DUVAL (GRAND THEFT AUTO 6)",
       "creator": "theRadBrad",
       "duration": 3741.0,
-      "views": 711145,
+      "views": 1048290,
       "published": "2026-11-19T15:00:35Z",
       "rights": "unspecified",
       "anchors": [],
@@ -192,7 +240,7 @@
       "title": "🔴 LIVE! - GTA 6 EARLY ACCESS with TYPICAL GAMER! (PS5 PRO)",
       "creator": "Typical Gamer",
       "duration": 35745.0,
-      "views": 2691994,
+      "views": 2734478,
       "published": "2026-11-19T01:16:55Z",
       "rights": "unspecified",
       "anchors": [],
@@ -209,6 +257,36 @@
       "duration": 14121.0,
       "views": 124864,
       "published": "2026-11-18T22:45:12Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:NygbUcwILO8": {
+      "key": "youtube:NygbUcwILO8",
+      "url": "https://www.youtube.com/watch?v=NygbUcwILO8",
+      "platform": "youtube",
+      "title": "GTA 6 - 100% Walkthrough Part 2 | 4K Livestream [No Commentary]",
+      "creator": "GTA Series Videos",
+      "duration": 42898.0,
+      "views": 418894,
+      "published": "2026-11-19T09:11:21Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:T1vPOG71oHk": {
+      "key": "youtube:T1vPOG71oHk",
+      "url": "https://www.youtube.com/watch?v=T1vPOG71oHk",
+      "platform": "youtube",
+      "title": "GTA 6 ULTIMATE BEGINNERS GUIDE! 32 Tips You NEED to Know (Don't Make These Mistakes)",
+      "creator": "MrDalekJD",
+      "duration": 1279.0,
+      "views": 680794,
+      "published": "2026-11-19T10:27:23Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
@@ -237,7 +315,7 @@
       "title": "GTA 6 – I Stole a Plane From the Airport and Fighter Jets Chased Me!",
       "creator": "Champs Network",
       "duration": 492.0,
-      "views": 37674,
+      "views": 279796,
       "published": "2026-11-18T23:14:23Z",
       "rights": "unspecified",
       "anchors": [],
@@ -252,7 +330,7 @@
       "title": "Grand Theft Auto 6 Gameplay and Impressions...",
       "creator": "jackfrags",
       "duration": 2218.0,
-      "views": 2356613,
+      "views": 2759744,
       "published": "2026-11-18T22:04:15Z",
       "rights": "unspecified",
       "anchors": [],
@@ -290,6 +368,36 @@
       "parent_offset": null,
       "recording": false
     },
+    "youtube:eEERhKQZWmY": {
+      "key": "youtube:eEERhKQZWmY",
+      "url": "https://www.youtube.com/watch?v=eEERhKQZWmY",
+      "platform": "youtube",
+      "title": "The Beginning of GTA 6.. (Ep. 1)",
+      "creator": "Caylus  ",
+      "duration": 13661.0,
+      "views": 1963954,
+      "published": "2026-11-19T03:03:19Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:ey0qks0aQ-c": {
+      "key": "youtube:ey0qks0aQ-c",
+      "url": "https://www.youtube.com/watch?v=ey0qks0aQ-c",
+      "platform": "youtube",
+      "title": "GTA 6 - Ocean Beach Shootout + Five Star Escape",
+      "creator": "Mike The Goon",
+      "duration": 861.0,
+      "views": 371150,
+      "published": "2026-11-19T11:46:27Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
     "youtube:fJUt1YegOB0": {
       "key": "youtube:fJUt1YegOB0",
       "url": "https://www.youtube.com/watch?v=fJUt1YegOB0",
@@ -299,6 +407,21 @@
       "duration": 296.0,
       "views": 42308,
       "published": "2026-11-18T23:00:57Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:gBLQ-t_tywk": {
+      "key": "youtube:gBLQ-t_tywk",
+      "url": "https://www.youtube.com/watch?v=gBLQ-t_tywk",
+      "platform": "youtube",
+      "title": "GTA 6 - Full Game Walkthrough (No Commentary) 100% 4K",
+      "creator": "Sirloin",
+      "duration": 41658.0,
+      "views": 523058,
+      "published": "2026-11-19T09:31:32Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
@@ -335,6 +458,21 @@
       "parent_offset": null,
       "recording": false
     },
+    "youtube:lEkrxBXqhKg": {
+      "key": "youtube:lEkrxBXqhKg",
+      "url": "https://www.youtube.com/watch?v=lEkrxBXqhKg",
+      "platform": "youtube",
+      "title": "TIMTHETATMAN GTA 6 PLAYTHROUGH (DAY 2)",
+      "creator": "TimTheTatman",
+      "duration": 26796.0,
+      "views": 425246,
+      "published": "2026-11-19T15:02:31Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
     "youtube:oyHFwPNd_c4": {
       "key": "youtube:oyHFwPNd_c4",
       "url": "https://www.youtube.com/watch?v=oyHFwPNd_c4",
@@ -342,8 +480,23 @@
       "title": "So I Played GTA 6..",
       "creator": "Asmongold TV  ",
       "duration": 32523.0,
-      "views": 2559983,
+      "views": 2899298,
       "published": "2026-11-19T05:07:12Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:uZGnqBLC60Y": {
+      "key": "youtube:uZGnqBLC60Y",
+      "url": "https://www.youtube.com/watch?v=uZGnqBLC60Y",
+      "platform": "youtube",
+      "title": "IT'S FINALLY HERE | Grand Theft Auto 6 - Part 1",
+      "creator": "jacksepticeye",
+      "duration": 10485.0,
+      "views": 2845695,
+      "published": "2026-11-18T23:47:15Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
@@ -398,6 +551,21 @@
       "fingerprint": "860f4d0c0f03c3cd.0d2e2c4d993af3d3.4c4ca5291bc9b387"
     },
     {
+      "id": "11fa8c3f1ec23f2a45ab",
+      "span": {
+        "source": "youtube:T1vPOG71oHk",
+        "start": 712.97,
+        "end": 747.97
+      },
+      "theme": "mission",
+      "hook": "Can you really use your in-game phone to repair your car?",
+      "setup": "The player drives a pickup truck, wrecks it into a pole, and takes out their phone.",
+      "payoff": "The player uses the phone contact menu to call Joey, showing early game vehicle repair mechanics.",
+      "evidence": "Vehicle crashes into a pole, player uses phone contacts to select Joey.",
+      "score": 83.0,
+      "fingerprint": "a0a030300000c6c0.86ce4eaec733eac0.88180c120e1cdac3"
+    },
+    {
       "id": "10acd9bceafe92fe34a7",
       "span": {
         "source": "youtube:xgZCLTZbvs8",
@@ -414,6 +582,81 @@
     }
   ],
   "pending": [
+    {
+      "id": "a6a5c2574da5a74f3caf",
+      "span": {
+        "source": "youtube:eEERhKQZWmY",
+        "start": 6458.79,
+        "end": 6502.79
+      },
+      "theme": "stunt",
+      "hook": "Jason hits the bench press on his porch.",
+      "setup": "The player interacts with the weight rack and selects a strength workout.",
+      "payoff": "Jason completes the reps, gains stats, and the player comments on being jacked.",
+      "evidence": "Strength Workout +11% on screen",
+      "score": 85.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "09fdfe6f2621a21ed180",
+      "span": {
+        "source": "youtube:CukTYtF72KY",
+        "start": 2881.43,
+        "end": 2934.43
+      },
+      "theme": "discovery",
+      "hook": "Exploring the underwater trench with NPC friends.",
+      "setup": "Jason and his friends swim through underwater coral reefs and chat about sea ghosts and jellyfish.",
+      "payoff": "The group discovers a sunken shipwreck on the ocean floor.",
+      "evidence": "The prompt on screen saying 'Underwater Discoveries 1 / 33' as they find the wreck.",
+      "score": 85.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "f61fb45c1226767896b1",
+      "span": {
+        "source": "youtube:T1vPOG71oHk",
+        "start": 738.97,
+        "end": 776.97
+      },
+      "theme": "discovery",
+      "hook": "Need a fast-travel system in GTA VI?",
+      "setup": "The presenter highlights Paradise Taxi as a way to skip long drives across the map.",
+      "payoff": "The player dials Paradise Taxi, enters the vehicle, and discusses skipping the drive.",
+      "evidence": "Phone contacts showing Paradise Taxi and player entering the taxi.",
+      "score": 85.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "3d5233dbf8fcda18eabd",
+      "span": {
+        "source": "youtube:AbMP2JHRinA",
+        "start": 2840.07,
+        "end": 2877.07
+      },
+      "theme": "comedy",
+      "hook": "An unhinged beach NPC ranting about singularities and metadata.",
+      "setup": "The player approaches a man in yellow shorts on the beach who is talking about intellectual gradient descent.",
+      "payoff": "The player punches the NPC, sending him tumbling onto the sand.",
+      "evidence": "NPC dialogue mentioning metadata and player reaction at 0:30",
+      "score": 85.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "d25e515b1e68c8905376",
+      "span": {
+        "source": "youtube:lEkrxBXqhKg",
+        "start": 11183.42,
+        "end": 11203.42
+      },
+      "theme": "mission",
+      "hook": "Lucia returns a stolen necklace to Linda at a desk.",
+      "setup": "Linda tells Linda she will take good care of the necklace, leading to negotiations.",
+      "payoff": "Linda agrees and walks away, telling Lucia not to keep her waiting.",
+      "evidence": "Lucia hands the necklace to Linda at the counter.",
+      "score": 85.0,
+      "fingerprint": ""
+    },
     {
       "id": "7b99ca4b45b561045492",
       "span": {
@@ -460,21 +703,6 @@
       "fingerprint": ""
     },
     {
-      "id": "8c54a6ec89f8cf593ef5",
-      "span": {
-        "source": "youtube:169ZzvPxvvM",
-        "start": 5273.53,
-        "end": 5315.53
-      },
-      "theme": "discovery",
-      "hook": "Hygiene and pet care routine",
-      "setup": "The player checks the bathroom to freshen up and take a shower, then feeds the snake.",
-      "payoff": "The snake in the terrarium coils up to eat the food, and the player gets a focus buff.",
-      "evidence": "Freshen up hokar aur focus mila. Let's go apne saamp ko bhi kha... bhai yaar bahut saare task hain yaar.",
-      "score": 80.0,
-      "fingerprint": ""
-    },
-    {
       "id": "1b22cdf468f735bbf788",
       "span": {
         "source": "youtube:CukTYtF72KY",
@@ -490,18 +718,93 @@
       "fingerprint": ""
     },
     {
-      "id": "6d908d550cd892aa37bd",
+      "id": "aacd99ce65ffb8fa75d3",
       "span": {
-        "source": "youtube:Mw4MrVRO_co",
-        "start": 8370.21,
-        "end": 8410.21
+        "source": "youtube:gBLQ-t_tywk",
+        "start": 29156.6,
+        "end": 29196.6
       },
-      "theme": "driving",
-      "hook": "Grabbing a white sedan to start a heist preparation.",
-      "setup": "The player runs from a drone stand to hijack an Ocelot Jugular parked on the street.",
-      "payoff": "Driving through industrial gates to reach the mission objective.",
-      "evidence": "Hijacking the white sedan labeled 'OCELOT JUGULAR' and driving off.",
-      "score": 78.0,
+      "theme": "mission",
+      "hook": "Planning a heist in a dark room with a female associate.",
+      "setup": "Jason climbs through back alleyways and doors to reach the planning room.",
+      "payoff": "Discussion about rewriting files and security access.",
+      "evidence": "Characters discuss heist plans in an indoor office setting.",
+      "score": 80.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "6b16edb3d63a6777e007",
+      "span": {
+        "source": "youtube:oyHFwPNd_c4",
+        "start": 11280.73,
+        "end": 11289.73
+      },
+      "theme": "discovery",
+      "hook": "Visiting the liquor store counter.",
+      "setup": "Jason walks inside Three Sheets Liquor to interact with the clerk behind the counter.",
+      "payoff": "The clerk tells Jason to pick up Shirley's rum from the back and complains about her tab.",
+      "evidence": "Clerk says 'The Salty Squid, right? Kept it back here for her.'",
+      "score": 80.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "ff24dad7f07274f2ea79",
+      "span": {
+        "source": "youtube:169ZzvPxvvM",
+        "start": 6095.68,
+        "end": 6107.68
+      },
+      "theme": "discovery",
+      "hook": "How do NPCs and animals react when you interact with them?",
+      "setup": "The player walks up to a Doberman dog on a wooden pier.",
+      "payoff": "The player pets the dog, and it stands up to greet them enthusiastically.",
+      "evidence": "Select pet option to trigger the dog animation.",
+      "score": 80.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "4fc5cdd586322873b35a",
+      "span": {
+        "source": "youtube:T1vPOG71oHk",
+        "start": 1078.97,
+        "end": 1132.97
+      },
+      "theme": "discovery",
+      "hook": "Is there a first-person mode in GTA 6?",
+      "setup": "The presenter addresses rumors about first-person mode by checking the settings menu.",
+      "payoff": "The video clarifies that only camera height settings exist, not a true first-person mode.",
+      "evidence": "Gameplay showing third-person perspective and discussion of camera height options.",
+      "score": 80.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "e4655cb947b1a04d42f4",
+      "span": {
+        "source": "youtube:lEkrxBXqhKg",
+        "start": 11213.42,
+        "end": 11233.42
+      },
+      "theme": "discovery",
+      "hook": "Lucia checks the detailed game map of Leonida.",
+      "setup": "The map displays regions like Vice-Dale County and Kelly County with specific objective markers.",
+      "payoff": "Lucia sets a destination marker to move an ambulance and collect supplies.",
+      "evidence": "Map interface showing Leonida counties and objective prompts.",
+      "score": 80.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "c0ef9de99bd7f9236484",
+      "span": {
+        "source": "youtube:NygbUcwILO8",
+        "start": 12351.19,
+        "end": 12395.19
+      },
+      "theme": "discovery",
+      "hook": "Checking the contents of a stolen bag in a motel room.",
+      "setup": "Lucia retrieves a hidden bag from the motel bathroom and places it on the bed.",
+      "payoff": "They discover an antique statue with a note and a Bastion hard drive inside.",
+      "evidence": "Lucia unboxing a small statue and a hard drive while Jason watches from bed.",
+      "score": 80.0,
       "fingerprint": ""
     },
     {
@@ -531,6 +834,66 @@
       "setup": "Jason walks into the living area and accesses the wardrobe closet.",
       "payoff": "He browses multiple outfits and puts on a classic curb chain necklace before checking his reflection.",
       "evidence": "Jason selects a shirt and adds a chain necklace from the wardrobe menu.",
+      "score": 78.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "cd55264aaf65ff9c45e7",
+      "span": {
+        "source": "youtube:oyHFwPNd_c4",
+        "start": 305.0,
+        "end": 350.0
+      },
+      "theme": "mission",
+      "hook": "I'm Jason.",
+      "setup": "Jason and Lucia sit inside a car at night discussing their names and next steps.",
+      "payoff": "Jason introduces himself and suggests they go have some fun.",
+      "evidence": "Jason states, \"I'm Jason,\" and Lucia replies, \"Lucia.\"",
+      "score": 78.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "bcb2c3022b0b72a3a428",
+      "span": {
+        "source": "youtube:oyHFwPNd_c4",
+        "start": 20954.64,
+        "end": 20970.64
+      },
+      "theme": "mission",
+      "hook": "A close call during a river flight sequence.",
+      "setup": "The player flies the plane low over the water while characters converse.",
+      "payoff": "The plane nearly clips a boat while executing a maneuver.",
+      "evidence": "That was honestly like I'm just getting so good at this point.",
+      "score": 78.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "8f9ecbfa2e0091d1a99b",
+      "span": {
+        "source": "youtube:CukTYtF72KY",
+        "start": 2158.91,
+        "end": 2173.91
+      },
+      "theme": "discovery",
+      "hook": "Jason uses a drill and screws to fix up the drywall inside his home.",
+      "setup": "Jason picks up a power drill to perform home improvement tasks.",
+      "payoff": "He fastens drywall panels to the wooden framework.",
+      "evidence": "Jason drills screws into drywall panels on interior framing.",
+      "score": 78.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "63467083411a695ccfc0",
+      "span": {
+        "source": "youtube:169ZzvPxvvM",
+        "start": 5159.16,
+        "end": 5178.16
+      },
+      "theme": "driving",
+      "hook": "Driving out into the open world",
+      "setup": "The player gets into a pickup truck and heads out onto the highway to explore the map.",
+      "payoff": "The player navigates traffic and maps out a route to nearby towns.",
+      "evidence": "Driving a Vapid pickup truck on Sunbelt Hwy",
       "score": 78.0,
       "fingerprint": ""
     },
@@ -640,6 +1003,126 @@
       "fingerprint": ""
     },
     {
+      "id": "635138ad747c900f9ec5",
+      "span": {
+        "source": "youtube:Ui5eAdG6a-I",
+        "start": 310.64,
+        "end": 366.64
+      },
+      "theme": "chase",
+      "hook": "Fighter jets engage the stolen private jet.",
+      "setup": "Military fighter jets appear alongside the private jet, demanding an immediate landing.",
+      "payoff": "The fighter jets damage the private jet's engines, causing thick black smoke to trail behind.",
+      "evidence": "Pilot: Land the aircraft. We will engage.",
+      "score": 75.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "218bd3a0171b30c16905",
+      "span": {
+        "source": "youtube:HzzzoomJ-Os",
+        "start": 12666.4,
+        "end": 12694.4
+      },
+      "theme": "mission",
+      "hook": "Arriving at the boatyard warehouse.",
+      "setup": "Driving through rural paths to find Dunk's friends at an old boathouse.",
+      "payoff": "Entering the dilapidated warehouse and confronting NPCs in cutscene dialogue.",
+      "evidence": "Sup, fuckos?",
+      "score": 75.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "dc74dfa19781d4a740d7",
+      "span": {
+        "source": "youtube:gBLQ-t_tywk",
+        "start": 28866.6,
+        "end": 28896.6
+      },
+      "theme": "driving",
+      "hook": "Jason hijacks a teal convertible sports car.",
+      "setup": "Jason runs from a scooter to the middle of the street.",
+      "payoff": "Jason kicks the driver out and speeds off down Ocean Beach.",
+      "evidence": "Jason runs to the car and drives away.",
+      "score": 75.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "9ccbccb6f51f505c9fe4",
+      "span": {
+        "source": "youtube:169ZzvPxvvM",
+        "start": 5061.16,
+        "end": 5079.16
+      },
+      "theme": "mission",
+      "hook": "Heavy squats in the morning",
+      "setup": "The player chooses to do a heavy workout to build character strength before exploring the city.",
+      "payoff": "The player successfully completes the workout routine, gaining a strength buff.",
+      "evidence": "Strength Workout +11%",
+      "score": 75.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "952a277f15beeb8894f5",
+      "span": {
+        "source": "youtube:oyHFwPNd_c4",
+        "start": 11020.73,
+        "end": 11029.73
+      },
+      "theme": "discovery",
+      "hook": "Jason inspects items at a yard sale.",
+      "setup": "Jason approaches a table displaying items like sunglasses and books in a residential yard.",
+      "payoff": "He tries on a pair of round violet sunglasses and purchases them for two dollars.",
+      "evidence": "Jason puts on the purple glasses as the purchase prompt appears on screen.",
+      "score": 75.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "4757aefa43e7de21b974",
+      "span": {
+        "source": "youtube:eEERhKQZWmY",
+        "start": 6604.69,
+        "end": 6616.69
+      },
+      "theme": "driving",
+      "hook": "Jason hops into his yellow pickup truck.",
+      "setup": "The player runs down the stairs from the house and heads to the vehicle parked outside.",
+      "payoff": "Jason gets behind the wheel and starts driving down the road.",
+      "evidence": "Jason's '70 Ganado displayed on screen",
+      "score": 75.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "b6817a277ec5333c2d56",
+      "span": {
+        "source": "youtube:CukTYtF72KY",
+        "start": 2803.43,
+        "end": 2836.43
+      },
+      "theme": "discovery",
+      "hook": "Jason preps his dive gear on the boat charter.",
+      "setup": "The group of friends chat and joke on the back of the Island Dreams boat before diving into the ocean.",
+      "payoff": "Jason equips his scuba gear and jumps into the water to lead the bachelor party down.",
+      "evidence": "Jason saying 'Okay, let's gear up!' and jumping into the water.",
+      "score": 75.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "c7e4c65df4b8acd52c7c",
+      "span": {
+        "source": "youtube:lEkrxBXqhKg",
+        "start": 11237.42,
+        "end": 11268.42
+      },
+      "theme": "driving",
+      "hook": "Lucia visits the Alpha Gas Station to purchase supplies.",
+      "setup": "Lucia browses store shelves selecting fuel tank protein bars, soup, and bandanas.",
+      "payoff": "Lucia completes purchases at the store and prepares to return to the motel.",
+      "evidence": "Inventory selection screen for store items at Alpha Gas Station.",
+      "score": 75.0,
+      "fingerprint": ""
+    },
+    {
       "id": "80fc1f38fa254e9f46e7",
       "span": {
         "source": "youtube:Mw4MrVRO_co",
@@ -700,6 +1183,51 @@
       "fingerprint": ""
     },
     {
+      "id": "ad5eac84197d30a86ce7",
+      "span": {
+        "source": "youtube:gBLQ-t_tywk",
+        "start": 416.0,
+        "end": 446.0
+      },
+      "theme": "mission",
+      "hook": "Valet service vehicle arrival",
+      "setup": "Jason and Lucia request a vehicle from the hotel valet.",
+      "payoff": "A black SUV arrives at the hotel entrance and they enter it.",
+      "evidence": "Black SUV pulling up at 3:46",
+      "score": 70.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "92a67e26882c8fa3de87",
+      "span": {
+        "source": "youtube:gBLQ-t_tywk",
+        "start": 29026.6,
+        "end": 29056.6
+      },
+      "theme": "driving",
+      "hook": "Ordering a rideshare app on the smartphone.",
+      "setup": "Jason uses the phone to call a 'RydeMe' vehicle.",
+      "payoff": "A blue sedan arrives, and Jason enters as a passenger.",
+      "evidence": "Smartphone app shows 'RydeMe' and car picks him up.",
+      "score": 70.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "03a9b21d658ef9019ee4",
+      "span": {
+        "source": "youtube:HzzzoomJ-Os",
+        "start": 11878.38,
+        "end": 11902.08
+      },
+      "theme": "mission",
+      "hook": "Lucia meets the club owner Frankie Delight.",
+      "setup": "Lucia enters the back rooms of Delights cabaret and encounters Frankie Delight.",
+      "payoff": "Frankie greets Lucia and discusses her paycheck.",
+      "evidence": "Character named Frankie Delight wearing a cowboy hat interacting with Lucia.",
+      "score": 70.0,
+      "fingerprint": ""
+    },
+    {
       "id": "1df180e8da2f04f762f0",
       "span": {
         "source": "youtube:Mw4MrVRO_co",
@@ -730,6 +1258,36 @@
       "fingerprint": ""
     },
     {
+      "id": "dbd7cafe8ac425b2bc34",
+      "span": {
+        "source": "youtube:gBLQ-t_tywk",
+        "start": 306.0,
+        "end": 330.0
+      },
+      "theme": "mission",
+      "hook": "Conversing at the front desk",
+      "setup": "Lucia and Jason talk to the receptionist at the 'Y' hotel lobby.",
+      "payoff": "The receptionist explains valet and car rental options with Status Auto Imports in Bayside.",
+      "evidence": "Receptionist speaking at hotel desk at 2:43",
+      "score": 65.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "eac187720344bac81d82",
+      "span": {
+        "source": "youtube:oyHFwPNd_c4",
+        "start": 21075.64,
+        "end": 21092.64
+      },
+      "theme": "discovery",
+      "hook": "The player checks out a magazine inside the house.",
+      "setup": "The character walks inside and inspects a prop item.",
+      "payoff": "The 'Off The Hook Reel Talk' magazine cover is displayed close up.",
+      "evidence": "Magazines, Books & Comics",
+      "score": 65.0,
+      "fingerprint": ""
+    },
+    {
       "id": "d11a875a1c93d85da7b6",
       "span": {
         "source": "youtube:Ui5eAdG6a-I",
@@ -741,6 +1299,36 @@
       "setup": "The player runs around parked commercial cargo jets under airport security alert.",
       "payoff": "The player locates and boards a luxury private jet on the taxiway.",
       "evidence": "The player runs past Postal Freight and Wayfarer Logistics hangars to enter a private jet.",
+      "score": 60.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "bc886acf534f06210ce3",
+      "span": {
+        "source": "youtube:gBLQ-t_tywk",
+        "start": 76.0,
+        "end": 105.0
+      },
+      "theme": "driving",
+      "hook": "Driving through city traffic",
+      "setup": "Jason drives a silver sedan on a highway bridge heading towards downtown Vice City.",
+      "payoff": "The car slides off the road onto the sidewalk before continuing.",
+      "evidence": "Visual of the silver sedan sliding on the road at 1:25",
+      "score": 60.0,
+      "fingerprint": ""
+    },
+    {
+      "id": "acbb6b34b9054029bb37",
+      "span": {
+        "source": "youtube:HzzzoomJ-Os",
+        "start": 11835.08,
+        "end": 11848.68
+      },
+      "theme": "driving",
+      "hook": "Lucia drives through town discussing her plans.",
+      "setup": "Lucia drives a convertible down a rural road past construction barrels.",
+      "payoff": "Lucia pulls up to a local establishment and parks.",
+      "evidence": "Lucia driving a convertible vehicle with dialogue about her friend.",
       "score": 60.0,
       "fingerprint": ""
     }
@@ -828,6 +1416,36 @@
     },
     {
       "span": {
+        "source": "youtube:CukTYtF72KY",
+        "start": 181.0,
+        "end": 441.0
+      },
+      "theme": "driving",
+      "story": "Jason stashes his money under the floorboards, explores his living quarters, takes a phone call from Brian about rent collection, rides his motorcycle through Key Lento, and drives down the highway while taking another phone call.",
+      "score": 90.0
+    },
+    {
+      "span": {
+        "source": "youtube:oyHFwPNd_c4",
+        "start": 11090.73,
+        "end": 11375.73
+      },
+      "theme": "mission",
+      "story": "Jason checks his map for a neighbor's request, jogs across town to the liquor store while interacting with the environment, purchases the item from the clerk, and delivers it back to Shirley on her porch.",
+      "score": 88.0
+    },
+    {
+      "span": {
+        "source": "youtube:AbMP2JHRinA",
+        "start": 2840.07,
+        "end": 3100.07
+      },
+      "theme": "discovery",
+      "story": "The player explores the open beach area, interacts with eccentric NPCs, encounters various animals including dogs and cats, steals a boat to escape into the ocean, and navigates back to the shore.",
+      "score": 88.0
+    },
+    {
+      "span": {
         "source": "youtube:oyHFwPNd_c4",
         "start": 85.0,
         "end": 345.0
@@ -854,6 +1472,26 @@
       },
       "theme": "discovery",
       "story": "An overview of the massive hype surrounding GTA 6 leading up to its release, followed by immediate backlash, viral glitch reports, and divisive fan opinions on social media during launch day.",
+      "score": 88.0
+    },
+    {
+      "span": {
+        "source": "youtube:uZGnqBLC60Y",
+        "start": 6351.02,
+        "end": 6616.02
+      },
+      "theme": "mission",
+      "story": "Jason interacts with contacts at the auto shop, navigates house repairs and map markers, drives through Leonida neighborhoods, and picks up Brian at a pool bar to investigate missing contacts.",
+      "score": 88.0
+    },
+    {
+      "span": {
+        "source": "youtube:AbMP2JHRinA",
+        "start": 2632.26,
+        "end": 2912.26
+      },
+      "theme": "discovery",
+      "story": "Jason travels from city streets on a moped to the beach, interacts with an AI-obsessed eccentric stranger, and encounters wildlife on the shore.",
       "score": 88.0
     },
     {
@@ -894,6 +1532,26 @@
       },
       "theme": "driving",
       "story": "Jason drives around the neighborhood in a pickup truck, visits the hotel to talk with Brian, and drives off toward the radar station.",
+      "score": 85.0
+    },
+    {
+      "span": {
+        "source": "youtube:gBLQ-t_tywk",
+        "start": 28866.6,
+        "end": 29146.6
+      },
+      "theme": "driving",
+      "story": "Jason navigates the streets of Ocean Beach, steals a car, goes for an unintended swim in the canal, climbs back up, and calls a rideshare to his next destination.",
+      "score": 85.0
+    },
+    {
+      "span": {
+        "source": "youtube:ey0qks0aQ-c",
+        "start": 265.07,
+        "end": 595.07
+      },
+      "theme": "chase",
+      "story": "The player initiates a prolonged shootout in an alleyway, steals a police cruiser, rams through traffic while exchanging fire with pursuing units, scales rooftops around a pool area, utilizes elevators to ambush N.O.O.S.E. officers, and navigates various rooftop encounters.",
       "score": 85.0
     },
     {
