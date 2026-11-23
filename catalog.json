@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-23T10:04:30Z",
+  "generated_at": "2026-11-23T12:17:35Z",
   "scanned": {
     "d66f80f00ab35d8f5532": "2026-11-18T12:29:44Z",
     "4f8b3e763c3765bfbfdf": "2026-11-18T12:29:55Z",
@@ -211,6 +211,79 @@
     "b151c81b0a96b23b8121": "2026-11-23T07:37:42Z",
     "81c6ae91cdd14e1722d1": "2026-11-23T07:43:18Z",
     "13764244addb5eef5f13": "2026-11-23T07:43:39Z",
+    "d60f20172e075feb2ec1": "2026-11-23T08:34:02Z",
+    "5ef5f6beea9bfa7ce570": "2026-11-23T08:34:44Z",
+    "0aa271708f13365154c4": "2026-11-23T08:34:44Z",
+    "b7116f1ba4667bebc180": "2026-11-23T08:34:44Z",
+    "43098d5b2a7d44023f9d": "2026-11-23T08:34:48Z",
+    "ef3f11adaea1af0cf815": "2026-11-23T08:35:24Z",
+    "68b71bd9c3f8dac79fcd": "2026-11-23T08:43:36Z",
+    "8e5e188fe93c4942461b": "2026-11-23T08:43:36Z",
+    "ee0c6fb859205b3fc30c": "2026-11-23T08:35:29Z",
+    "12f0ca15c47e36562280": "2026-11-23T08:37:32Z",
+    "65a0ab930491fccebb33": "2026-11-23T08:37:38Z",
+    "f111b750432244f9abcf": "2026-11-23T08:43:36Z",
+    "e21008acc9e2b5626365": "2026-11-23T08:38:01Z",
+    "1f680130328d23580301": "2026-11-23T08:38:01Z",
+    "bb262161274d4c831eb2": "2026-11-23T08:38:06Z",
+    "8978df64e8e2061cc764": "2026-11-23T08:38:37Z",
+    "4843cfe7bbd48dfa101d": "2026-11-23T08:38:37Z",
+    "0aeb77742ed9fbc6a882": "2026-11-23T08:38:37Z",
+    "9d8f9f6f825e54489875": "2026-11-23T08:38:42Z",
+    "88cde0786cbaa2c59598": "2026-11-23T08:40:32Z",
+    "65b2f29cb5ab76d87884": "2026-11-23T08:40:38Z",
+    "993815cb87cc5d5ab90e": "2026-11-23T08:41:00Z",
+    "2921def59c341171920b": "2026-11-23T08:41:00Z",
+    "33f609cbb76a9019ce8e": "2026-11-23T08:41:00Z",
+    "5f56ffd7cc3304239082": "2026-11-23T08:41:05Z",
+    "f54ffdbb35f539ffe673": "2026-11-23T08:41:27Z",
+    "1a7ab6b9b3966b7bd853": "2026-11-23T08:41:27Z",
+    "e731de458fc222ccaf0d": "2026-11-23T08:41:27Z",
+    "57e43b75e3330fdae637": "2026-11-23T08:41:32Z",
+    "1ae860c8e3b01b951e50": "2026-11-23T08:42:46Z",
+    "986f099a1d099b4bf796": "2026-11-23T08:42:52Z",
+    "9034751ac24ec3eb85cf": "2026-11-23T08:43:25Z",
+    "f185e8748b7767214e4d": "2026-11-23T08:43:25Z",
+    "d7b5a3708ffccd45177f": "2026-11-23T08:43:25Z",
+    "cd4f9d2eb5dd0e5edf3f": "2026-11-23T11:02:13Z",
+    "de35716abebf61cd12ec": "2026-11-23T11:02:13Z",
+    "bb491f59f8457b1cd7d4": "2026-11-23T11:02:13Z",
+    "acfe9171a390725e3de4": "2026-11-23T11:02:50Z",
+    "de04f4cc0316abf81e52": "2026-11-23T11:02:50Z",
+    "69140ee37a27ecfe7282": "2026-11-23T11:02:50Z",
+    "e036af0d706ab33ab780": "2026-11-23T11:04:39Z",
+    "05243e48c8ff22509d29": "2026-11-23T11:05:05Z",
+    "b8ad4bd4af1c1805819d": "2026-11-23T11:05:05Z",
+    "8b66e91cd206b0a1b46d": "2026-11-23T11:05:05Z",
+    "6eea34f31eefb9588acb": "2026-11-23T11:05:32Z",
+    "c86604eadb5272569333": "2026-11-23T11:05:32Z",
+    "adb9e26ef98b36181f08": "2026-11-23T11:05:32Z",
+    "9c3ac4ec6c08a16eaf02": "2026-11-23T11:07:23Z",
+    "f2ec20daa44d70819b97": "2026-11-23T11:08:14Z",
+    "f4193c50bcb843973439": "2026-11-23T11:08:14Z",
+    "06420910b03333cd80be": "2026-11-23T11:08:14Z",
+    "804a46f908a0d18d4ca2": "2026-11-23T11:08:42Z",
+    "1df55772fe80d0fc27cf": "2026-11-23T11:08:42Z",
+    "abd34f4078b6185e6756": "2026-11-23T11:08:42Z",
+    "a5acb19c39d6c0fa9c69": "2026-11-23T11:10:22Z",
+    "0b83c0379e73e5c3c260": "2026-11-23T11:10:47Z",
+    "96e65c789aa127e98ed1": "2026-11-23T11:10:47Z",
+    "ca871dddd13bce6c6047": "2026-11-23T11:10:47Z",
+    "4dd29e5fb8f1da528bac": "2026-11-23T11:11:15Z",
+    "5f379851764418c03f98": "2026-11-23T11:11:15Z",
+    "c6407835752ab7d9b8da": "2026-11-23T11:11:15Z",
+    "9b8fc4593984d1634af8": "2026-11-23T11:12:17Z",
+    "14c5ab495e7aceb4c70b": "2026-11-23T11:12:36Z",
+    "353bd1fc2751e921fa4d": "2026-11-23T11:12:36Z",
+    "57c6a5c1a1eb36c332fb": "2026-11-23T11:12:36Z",
+    "ce433a7f3a6aa032e123": "2026-11-23T11:12:57Z",
+    "2eed10564d81df81c365": "2026-11-23T11:12:57Z",
+    "216426a3cf3b3cf5a537": "2026-11-23T11:14:22Z",
+    "23f1afa2dc7f99468460": "2026-11-23T11:16:13Z",
+    "a6f0f17fa33501829489": "2026-11-23T11:17:12Z",
+    "2e3f99a5a9b0ffb9076b": "2026-11-23T11:18:09Z",
+    "aadbb3473fe02bfe0a27": "2026-11-23T11:20:04Z",
+    "208a33d2c5b3e5334048": "2026-11-23T11:21:51Z",
     "bfeb05425a994329bc09": "2026-11-19T06:41:03Z",
     "f88b206f750c0abb3e6e": "2026-11-19T06:44:56Z",
     "6581be64d6ac4603914c": "2026-11-19T06:46:31Z",
@@ -325,7 +398,6 @@
     "b9b3f9cc57c7ca26c4b7": "2026-11-22T18:14:15Z",
     "2b63ba673df8c9a335bd": "2026-11-23T03:52:42Z",
     "7ebcbdf3fb1121496145": "2026-11-23T03:52:42Z",
-    "06420910b03333cd80be": "2026-11-23T03:52:42Z",
     "17fba31ee09827ab6401": "2026-11-23T03:52:50Z",
     "b142501319d787abc95f": "2026-11-23T03:54:41Z",
     "f8373eb0e2b599219ef1": "2026-11-23T03:54:48Z",
@@ -338,26 +410,69 @@
     "c4fbb6065bff5c454484": "2026-11-23T03:59:13Z",
     "8cbd37947685a0e9a8fa": "2026-11-23T04:01:43Z",
     "021d5a6d9de69f87052e": "2026-11-23T04:02:41Z",
-    "5ef5f6beea9bfa7ce570": "2026-11-23T08:31:01Z",
-    "b7116f1ba4667bebc180": "2026-11-23T08:31:01Z",
-    "ef3f11adaea1af0cf815": "2026-11-23T08:31:01Z",
     "d5c34482b24e45422e5c": "2026-11-23T08:35:49Z",
     "726c281f435fc050faba": "2026-11-23T08:35:54Z",
     "a23299e71c5c5251e8f0": "2026-11-23T08:40:03Z",
     "13a905956c2ce2688513": "2026-11-23T08:40:09Z",
     "6e45c89372d87751b6ad": "2026-11-23T08:42:56Z",
     "0f9fde51167df60b2af2": "2026-11-23T08:43:08Z",
-    "68b71bd9c3f8dac79fcd": "2026-11-23T08:43:36Z",
-    "8e5e188fe93c4942461b": "2026-11-23T08:43:36Z",
-    "f111b750432244f9abcf": "2026-11-23T08:43:36Z",
     "c0a92a0d670d2edc7559": "2026-11-23T08:43:42Z",
     "9f844dde192ec42ded62": "2026-11-23T08:46:05Z",
     "3fe77a47e1c827f1be57": "2026-11-23T08:46:14Z",
     "dc814ed9faf2d6853d69": "2026-11-23T08:50:20Z",
     "e9272b9f55a086e101c8": "2026-11-23T08:50:31Z",
-    "9763908a7ee2262e0788": "2026-11-23T08:54:30Z"
+    "9763908a7ee2262e0788": "2026-11-23T08:54:30Z",
+    "afe794e029c64e4b96a6": "2026-11-23T11:27:10Z",
+    "fdb42e5c33155d2dd0de": "2026-11-23T11:27:55Z",
+    "ab16b148eff06b70dbee": "2026-11-23T11:27:55Z",
+    "a47275181fbac15c3681": "2026-11-23T11:27:55Z",
+    "a394313e40d2ac14715c": "2026-11-23T11:28:02Z",
+    "fc3b9c0a8818b899f6b7": "2026-11-23T11:28:29Z",
+    "5f2c924bc0f39bb261fa": "2026-11-23T11:28:29Z",
+    "d6ddf59a0bec373d4df3": "2026-11-23T11:28:29Z",
+    "82cc8cfa13660ac9735e": "2026-11-23T11:28:35Z",
+    "32b388f570a05929aa94": "2026-11-23T11:29:35Z",
+    "de7b7845b45b75196a54": "2026-11-23T11:29:40Z",
+    "e279a3730f111a0a6dba": "2026-11-23T11:30:12Z",
+    "f5ff11efeba4d8997574": "2026-11-23T11:30:12Z",
+    "fbabeec7ef0ec1684143": "2026-11-23T11:30:12Z",
+    "a3832727ede19a6249c3": "2026-11-23T11:30:19Z",
+    "cce2872836c9d092540e": "2026-11-23T11:30:36Z",
+    "9e364c12a8f63c521cde": "2026-11-23T11:30:36Z",
+    "39284592f282e3592f96": "2026-11-23T11:30:36Z",
+    "d5708cb7f0beb65d73b6": "2026-11-23T11:30:44Z",
+    "4c5d512a06ca9329af48": "2026-11-23T11:31:12Z",
+    "c780a8d5774157182ebc": "2026-11-23T11:31:19Z",
+    "38f8cf5e4e752b3b83bc": "2026-11-23T11:31:52Z",
+    "8fac27f7b6bb10a2c06b": "2026-11-23T11:31:52Z",
+    "cb3535ba9360cd1aa755": "2026-11-23T11:31:52Z",
+    "cfba93b3de42c8cb2661": "2026-11-23T11:32:01Z",
+    "03f5a31090108b103b69": "2026-11-23T11:32:25Z",
+    "6191993e821045b42b8e": "2026-11-23T11:32:25Z",
+    "854c7103279489ef1af7": "2026-11-23T11:32:25Z",
+    "f9e341aac39a8bae8748": "2026-11-23T11:32:33Z",
+    "a91d6c05400f8bc137e5": "2026-11-23T11:33:08Z",
+    "a8f714344d737e9cfd65": "2026-11-23T11:33:18Z",
+    "778e0d67ecb101d072c3": "2026-11-23T11:33:50Z",
+    "cc0785fcc8ef9b80141d": "2026-11-23T11:33:50Z",
+    "7b86fdfb0f11c5f8e912": "2026-11-23T11:33:50Z"
   },
   "sources": {
+    "twitch-clip:IntelligentCreativePeafowlJKanStyle-LbxyGkwatR3fTsu8": {
+      "key": "twitch-clip:IntelligentCreativePeafowlJKanStyle-LbxyGkwatR3fTsu8",
+      "url": "https://clips.twitch.tv/IntelligentCreativePeafowlJKanStyle-LbxyGkwatR3fTsu8",
+      "platform": "twitch-clip",
+      "title": "after i make mistake",
+      "creator": "theteegoat",
+      "duration": 23.0,
+      "views": 1,
+      "published": "2026-11-23T03:57:39Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
     "twitch-clip:TentativeOutstandingGoshawkImGlitch-eotur1_pZFWPlZYU": {
       "key": "twitch-clip:TentativeOutstandingGoshawkImGlitch-eotur1_pZFWPlZYU",
       "url": "https://clips.twitch.tv/TentativeOutstandingGoshawkImGlitch-eotur1_pZFWPlZYU",
@@ -652,7 +767,7 @@
       "title": "CÓDIGOS PARA SUBS 🌴 !DROPS ON 🌴 GTA 6 #5 LISTO PARA PASAR 6 HORAS HACIENDO A LUCÍA FELIZ (Mido 1.95)",
       "creator": "auronplay",
       "duration": 22340.0,
-      "views": 975013,
+      "views": 979174,
       "published": "2026-11-22T14:32:10Z",
       "rights": "unspecified",
       "anchors": [
@@ -865,7 +980,7 @@
       "title": "🔴 LIVE! - PLAYING GTA 6 RIGHT NOW!",
       "creator": "Typical Gamer",
       "duration": 13019.0,
-      "views": 957564,
+      "views": 977883,
       "published": "2026-11-21T00:54:32Z",
       "rights": "unspecified",
       "anchors": [],
@@ -895,7 +1010,7 @@
       "title": "🔴 BEATING GTA 6 RIGHT NOW 100% (FINAL MISSION)",
       "creator": "IShowSpeed",
       "duration": 22061.0,
-      "views": 23942786,
+      "views": 23989733,
       "published": "2026-11-20T12:46:26Z",
       "rights": "unspecified",
       "anchors": [],
@@ -925,7 +1040,7 @@
       "title": "GTA 6 Gameplay Walkthrough FULL GAME [4K PS5 PRO] - No Commentary",
       "creator": "MKIceAndFire",
       "duration": 104381.0,
-      "views": 1871532,
+      "views": 1985633,
       "published": "2026-11-22T06:42:11Z",
       "rights": "unspecified",
       "anchors": [],
@@ -1000,7 +1115,7 @@
       "title": "GTA 6 ULTIMATE BEGINNERS GUIDE! 32 Tips You NEED to Know (Don't Make These Mistakes)",
       "creator": "MrDalekJD",
       "duration": 1279.0,
-      "views": 1394926,
+      "views": 1401826,
       "published": "2026-11-19T10:27:23Z",
       "rights": "unspecified",
       "anchors": [],
@@ -1017,6 +1132,21 @@
       "duration": 21162.0,
       "views": 696241,
       "published": "2026-11-19T06:02:28Z",
+      "rights": "unspecified",
+      "anchors": [],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false
+    },
+    "youtube:VFXleoAq6VA": {
+      "key": "youtube:VFXleoAq6VA",
+      "url": "https://www.youtube.com/watch?v=VFXleoAq6VA",
+      "platform": "youtube",
+      "title": "GTA 6 Walkthrough Gameplay Part 5 - VICE CITY (GRAND THEFT AUTO 6)",
+      "creator": "theRadBrad",
+      "duration": 4869.0,
+      "views": 536533,
+      "published": "2026-11-22T15:00:15Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
@@ -1045,7 +1175,7 @@
       "title": "🔴 LIVE! - PLAYING GTA 6 RIGHT NOW! (PS5 PRO)",
       "creator": "Typical Gamer",
       "duration": 14706.0,
-      "views": 811634,
+      "views": 816433,
       "published": "2026-11-22T06:10:04Z",
       "rights": "unspecified",
       "anchors": [],
@@ -1075,7 +1205,7 @@
       "title": "🔴LIVE | GTA 6 | DAY 2 | VICE CITY | SUPER CARS/HYPER CARS | #1 GTA 6 DRIVER | #BUNGULATE",
       "creator": "TheBurntPeanut",
       "duration": 40692.0,
-      "views": 2143803,
+      "views": 2147875,
       "published": "2026-11-20T22:39:48Z",
       "rights": "unspecified",
       "anchors": [],
@@ -1105,7 +1235,7 @@
       "title": "🔴LIVE | GTA 6 | DAY 2 | VICE CITY | SUPER CARS/HYPER CARS | #1 GTA 6 DRIVER | #BUNGULATE",
       "creator": "TheBurntPeanut",
       "duration": 57359.0,
-      "views": 3397173,
+      "views": 3405125,
       "published": "2026-11-19T19:13:20Z",
       "rights": "unspecified",
       "anchors": [],
@@ -1180,7 +1310,7 @@
       "title": "🔴PLAYING GTA 6 RIGHT NOW GET IN HERE!",
       "creator": "IShowSpeed",
       "duration": 85282.0,
-      "views": 37932974,
+      "views": 37973090,
       "published": "2026-11-19T13:04:39Z",
       "rights": "unspecified",
       "anchors": [],
@@ -1210,7 +1340,7 @@
       "title": "🔴EXPLORING VICE CITY - GTA 6 STREAM (EASTER EGGS)",
       "creator": "IShowSpeed",
       "duration": 20702.0,
-      "views": 9629342,
+      "views": 9775807,
       "published": "2026-11-22T16:04:37Z",
       "rights": "unspecified",
       "anchors": [],
@@ -1300,7 +1430,7 @@
       "title": "IT'S FINALLY HERE | Grand Theft Auto 6 - Part 1",
       "creator": "jacksepticeye",
       "duration": 10485.0,
-      "views": 4811821,
+      "views": 4844634,
       "published": "2026-11-18T23:47:15Z",
       "rights": "unspecified",
       "anchors": [],
@@ -1330,7 +1460,7 @@
       "title": "🌴PLAYING GTA 6 FOR THE FIRST TIME🌴 (DAY 2)",
       "creator": "Kai Cenat Live",
       "duration": 41640.0,
-      "views": 2765869,
+      "views": 2747889,
       "published": "2026-11-20T01:04:50Z",
       "rights": "unspecified",
       "anchors": [],
@@ -1356,20 +1486,20 @@
   },
   "moments": [
     {
-      "id": "fa2e182648d13f4462c2",
+      "id": "e371ce0f645000d5c37d",
       "span": {
-        "source": "youtube:GMZzFJsf844",
-        "start": 630.67,
-        "end": 642.67
+        "source": "youtube:Ve2M5i_DSKI",
+        "start": 49936.13,
+        "end": 49963.88
       },
       "theme": "discovery",
-      "hook": "A driver reacts in shock to an unexpected passenger inside his car.",
-      "setup": "The driver asks 'The hell is that?' as a cat emerges from the passenger seat.",
-      "payoff": "The cat climbs onto the driver and struggles with him before being thrown out of the car onto the road.",
-      "evidence": "Visual and audio footage from 17.5 to 29.5 seconds shows the character finding a cat in the car, fighting it off, and tossing it outside.",
-      "score": 89.0,
-      "fingerprint": "6818142424022100.40cc9c2cb4322c00.48c00d4808060000",
-      "gta_vi_evidence": "",
+      "hook": "The player places a bag on the desk to reveal items.",
+      "setup": "The dealer inspects the bag contents, awards a diamond ring, and directs attention to the snap gun on the table.",
+      "payoff": "The dealer calls the snap gun a game changer, and the player picks it up to inspect it as a tool for opening doors quietly.",
+      "evidence": "The dealer hands Jason a snap gun, calling it a game changer to open doors quietly.",
+      "score": 90.0,
+      "fingerprint": "070606960e178183.070606960c5b8187.0646020e4607878c",
+      "gta_vi_evidence": "The dealer points to the snap gun on the table in Grand Theft Auto VI, explaining it opens most locks like that.",
       "alternate_cuts": []
     },
     {
@@ -1424,20 +1554,20 @@
       "alternate_cuts": []
     },
     {
-      "id": "6e47796d9241802917f9",
+      "id": "2101e3d27e57f973cd84",
       "span": {
-        "source": "youtube:QQV-0OUGxGs",
-        "start": 950.45,
-        "end": 985.95
+        "source": "twitch-clip:IntelligentCreativePeafowlJKanStyle-LbxyGkwatR3fTsu8",
+        "start": 0.0,
+        "end": 14.0
       },
-      "theme": "mission",
-      "hook": "The player crashes the SUV directly in front of a police car.",
-      "setup": "The player exits the vehicle, walks into a ShoreFront bank, and confronts the guards.",
-      "payoff": "The player fights the guards, kicks open doors, plants explosives, and cracks the safe to steal money.",
-      "evidence": "The player enters the bank, fights off officers, kicks open the staff door, and opens the safe to collect cash.",
+      "theme": "chase",
+      "hook": "The motorcycle speeds across a bridge toward highway signs.",
+      "setup": "The player rides a motorcycle down the highway past road signs for Key Largo and Catalan Key.",
+      "payoff": "The motorcycle crashes, throwing the player onto the pavement before displaying the Wasted screen.",
+      "evidence": "The player rides a motorcycle, crashes into obstacles, gets thrown onto the ground, and a Wasted screen appears.",
       "score": 85.75,
-      "fingerprint": "1b9b8b8ecc677733.f3b2b3b32242b234.747171d1958cbc35",
-      "gta_vi_evidence": "",
+      "fingerprint": "0f0f1f1f1f1b1f57.0f0f4f0e1f171757.0f0f4c4e676767cf",
+      "gta_vi_evidence": "Road signs pointing toward Key Largo and Catalan Key combined with the Wasted death screen confirm Grand Theft Auto VI footage.",
       "alternate_cuts": []
     },
     {
@@ -1492,6 +1622,40 @@
       "alternate_cuts": []
     },
     {
+      "id": "8a58065e9dbbe87e4c2f",
+      "span": {
+        "source": "youtube:ymCHX_Dcc-U",
+        "start": 387.0,
+        "end": 399.5
+      },
+      "theme": "chase",
+      "hook": "The player runs from police and successfully hijacks an SUV under heavy pressure.",
+      "setup": "The player is sprinting through the brush and approaches a road with police vehicles closing in.",
+      "payoff": "The player pulls a driver from an SUV, takes the wheel, and speeds away while dodging police cars.",
+      "evidence": "The player approaches the SUV, pulls out the driver, and drives off while police vehicles surround the area.",
+      "score": 84.42,
+      "fingerprint": "061f2ecec7c74747.90987978d4c8dc8c.c98192678f91d190",
+      "gta_vi_evidence": "Grand Theft Auto VI gameplay interface with wanted stars and character model hijacking an SUV during a police chase.",
+      "alternate_cuts": [
+        {
+          "span": {
+            "source": "youtube:ymCHX_Dcc-U",
+            "start": 401.0,
+            "end": 412.0
+          },
+          "theme": "driving",
+          "hook": "The stolen SUV barrels through a construction site and dirt roads to lose the cops.",
+          "setup": "The player drives through gates and past heavy machinery while avoiding pursuers.",
+          "payoff": "The vehicle kicks up dust and navigates past massive mining trucks.",
+          "evidence": "The SUV drives through the industrial quarry area surrounded by large mounds of dirt.",
+          "score": 79.5,
+          "fingerprint": "061f2ecec7c74747.90987978d4c8dc8c.c98192678f91d190",
+          "gta_vi_evidence": "Grand Theft Auto VI open-world quarry environment with distinct lighting and police chase mechanics.",
+          "alternate_cuts": []
+        }
+      ]
+    },
+    {
       "id": "d817322ffd1f17a4a807",
       "span": {
         "source": "youtube:T1vPOG71oHk",
@@ -1540,6 +1704,23 @@
       "score": 84.0,
       "fingerprint": "860f4d0c0f03c3cd.0d2e2c4d993af3d3.4c4ca5291bc9b387",
       "gta_vi_evidence": "",
+      "alternate_cuts": []
+    },
+    {
+      "id": "e86f74b71f2795466c44",
+      "span": {
+        "source": "youtube:R97EoVD1nr4",
+        "start": 71.1,
+        "end": 83.9
+      },
+      "theme": "comedy",
+      "hook": "We were fighting over who was gonna drive.",
+      "setup": "A woman and a man in a cap are being questioned by police next to a car, arguing about who was driving.",
+      "payoff": "The man insults her driving by saying it is worse than his abuela's who has cataracts.",
+      "evidence": "Stranger: We were fighting over who was gonna drive. Cop: Really? We gotta run these plates. Stranger: Yeah, he wanted to drive, but he drives like a bitch, so... What? Worse than my abuela. And she has cataracts. That's enough. Oh, yeah? Well, you're pretty... mean! And also crazy.",
+      "score": 84.0,
+      "fingerprint": "0008080101213100.00808484060a0f08.10989c92736a6c00",
+      "gta_vi_evidence": "The scene displays recognized character models and dialogue from Grand Theft Auto VI cinematic leaks/trailers.",
       "alternate_cuts": []
     },
     {
@@ -1611,21 +1792,38 @@
       "alternate_cuts": []
     },
     {
-      "id": "1830c877a0a51560a2b6",
+      "id": "834c647bb81ed67e3b5d",
       "span": {
-        "source": "youtube:dUYIMa2ifWM",
-        "start": 197.0,
-        "end": 209.5
+        "source": "youtube:lEkrxBXqhKg",
+        "start": 11236.92,
+        "end": 11260.92
       },
       "theme": "mission",
-      "hook": "The player exits a truck next to an overturned car on fire.",
-      "setup": "The player walks over to examine the flipped vehicle and retrieve a stash bag while NPCs run past.",
-      "payoff": "The player successfully grabs the stash bag from the wrecked car and flees on foot.",
-      "evidence": "The player character gets out of the truck at 16.0s, walks past the overturned car at 33.0s, picks up the stash bag at 35.8s, and runs away.",
-      "score": 83.0,
-      "fingerprint": "582b06892cf4c4dc.b62c8e2361e8d8e9.0e2f2c272126eeee",
-      "gta_vi_evidence": "",
-      "alternate_cuts": []
+      "hook": "Lucia walks out from a shelter towards the gas station.",
+      "setup": "Lucia follows a waypoint marker toward the convenience store to buy supplies.",
+      "payoff": "Lucia enters the Alpha Gas Station interior to complete her objective.",
+      "evidence": "Lucia runs across the parking lot and enters the convenience store following on-screen prompts.",
+      "score": 82.83,
+      "fingerprint": "999b5c616a6860cb.a6a3a3e9f62767c3.88c8f884a4a0e3c8",
+      "gta_vi_evidence": "The map interface displays Leonida and mission objectives for Jason and Lucia.",
+      "alternate_cuts": [
+        {
+          "span": {
+            "source": "youtube:lEkrxBXqhKg",
+            "start": 11256.92,
+            "end": 11280.92
+          },
+          "theme": "mission",
+          "hook": "Lucia enters the store to pick up necessary supplies.",
+          "setup": "Lucia walks inside the Alpha Gas Station and navigates the aisles.",
+          "payoff": "Lucia picks up a protein bar from the shelf.",
+          "evidence": "Lucia approaches the snack aisle and grabs items off the shelf.",
+          "score": 84.0,
+          "fingerprint": "999b5c616a6860cb.a6a3a3e9f62767c3.88c8f884a4a0e3c8",
+          "gta_vi_evidence": "UI prompts display 'Buy supplies' and inventory choices like 'Fuel Tank Protein Bar'.",
+          "alternate_cuts": []
+        }
+      ]
     },
     {
       "id": "501d0f27bcbb02d15607",
@@ -1713,23 +1911,6 @@
       "alternate_cuts": []
     },
     {
-      "id": "c6b9adaa63453baf547d",
-      "span": {
-        "source": "twitch-vod:2935805716",
-        "start": 126.0,
-        "end": 148.0
-      },
-      "theme": "driving",
-      "hook": "Jason approaches a car and gets in with a prompt.",
-      "setup": "Jason joins Lucia outside, gets into the black sedan, and drives off across a bridge while music plays.",
-      "payoff": "The player drives the sedan across the bridge and laughs while navigating traffic.",
-      "evidence": "Jason says 'Yo...' and gets into the car, then drives away across the bridge.",
-      "score": 82.0,
-      "fingerprint": "043a6f0f850626e3.d0d238900038e0c0.fbff4f0e9c70f4f6",
-      "gta_vi_evidence": "",
-      "alternate_cuts": []
-    },
-    {
       "id": "f1830ce132dfadfaaed1",
       "span": {
         "source": "twitch-vod:2934030540",
@@ -1744,6 +1925,23 @@
       "score": 81.0,
       "fingerprint": "bc34842c6f2e3a7c.abbd9e96dab0b060.03170c242c34656d",
       "gta_vi_evidence": "",
+      "alternate_cuts": []
+    },
+    {
+      "id": "5741b2344f2817487e48",
+      "span": {
+        "source": "youtube:Vkbdv10eFcI",
+        "start": 12067.38,
+        "end": 12084.38
+      },
+      "theme": "mission",
+      "hook": "Characters board an elevator together.",
+      "setup": "A group of people enter the elevator as the protagonist steps in.",
+      "payoff": "The elevator doors close after a brief exchange about cocktails.",
+      "evidence": "The protagonist enters the elevator with several NPCs and the doors close.",
+      "score": 80.5,
+      "fingerprint": "0e0e86e6a1a11692.c1e9e9c9d9919311.c1d9d8d998f9d3d1",
+      "gta_vi_evidence": "Grand Theft Auto VI character models and dialogue inside the elevator.",
       "alternate_cuts": []
     },
     {
@@ -1817,193 +2015,6 @@
   ],
   "pending": [
     {
-      "id": "0d008d80e0181e0c2001",
-      "span": {
-        "source": "youtube:R97EoVD1nr4",
-        "start": 58994.0,
-        "end": 59048.0
-      },
-      "theme": "mission",
-      "hook": "A heated interrogation under gunpoint in the backyard.",
-      "setup": "Viper and Terro argue about leadership, loyalty, and the involvement of the local police.",
-      "payoff": "Terro questions who will take them anywhere, leading to a direct discussion about capabilities.",
-      "evidence": "Terro says 'She can't move no weight. She can't run no operation. All she can run is her mouth.'",
-      "score": 92.0,
-      "fingerprint": "",
-      "gta_vi_evidence": "",
-      "alternate_cuts": []
-    },
-    {
-      "id": "08c38167ac82192dafca",
-      "span": {
-        "source": "youtube:lh3QeJ2kKww",
-        "start": 288.0,
-        "end": 315.0
-      },
-      "theme": "chase",
-      "hook": "Dodge police pursuit",
-      "setup": "Jason exits the store into a shootout with police and jumps into a getaway car.",
-      "payoff": "A high-speed nighttime police chase through city streets and underpasses.",
-      "evidence": "Jason speeds away in a dark muscle car while dodging police cruisers and sirens wail.",
-      "score": 90.0,
-      "fingerprint": "",
-      "gta_vi_evidence": "",
-      "alternate_cuts": []
-    },
-    {
-      "id": "75e6729a534f11da3a22",
-      "span": {
-        "source": "youtube:Vkbdv10eFcI",
-        "start": 12067.38,
-        "end": 12092.38
-      },
-      "theme": "mission",
-      "hook": "Jason knocks on the executive conference room door and confronts the party guests inside.",
-      "setup": "Jason walks down the hallway and pounds on the conference room door marked with a sign.",
-      "payoff": "The door opens to reveal party guests gathered around a scale model of the building interior, surprised by the interruption.",
-      "evidence": "Conference room door opening to reveal a scale model of a skyscraper on a meeting table.",
-      "score": 88.0,
-      "fingerprint": "",
-      "gta_vi_evidence": "",
-      "alternate_cuts": []
-    },
-    {
-      "id": "c420c63966bbcc85f370",
-      "span": {
-        "source": "youtube:Ra6sNe8s2Hc",
-        "start": 684.26,
-        "end": 724.26
-      },
-      "theme": "mission",
-      "hook": "Another stealth infiltration and safe-cracking job",
-      "setup": "The player approaches a back entrance of another business to execute a quiet robbery.",
-      "payoff": "The player plants an explosive on an interior door, blows it open, and loots the office.",
-      "evidence": "The player uses a detonator to blow open a staff door and gathers marked bills from the office desk.",
-      "score": 87.0,
-      "fingerprint": "",
-      "gta_vi_evidence": "",
-      "alternate_cuts": []
-    },
-    {
-      "id": "c7994f376f6fea4a536e",
-      "span": {
-        "source": "youtube:QQV-0OUGxGs",
-        "start": 815.75,
-        "end": 855.75
-      },
-      "theme": "mission",
-      "hook": "Jewelry store robbery",
-      "setup": "The player storms a high-end jewelry store and forces employees to open safes.",
-      "payoff": "Explosives blow open the back safe, yielding thousands in stolen jewels and cash.",
-      "evidence": "The money balance hits $27,723 as jewelry items are rapidly collected from the safe.",
-      "score": 85.0,
-      "fingerprint": "",
-      "gta_vi_evidence": "",
-      "alternate_cuts": []
-    },
-    {
-      "id": "aa873fe56221d7861df7",
-      "span": {
-        "source": "youtube:Ra6sNe8s2Hc",
-        "start": 202.0,
-        "end": 217.0
-      },
-      "theme": "mission",
-      "hook": "Robbing a jewelry store",
-      "setup": "The player opens the map, selects a high-end jewelry store, and drives up to the location.",
-      "payoff": "The player enters the store and prepares to initiate the robbery while avoiding security.",
-      "evidence": "Map shows Kowalski jewelry store with take value 14000 to 25000 dollars.",
-      "score": 85.0,
-      "fingerprint": "",
-      "gta_vi_evidence": "",
-      "alternate_cuts": []
-    },
-    {
-      "id": "713a05788e6dd9905e78",
-      "span": {
-        "source": "youtube:Ra6sNe8s2Hc",
-        "start": 345.26,
-        "end": 364.26
-      },
-      "theme": "mission",
-      "hook": "Grabbing a cheap weapon at the pawn shop",
-      "setup": "The player visits a local pawn shop in Vice City to purchase an inexpensive Micro SMG.",
-      "payoff": "The player buys the gun for $800 and exits the store while the timer counts down.",
-      "evidence": "The weapon screen shows the Northam W-10 Micro SMG priced at $800.",
-      "score": 85.0,
-      "fingerprint": "",
-      "gta_vi_evidence": "",
-      "alternate_cuts": []
-    },
-    {
-      "id": "5a2d9e2babcb0c970dac",
-      "span": {
-        "source": "youtube:Ve2M5i_DSKI",
-        "start": 49900.13,
-        "end": 49949.13
-      },
-      "theme": "mission",
-      "hook": "Jason receives a handy gift from a contact.",
-      "setup": "Jason visits an NPC behind a smoke shop desk in Little Cuba.",
-      "payoff": "The dealer hands Jason a snap gun, calling it a game changer to open doors quietly without alarms.",
-      "evidence": "Jason is handed the snap gun on the desk by the NPC.",
-      "score": 85.0,
-      "fingerprint": "",
-      "gta_vi_evidence": "",
-      "alternate_cuts": []
-    },
-    {
-      "id": "8bd3839824a67479b74d",
-      "span": {
-        "source": "youtube:Ra6sNe8s2Hc",
-        "start": 719.99,
-        "end": 742.99
-      },
-      "theme": "mission",
-      "hook": "Robbing a jewelry store in GTA VI.",
-      "setup": "The player character walks into a jewelry store and prepares to smash the glass.",
-      "payoff": "The player smashes the display cases, grabs the jewelry, and shoots a guard while escaping.",
-      "evidence": "Footage shows the player character breaking display cases, collecting jewelry, and engaging in a shootout inside the store.",
-      "score": 85.0,
-      "fingerprint": "",
-      "gta_vi_evidence": "",
-      "alternate_cuts": []
-    },
-    {
-      "id": "a1982b8ab556d3e018ba",
-      "span": {
-        "source": "youtube:Vkbdv10eFcI",
-        "start": 11863.38,
-        "end": 11885.38
-      },
-      "theme": "driving",
-      "hook": "Streamer drives a luxury SUV through neon-lit streets at night while passengers chat about a concoction called The Purge.",
-      "setup": "The player drives the black SUV past a Little Cuba sign and navigates city traffic.",
-      "payoff": "The car bumps into another vehicle and spins out at an intersection, prompting humorous dialogue about toxins and drinks.",
-      "evidence": "Vehicle navigation and dialogue referencing 'The Purge' at night.",
-      "score": 85.0,
-      "fingerprint": "",
-      "gta_vi_evidence": "",
-      "alternate_cuts": []
-    },
-    {
-      "id": "9b486013c1561312861c",
-      "span": {
-        "source": "youtube:RMGdwkZ5VFw",
-        "start": 166.72,
-        "end": 185.72
-      },
-      "theme": "discovery",
-      "hook": "Finding a BMW M3 GTR inspired supercar in a garage",
-      "setup": "The player opens a garage at a gated estate in Peacock Estates.",
-      "payoff": "The player drives the custom Tsunami Zorrusso out onto the road.",
-      "evidence": "Gran Fedora Tsunami Zorrusso vehicle name appears on screen.",
-      "score": 85.0,
-      "fingerprint": "",
-      "gta_vi_evidence": "",
-      "alternate_cuts": []
-    },
-    {
       "id": "0d47aaeff7957349ff44",
       "span": {
         "source": "youtube:Vkbdv10eFcI",
@@ -2038,18 +2049,35 @@
       "alternate_cuts": []
     },
     {
-      "id": "bda60e87c6c6cd0d80de",
+      "id": "a9a3b0c35135dd16f30e",
       "span": {
-        "source": "youtube:yX4DH_msPkI",
-        "start": 29086.1,
-        "end": 29124.1
+        "source": "youtube:R97EoVD1nr4",
+        "start": 58786.28,
+        "end": 58814.28
       },
-      "theme": "chase",
-      "hook": "Jason escapes the shootout and carjack-steals a vehicle.",
-      "setup": "After eliminating guards and triggering an explosion, Jason runs down the alley.",
-      "payoff": "Jason approaches a parked car, smashes the window, and drives away to his next destination.",
-      "evidence": "Smash window",
-      "score": 82.0,
+      "theme": "mission",
+      "hook": "Lucia tours a run-down house and jokes about the fireplace.",
+      "setup": "Mia guides Lucia and her associates through the living room and kitchen.",
+      "payoff": "Lucia remarks that the kitchen is 'like a real kitchen' while inspecting the appliances.",
+      "evidence": "Lucia says, 'Ooh fireplace, that's kinda a luxury item these days, huh? Lucky.'",
+      "score": 85.0,
+      "fingerprint": "",
+      "gta_vi_evidence": "",
+      "alternate_cuts": []
+    },
+    {
+      "id": "a323a1631d72cd627999",
+      "span": {
+        "source": "youtube:R97EoVD1nr4",
+        "start": 58906.28,
+        "end": 58936.28
+      },
+      "theme": "mission",
+      "hook": "Heading out to check the backyard.",
+      "setup": "Terro calls out for the backyard and Mia leads the group further.",
+      "payoff": "Mia enthusiastically tells them they are going to love the backyard as they walk down the hall.",
+      "evidence": "Terro says, 'Back yard?' and Mia responds, 'Yep, right this way. You're gonna love it!'",
+      "score": 84.0,
       "fingerprint": "",
       "gta_vi_evidence": "",
       "alternate_cuts": []
@@ -2072,17 +2100,17 @@
       "alternate_cuts": []
     },
     {
-      "id": "69e3317e5941d1a940ba",
+      "id": "123b8f68df2c32109d9b",
       "span": {
-        "source": "youtube:RMGdwkZ5VFw",
-        "start": 273.72,
-        "end": 282.72
+        "source": "youtube:R97EoVD1nr4",
+        "start": 58846.28,
+        "end": 58876.28
       },
-      "theme": "discovery",
-      "hook": "Stealing a custom LCC Monarch Avarus chopper",
-      "setup": "The player sneaks into the back shed of a chapter in Ambrosia.",
-      "payoff": "The player mounts the chopper and rides it away onto the highway.",
-      "evidence": "LCC Monarch Avarus vehicle name and registration cost mentioned.",
+      "theme": "mission",
+      "hook": "Inspecting an ensuite bedroom with natural light.",
+      "setup": "Mia opens the door to another bedroom and highlights its natural light.",
+      "payoff": "Mia describes the ensuite bath and the luxury of closing the door for a bubble bath.",
+      "evidence": "Mia says, 'There is something about an ensuite, you know? ... close the door, run a bubble bath... and relax!'",
       "score": 82.0,
       "fingerprint": "",
       "gta_vi_evidence": "",
@@ -2117,40 +2145,6 @@
       "setup": "The player character stands outside the hotel while on a phone call with Valentina.",
       "payoff": "Valentina briefs the player on protecting a telenovela actor arriving at a private terminal.",
       "evidence": "You'll be half bodyguards, half window decoration. That sound good?",
-      "score": 80.0,
-      "fingerprint": "",
-      "gta_vi_evidence": "",
-      "alternate_cuts": []
-    },
-    {
-      "id": "dc6c708256f716e80cf2",
-      "span": {
-        "source": "youtube:ymCHX_Dcc-U",
-        "start": 370.0,
-        "end": 410.0
-      },
-      "theme": "discovery",
-      "hook": "Take a selfie with the post-robbery backdrop",
-      "setup": "The player drives an open-top red car into a sugarcane field and opens their phone.",
-      "payoff": "The player opens the camera app, switches to selfie mode, and takes a photo of Jason with the scenic sunset background.",
-      "evidence": "Let's take a selfie real quick",
-      "score": 80.0,
-      "fingerprint": "",
-      "gta_vi_evidence": "",
-      "alternate_cuts": []
-    },
-    {
-      "id": "3c48d9950faf2342e7a1",
-      "span": {
-        "source": "youtube:OIeLbmyraRQ",
-        "start": 13220.03,
-        "end": 13245.43
-      },
-      "theme": "chase",
-      "hook": "The final mission approaches as the players navigate narrow city alleys.",
-      "setup": "The characters discuss whether they are ready to complete the final objective.",
-      "payoff": "The vehicle drifts into a tight alleyway while discussing next steps.",
-      "evidence": "Map updated",
       "score": 80.0,
       "fingerprint": "",
       "gta_vi_evidence": "",
@@ -2361,6 +2355,23 @@
       "alternate_cuts": []
     },
     {
+      "id": "fca2e6cdaea5586356f3",
+      "span": {
+        "source": "youtube:R97EoVD1nr4",
+        "start": 58816.28,
+        "end": 58846.28
+      },
+      "theme": "mission",
+      "hook": "Exploring the office space and guest bathroom during a house walkthrough.",
+      "setup": "Mia walks the group down the hallway to show bedrooms and bathrooms.",
+      "payoff": "Mia pitches the second bedroom as a professional office space for paperwork.",
+      "evidence": "Mia says, 'Could be an office. Room for a nice, proper-sized, professional desk.'",
+      "score": 80.0,
+      "fingerprint": "",
+      "gta_vi_evidence": "",
+      "alternate_cuts": []
+    },
+    {
       "id": "16b4427e92d7d8472de5",
       "span": {
         "source": "youtube:oyHFwPNd_c4",
@@ -2474,23 +2485,6 @@
       "setup": "The player opens the map menu to check various business locations and potential scores.",
       "payoff": "Markers are updated to show specific heist opportunities across Leonida.",
       "evidence": "Map updated",
-      "score": 78.0,
-      "fingerprint": "",
-      "gta_vi_evidence": "",
-      "alternate_cuts": []
-    },
-    {
-      "id": "4b9008c83be492cbc45a",
-      "span": {
-        "source": "youtube:Ra6sNe8s2Hc",
-        "start": 1029.99,
-        "end": 1064.99
-      },
-      "theme": "driving",
-      "hook": "High-speed highway crash during a getaway.",
-      "setup": "The player drives a stolen car onto the highway to escape.",
-      "payoff": "The car flips over and crashes into highway barriers, ending the drive.",
-      "evidence": "The white sedan flips on the highway under the sunlight.",
       "score": 78.0,
       "fingerprint": "",
       "gta_vi_evidence": "",
@@ -2667,23 +2661,6 @@
       "alternate_cuts": []
     },
     {
-      "id": "c7e4c65df4b8acd52c7c",
-      "span": {
-        "source": "youtube:lEkrxBXqhKg",
-        "start": 11237.42,
-        "end": 11268.42
-      },
-      "theme": "driving",
-      "hook": "Lucia visits the Alpha Gas Station to purchase supplies.",
-      "setup": "Lucia browses store shelves selecting fuel tank protein bars, soup, and bandanas.",
-      "payoff": "Lucia completes purchases at the store and prepares to return to the motel.",
-      "evidence": "Inventory selection screen for store items at Alpha Gas Station.",
-      "score": 75.0,
-      "fingerprint": "",
-      "gta_vi_evidence": "",
-      "alternate_cuts": []
-    },
-    {
       "id": "a8d5dda883323d70c579",
       "span": {
         "source": "youtube:hwSg39yIBGU",
@@ -2701,23 +2678,6 @@
       "alternate_cuts": []
     },
     {
-      "id": "7ec484ef5fac4b3fd49d",
-      "span": {
-        "source": "youtube:5tdj53ioJ-c",
-        "start": 34824.43,
-        "end": 34848.43
-      },
-      "theme": "driving",
-      "hook": "Lucia drives through downtown Vice City during sunset.",
-      "setup": "Lucia exits a parking garage into traffic while police search for her outfit.",
-      "payoff": "Lucia navigates urban traffic past landmarks and neon billboards.",
-      "evidence": "Lucia driving a grey sedan through city streets under sunset lighting at 2:03.",
-      "score": 75.0,
-      "fingerprint": "",
-      "gta_vi_evidence": "",
-      "alternate_cuts": []
-    },
-    {
       "id": "b6cab545d3fc11c9e854",
       "span": {
         "source": "youtube:QQV-0OUGxGs",
@@ -2729,23 +2689,6 @@
       "setup": "The player drives an SUV along train tracks to escape wanted levels.",
       "payoff": "The car narrowly avoids oncoming trains while sliding under bridges to lose the cops.",
       "evidence": "The camera pans closely to the train tracks as the car struggles to maneuver past concrete pillars.",
-      "score": 75.0,
-      "fingerprint": "",
-      "gta_vi_evidence": "",
-      "alternate_cuts": []
-    },
-    {
-      "id": "7482a572ee2e94f5fd47",
-      "span": {
-        "source": "youtube:dUYIMa2ifWM",
-        "start": 345.36,
-        "end": 354.36
-      },
-      "theme": "comedy",
-      "hook": "An NPC dives under a truck instead of running away.",
-      "setup": "A player's truck pulls up next to a dog and NPC on the street.",
-      "payoff": "The NPC reacts in a panicked manner and dives under the back of the truck.",
-      "evidence": "NPC dives under the vehicle bed.",
       "score": 75.0,
       "fingerprint": "",
       "gta_vi_evidence": "",
@@ -3172,6 +3115,40 @@
       "payoff": "Lucia joins the row of stationary bikes with other gym-goers following button prompts.",
       "evidence": "Go chill over on those bikes for a little bit and cool down.",
       "score": 70.0,
+      "fingerprint": "",
+      "gta_vi_evidence": "",
+      "alternate_cuts": []
+    },
+    {
+      "id": "7b1b9fbf3e54d07286bc",
+      "span": {
+        "source": "youtube:VFXleoAq6VA",
+        "start": 199.0,
+        "end": 220
+      },
+      "theme": "driving",
+      "hook": "Cruising through suburban streets while discussing game feel",
+      "setup": "The player drives through suburban Vice City streets and mentions how cars can be licensed.",
+      "payoff": "The truck navigates intersections past pedestrians and other vehicles while commentary continues.",
+      "evidence": "Driving through residential suburban streets past houses and parked cars.",
+      "score": 65.0,
+      "fingerprint": "",
+      "gta_vi_evidence": "",
+      "alternate_cuts": []
+    },
+    {
+      "id": "b5940f5669fbb4e7237f",
+      "span": {
+        "source": "youtube:VFXleoAq6VA",
+        "start": 71.0,
+        "end": 91.0
+      },
+      "theme": "discovery",
+      "hook": "Looking at map objectives for 'Find the Lost Drugs'",
+      "setup": "The player reviews optional missions on the Vice City map before driving off.",
+      "payoff": "The player exits the menu and starts driving the pickup truck down a sunny neighborhood road.",
+      "evidence": "Map menu displaying 'Find the Lost Drugs' followed by driving gameplay in a Vapid truck.",
+      "score": 60.0,
       "fingerprint": "",
       "gta_vi_evidence": "",
       "alternate_cuts": []
