@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-23T12:17:35Z",
+  "generated_at": "2026-11-23T15:20:28Z",
   "scanned": {
     "d66f80f00ab35d8f5532": "2026-11-18T12:29:44Z",
     "4f8b3e763c3765bfbfdf": "2026-11-18T12:29:55Z",
@@ -455,24 +455,25 @@
     "a8f714344d737e9cfd65": "2026-11-23T11:33:18Z",
     "778e0d67ecb101d072c3": "2026-11-23T11:33:50Z",
     "cc0785fcc8ef9b80141d": "2026-11-23T11:33:50Z",
-    "7b86fdfb0f11c5f8e912": "2026-11-23T11:33:50Z"
+    "7b86fdfb0f11c5f8e912": "2026-11-23T11:33:50Z",
+    "3b89cbadea37c04c233a": "2026-11-23T13:48:01Z",
+    "e2a213e113832312057b": "2026-11-23T13:49:32Z",
+    "b7e822fe0e273f31b374": "2026-11-23T13:49:32Z",
+    "eff3fe2e61b3df59df2b": "2026-11-23T13:49:32Z",
+    "fa0c3d83600e58df047a": "2026-11-23T13:49:41Z",
+    "632263d8dfdc6bf00941": "2026-11-23T13:52:21Z",
+    "d8df9aebdbead848a011": "2026-11-23T13:52:21Z",
+    "7e3116e9d08e2f39e86f": "2026-11-23T13:52:21Z",
+    "2ff4a4082beaf166757f": "2026-11-23T13:56:08Z",
+    "b1ff415c7048638754c0": "2026-11-23T14:05:29Z",
+    "80994eafb90b4970c049": "2026-11-23T14:06:14Z",
+    "209dc91d22c542cff29a": "2026-11-23T14:06:22Z",
+    "1e77aaef9e5537372172": "2026-11-23T14:07:04Z",
+    "72d9f5664294292972c3": "2026-11-23T14:07:23Z",
+    "a700348065d383644c29": "2026-11-23T14:12:04Z",
+    "dc166f4441e7f964ef0e": "2026-11-23T14:18:55Z"
   },
   "sources": {
-    "twitch-clip:IntelligentCreativePeafowlJKanStyle-LbxyGkwatR3fTsu8": {
-      "key": "twitch-clip:IntelligentCreativePeafowlJKanStyle-LbxyGkwatR3fTsu8",
-      "url": "https://clips.twitch.tv/IntelligentCreativePeafowlJKanStyle-LbxyGkwatR3fTsu8",
-      "platform": "twitch-clip",
-      "title": "after i make mistake",
-      "creator": "theteegoat",
-      "duration": 23.0,
-      "views": 1,
-      "published": "2026-11-23T03:57:39Z",
-      "rights": "unspecified",
-      "anchors": [],
-      "parent": "",
-      "parent_offset": null,
-      "recording": false
-    },
     "twitch-clip:TentativeOutstandingGoshawkImGlitch-eotur1_pZFWPlZYU": {
       "key": "twitch-clip:TentativeOutstandingGoshawkImGlitch-eotur1_pZFWPlZYU",
       "url": "https://clips.twitch.tv/TentativeOutstandingGoshawkImGlitch-eotur1_pZFWPlZYU",
@@ -484,9 +485,10 @@
       "published": "2026-11-21T16:17:32Z",
       "rights": "unspecified",
       "anchors": [],
-      "parent": "",
-      "parent_offset": null,
-      "recording": false
+      "parent": "twitch-vod:2936160211",
+      "parent_offset": 5765.0,
+      "recording": false,
+      "recorded": "2026-11-21T16:15:26Z"
     },
     "twitch-vod:2932809277": {
       "key": "twitch-vod:2932809277",
@@ -501,7 +503,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "twitch-vod:2932866051": {
       "key": "twitch-vod:2932866051",
@@ -516,7 +519,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "twitch-vod:2933538555": {
       "key": "twitch-vod:2933538555",
@@ -531,7 +535,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "twitch-vod:2933599748": {
       "key": "twitch-vod:2933599748",
@@ -546,7 +551,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "twitch-vod:2933675245": {
       "key": "twitch-vod:2933675245",
@@ -561,7 +567,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "twitch-vod:2933682633": {
       "key": "twitch-vod:2933682633",
@@ -576,7 +583,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "twitch-vod:2933789253": {
       "key": "twitch-vod:2933789253",
@@ -591,7 +599,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "twitch-vod:2933884560": {
       "key": "twitch-vod:2933884560",
@@ -606,7 +615,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "twitch-vod:2933941381": {
       "key": "twitch-vod:2933941381",
@@ -621,7 +631,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "twitch-vod:2934030540": {
       "key": "twitch-vod:2934030540",
@@ -636,7 +647,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "twitch-vod:2934155295": {
       "key": "twitch-vod:2934155295",
@@ -651,7 +663,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "twitch-vod:2934782281": {
       "key": "twitch-vod:2934782281",
@@ -660,13 +673,14 @@
       "title": "[PS5 Pro] [HOURLY GIVEAWAYS] Day 3 of GTA VI",
       "creator": "DarkViperAU",
       "duration": 42958.0,
-      "views": 242299,
+      "views": 242883,
       "published": "2026-11-20T10:01:28Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "twitch-vod:2935185818": {
       "key": "twitch-vod:2935185818",
@@ -681,7 +695,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "twitch-vod:2935787599": {
       "key": "twitch-vod:2935787599",
@@ -696,7 +711,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "twitch-vod:2935805716": {
       "key": "twitch-vod:2935805716",
@@ -711,7 +727,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "twitch-vod:2936395995": {
       "key": "twitch-vod:2936395995",
@@ -726,7 +743,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "twitch-vod:2936463658": {
       "key": "twitch-vod:2936463658",
@@ -741,7 +759,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "twitch-vod:2936706130": {
       "key": "twitch-vod:2936706130",
@@ -758,7 +777,8 @@
       ],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "twitch-vod:2937333836": {
       "key": "twitch-vod:2937333836",
@@ -767,7 +787,7 @@
       "title": "CÓDIGOS PARA SUBS 🌴 !DROPS ON 🌴 GTA 6 #5 LISTO PARA PASAR 6 HORAS HACIENDO A LUCÍA FELIZ (Mido 1.95)",
       "creator": "auronplay",
       "duration": 22340.0,
-      "views": 979174,
+      "views": 984451,
       "published": "2026-11-22T14:32:10Z",
       "rights": "unspecified",
       "anchors": [
@@ -776,7 +796,8 @@
       ],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:-UuHA1h-Cf8": {
       "key": "youtube:-UuHA1h-Cf8",
@@ -791,7 +812,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:-euBHK6uYrg": {
       "key": "youtube:-euBHK6uYrg",
@@ -806,7 +828,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:169ZzvPxvvM": {
       "key": "youtube:169ZzvPxvvM",
@@ -821,7 +844,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:1C2CBTT8XJU": {
       "key": "youtube:1C2CBTT8XJU",
@@ -836,7 +860,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:1GeQU0SEC-E": {
       "key": "youtube:1GeQU0SEC-E",
@@ -851,7 +876,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:5tdj53ioJ-c": {
       "key": "youtube:5tdj53ioJ-c",
@@ -866,7 +892,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:6RgkIVpvvsY": {
       "key": "youtube:6RgkIVpvvsY",
@@ -881,7 +908,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:8zpkGW2DGCo": {
       "key": "youtube:8zpkGW2DGCo",
@@ -896,7 +924,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:AbMP2JHRinA": {
       "key": "youtube:AbMP2JHRinA",
@@ -911,7 +940,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:CK6XFkFSoyc": {
       "key": "youtube:CK6XFkFSoyc",
@@ -926,7 +956,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:CukTYtF72KY": {
       "key": "youtube:CukTYtF72KY",
@@ -941,7 +972,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:GMZzFJsf844": {
       "key": "youtube:GMZzFJsf844",
@@ -956,7 +988,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:HzzzoomJ-Os": {
       "key": "youtube:HzzzoomJ-Os",
@@ -971,7 +1004,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:JVXbhH7NRGw": {
       "key": "youtube:JVXbhH7NRGw",
@@ -980,13 +1014,14 @@
       "title": "🔴 LIVE! - PLAYING GTA 6 RIGHT NOW!",
       "creator": "Typical Gamer",
       "duration": 13019.0,
-      "views": 977883,
+      "views": 978734,
       "published": "2026-11-21T00:54:32Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:Mw4MrVRO_co": {
       "key": "youtube:Mw4MrVRO_co",
@@ -1001,7 +1036,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:OIeLbmyraRQ": {
       "key": "youtube:OIeLbmyraRQ",
@@ -1010,28 +1046,14 @@
       "title": "🔴 BEATING GTA 6 RIGHT NOW 100% (FINAL MISSION)",
       "creator": "IShowSpeed",
       "duration": 22061.0,
-      "views": 23989733,
+      "views": 24032098,
       "published": "2026-11-20T12:46:26Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
-    },
-    "youtube:QQV-0OUGxGs": {
-      "key": "youtube:QQV-0OUGxGs",
-      "url": "https://www.youtube.com/watch?v=QQV-0OUGxGs",
-      "platform": "youtube",
-      "title": "Whatever You Steal in GTA 6, You Keep!",
-      "creator": "MrBeast Gaming",
-      "duration": 1285.0,
-      "views": 21588034,
-      "published": "2026-11-20T20:43:18Z",
-      "rights": "unspecified",
-      "anchors": [],
-      "parent": "",
-      "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:R97EoVD1nr4": {
       "key": "youtube:R97EoVD1nr4",
@@ -1040,13 +1062,14 @@
       "title": "GTA 6 Gameplay Walkthrough FULL GAME [4K PS5 PRO] - No Commentary",
       "creator": "MKIceAndFire",
       "duration": 104381.0,
-      "views": 1985633,
+      "views": 2063848,
       "published": "2026-11-22T06:42:11Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:RMGdwkZ5VFw": {
       "key": "youtube:RMGdwkZ5VFw",
@@ -1061,7 +1084,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:Ra6sNe8s2Hc": {
       "key": "youtube:Ra6sNe8s2Hc",
@@ -1076,7 +1100,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:S3NEzaumEnQ": {
       "key": "youtube:S3NEzaumEnQ",
@@ -1091,7 +1116,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:SctVkyVR2IA": {
       "key": "youtube:SctVkyVR2IA",
@@ -1106,7 +1132,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:T1vPOG71oHk": {
       "key": "youtube:T1vPOG71oHk",
@@ -1121,7 +1148,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:TFmtM1kRWp4": {
       "key": "youtube:TFmtM1kRWp4",
@@ -1136,7 +1164,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:VFXleoAq6VA": {
       "key": "youtube:VFXleoAq6VA",
@@ -1151,7 +1180,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:Ve2M5i_DSKI": {
       "key": "youtube:Ve2M5i_DSKI",
@@ -1160,13 +1190,14 @@
       "title": "GTA 6 Gameplay Walkthrough FULL GAME [4K PS5 PRO] No Commentary",
       "creator": "Shirrako",
       "duration": 129958.0,
-      "views": 2400154,
+      "views": 2888447,
       "published": "2026-11-20T19:41:59Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:Vkbdv10eFcI": {
       "key": "youtube:Vkbdv10eFcI",
@@ -1175,13 +1206,14 @@
       "title": "🔴 LIVE! - PLAYING GTA 6 RIGHT NOW! (PS5 PRO)",
       "creator": "Typical Gamer",
       "duration": 14706.0,
-      "views": 816433,
+      "views": 819366,
       "published": "2026-11-22T06:10:04Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:Wd-vKw3XYP0": {
       "key": "youtube:Wd-vKw3XYP0",
@@ -1196,7 +1228,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:XUQ7qoZjNBA": {
       "key": "youtube:XUQ7qoZjNBA",
@@ -1205,13 +1238,14 @@
       "title": "🔴LIVE | GTA 6 | DAY 2 | VICE CITY | SUPER CARS/HYPER CARS | #1 GTA 6 DRIVER | #BUNGULATE",
       "creator": "TheBurntPeanut",
       "duration": 40692.0,
-      "views": 2147875,
+      "views": 2150038,
       "published": "2026-11-20T22:39:48Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:YOxDxdVD4MY": {
       "key": "youtube:YOxDxdVD4MY",
@@ -1226,7 +1260,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:YylVwL4UIFU": {
       "key": "youtube:YylVwL4UIFU",
@@ -1235,13 +1270,14 @@
       "title": "🔴LIVE | GTA 6 | DAY 2 | VICE CITY | SUPER CARS/HYPER CARS | #1 GTA 6 DRIVER | #BUNGULATE",
       "creator": "TheBurntPeanut",
       "duration": 57359.0,
-      "views": 3405125,
+      "views": 3409080,
       "published": "2026-11-19T19:13:20Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:dUYIMa2ifWM": {
       "key": "youtube:dUYIMa2ifWM",
@@ -1256,7 +1292,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:eJKZKf0gL-s": {
       "key": "youtube:eJKZKf0gL-s",
@@ -1271,7 +1308,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:gBLQ-t_tywk": {
       "key": "youtube:gBLQ-t_tywk",
@@ -1286,7 +1324,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:gZf-qhJt_SM": {
       "key": "youtube:gZf-qhJt_SM",
@@ -1301,7 +1340,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:hwSg39yIBGU": {
       "key": "youtube:hwSg39yIBGU",
@@ -1310,13 +1350,14 @@
       "title": "🔴PLAYING GTA 6 RIGHT NOW GET IN HERE!",
       "creator": "IShowSpeed",
       "duration": 85282.0,
-      "views": 37973090,
+      "views": 38005071,
       "published": "2026-11-19T13:04:39Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:iojxO6p-JhI": {
       "key": "youtube:iojxO6p-JhI",
@@ -1331,7 +1372,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:izXcd-bU72k": {
       "key": "youtube:izXcd-bU72k",
@@ -1340,13 +1382,14 @@
       "title": "🔴EXPLORING VICE CITY - GTA 6 STREAM (EASTER EGGS)",
       "creator": "IShowSpeed",
       "duration": 20702.0,
-      "views": 9775807,
+      "views": 9888745,
       "published": "2026-11-22T16:04:37Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:l-oEKLu4Y3w": {
       "key": "youtube:l-oEKLu4Y3w",
@@ -1361,7 +1404,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:lEkrxBXqhKg": {
       "key": "youtube:lEkrxBXqhKg",
@@ -1376,7 +1420,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:lh3QeJ2kKww": {
       "key": "youtube:lh3QeJ2kKww",
@@ -1391,7 +1436,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:oyHFwPNd_c4": {
       "key": "youtube:oyHFwPNd_c4",
@@ -1406,7 +1452,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:r3oAEokOT5w": {
       "key": "youtube:r3oAEokOT5w",
@@ -1421,7 +1468,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:uZGnqBLC60Y": {
       "key": "youtube:uZGnqBLC60Y",
@@ -1430,13 +1478,14 @@
       "title": "IT'S FINALLY HERE | Grand Theft Auto 6 - Part 1",
       "creator": "jacksepticeye",
       "duration": 10485.0,
-      "views": 4844634,
+      "views": 4867843,
       "published": "2026-11-18T23:47:15Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:xgZCLTZbvs8": {
       "key": "youtube:xgZCLTZbvs8",
@@ -1451,7 +1500,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:yX4DH_msPkI": {
       "key": "youtube:yX4DH_msPkI",
@@ -1466,7 +1516,8 @@
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     },
     "youtube:ymCHX_Dcc-U": {
       "key": "youtube:ymCHX_Dcc-U",
@@ -1475,13 +1526,14 @@
       "title": "I Survived 100 Hours In GTA 6",
       "creator": "MrBeast Gaming",
       "duration": 1821.0,
-      "views": 60542906,
+      "views": 62413179,
       "published": "2026-11-19T18:00:01Z",
       "rights": "unspecified",
       "anchors": [],
       "parent": "",
       "parent_offset": null,
-      "recording": false
+      "recording": false,
+      "recorded": ""
     }
   },
   "moments": [
@@ -1551,23 +1603,6 @@
       "score": 87.0,
       "fingerprint": "636048f090d4840d.313130f4b8908404.313130f498d8c42d",
       "gta_vi_evidence": "",
-      "alternate_cuts": []
-    },
-    {
-      "id": "2101e3d27e57f973cd84",
-      "span": {
-        "source": "twitch-clip:IntelligentCreativePeafowlJKanStyle-LbxyGkwatR3fTsu8",
-        "start": 0.0,
-        "end": 14.0
-      },
-      "theme": "chase",
-      "hook": "The motorcycle speeds across a bridge toward highway signs.",
-      "setup": "The player rides a motorcycle down the highway past road signs for Key Largo and Catalan Key.",
-      "payoff": "The motorcycle crashes, throwing the player onto the pavement before displaying the Wasted screen.",
-      "evidence": "The player rides a motorcycle, crashes into obstacles, gets thrown onto the ground, and a Wasted screen appears.",
-      "score": 85.75,
-      "fingerprint": "0f0f1f1f1f1b1f57.0f0f4f0e1f171757.0f0f4c4e676767cf",
-      "gta_vi_evidence": "Road signs pointing toward Key Largo and Catalan Key combined with the Wasted death screen confirm Grand Theft Auto VI footage.",
       "alternate_cuts": []
     },
     {
@@ -1860,6 +1895,23 @@
       "alternate_cuts": []
     },
     {
+      "id": "c3db7433641a258db976",
+      "span": {
+        "source": "youtube:GMZzFJsf844",
+        "start": 459.25,
+        "end": 471.0
+      },
+      "theme": "mission",
+      "hook": "Police surround a suspect in a parking lot.",
+      "setup": "Officers close in on a suspect lying on the ground near a police cruiser.",
+      "payoff": "Officers pull the suspect up and put him in handcuffs.",
+      "evidence": "Police officers restrain and arrest the suspect on the pavement.",
+      "score": 82.5,
+      "fingerprint": "2c3d1b1bb1b496c7.3b371692a1bcf5f1.0e4e1eacb1b8fcfd",
+      "gta_vi_evidence": "The police vehicle and distinct lighting match the leaked GTA VI footage style.",
+      "alternate_cuts": []
+    },
+    {
       "id": "f2ad98b08155f3acdddd",
       "span": {
         "source": "twitch-vod:2933884560",
@@ -2015,91 +2067,6 @@
   ],
   "pending": [
     {
-      "id": "0d47aaeff7957349ff44",
-      "span": {
-        "source": "youtube:Vkbdv10eFcI",
-        "start": 390.0,
-        "end": 420.0
-      },
-      "theme": "chase",
-      "hook": "Stealing a luxury G-Wagon in the middle of traffic.",
-      "setup": "The player switches vehicles by jacking a silver G-Wagon near a gas station.",
-      "payoff": "The owner starts shooting back at the player as they flee down the highway with a wanted level.",
-      "evidence": "G-Wagon vehicle jacking and subsequent gunfire from the NPC.",
-      "score": 85.0,
-      "fingerprint": "",
-      "gta_vi_evidence": "",
-      "alternate_cuts": []
-    },
-    {
-      "id": "6a7258445a30aaff655e",
-      "span": {
-        "source": "youtube:lh3QeJ2kKww",
-        "start": 183.0,
-        "end": 210.0
-      },
-      "theme": "mission",
-      "hook": "Robbing a jewelry store",
-      "setup": "Jason enters the jewelry store with a gun and demands the safe location.",
-      "payoff": "The player smashes glass display cases to steal jewelry while managing alarms and police response.",
-      "evidence": "Jason shouts Where's the safe? while smashing glass cases and collecting stolen items.",
-      "score": 85.0,
-      "fingerprint": "",
-      "gta_vi_evidence": "",
-      "alternate_cuts": []
-    },
-    {
-      "id": "a9a3b0c35135dd16f30e",
-      "span": {
-        "source": "youtube:R97EoVD1nr4",
-        "start": 58786.28,
-        "end": 58814.28
-      },
-      "theme": "mission",
-      "hook": "Lucia tours a run-down house and jokes about the fireplace.",
-      "setup": "Mia guides Lucia and her associates through the living room and kitchen.",
-      "payoff": "Lucia remarks that the kitchen is 'like a real kitchen' while inspecting the appliances.",
-      "evidence": "Lucia says, 'Ooh fireplace, that's kinda a luxury item these days, huh? Lucky.'",
-      "score": 85.0,
-      "fingerprint": "",
-      "gta_vi_evidence": "",
-      "alternate_cuts": []
-    },
-    {
-      "id": "a323a1631d72cd627999",
-      "span": {
-        "source": "youtube:R97EoVD1nr4",
-        "start": 58906.28,
-        "end": 58936.28
-      },
-      "theme": "mission",
-      "hook": "Heading out to check the backyard.",
-      "setup": "Terro calls out for the backyard and Mia leads the group further.",
-      "payoff": "Mia enthusiastically tells them they are going to love the backyard as they walk down the hall.",
-      "evidence": "Terro says, 'Back yard?' and Mia responds, 'Yep, right this way. You're gonna love it!'",
-      "score": 84.0,
-      "fingerprint": "",
-      "gta_vi_evidence": "",
-      "alternate_cuts": []
-    },
-    {
-      "id": "59c633b72587a823a425",
-      "span": {
-        "source": "youtube:Vkbdv10eFcI",
-        "start": 11982.38,
-        "end": 12011.38
-      },
-      "theme": "mission",
-      "hook": "Jason investigates the upper floors of the skyscraper while construction workers gaze out the windows.",
-      "setup": "Jason walks through the unfinished office space with blue tape and construction debris.",
-      "payoff": "Jason approaches construction workers chatting by the tall glass windows overlooking the glittering city skyline.",
-      "evidence": "Interior skyscraper construction work, blue tape marks on windows, and dialogue in Spanish.",
-      "score": 82.0,
-      "fingerprint": "",
-      "gta_vi_evidence": "",
-      "alternate_cuts": []
-    },
-    {
       "id": "123b8f68df2c32109d9b",
       "span": {
         "source": "youtube:R97EoVD1nr4",
@@ -2117,18 +2084,18 @@
       "alternate_cuts": []
     },
     {
-      "id": "aacd99ce65ffb8fa75d3",
+      "id": "6f835dd32ec9bfcf3a60",
       "span": {
-        "source": "youtube:gBLQ-t_tywk",
-        "start": 29156.6,
-        "end": 29196.6
+        "source": "youtube:Vkbdv10eFcI",
+        "start": 12137.48,
+        "end": 12169.48
       },
       "theme": "mission",
-      "hook": "Planning a heist in a dark room with a female associate.",
-      "setup": "Jason climbs through back alleyways and doors to reach the planning room.",
-      "payoff": "Discussion about rewriting files and security access.",
-      "evidence": "Characters discuss heist plans in an indoor office setting.",
-      "score": 80.0,
+      "hook": "Walking through hallways to find a private meeting.",
+      "setup": "The character navigates through corridors to reach a conference room.",
+      "payoff": "He interrupts a meeting and converses with people gathered around a model building.",
+      "evidence": "Private meeting, don't come in!",
+      "score": 82.0,
       "fingerprint": "",
       "gta_vi_evidence": "",
       "alternate_cuts": []
@@ -2168,40 +2135,6 @@
       "alternate_cuts": []
     },
     {
-      "id": "5db7d538039fb65edd16",
-      "span": {
-        "source": "youtube:QQV-0OUGxGs",
-        "start": 494.75,
-        "end": 531.75
-      },
-      "theme": "chase",
-      "hook": "Fleeing with bags of cash",
-      "setup": "The character exits a building into a parking lot and runs from police vehicles.",
-      "payoff": "The player jumps off a balcony, hijacks a red SUV, and drives away from pursuers.",
-      "evidence": "Police cars with flashing lights surround the red SUV as it accelerates down the street.",
-      "score": 80.0,
-      "fingerprint": "",
-      "gta_vi_evidence": "",
-      "alternate_cuts": []
-    },
-    {
-      "id": "e4e5db19e3fb5a46174a",
-      "span": {
-        "source": "youtube:dUYIMa2ifWM",
-        "start": 672.36,
-        "end": 698.36
-      },
-      "theme": "chase",
-      "hook": "An accidental punch on a dock turns into a chaotic brawl.",
-      "setup": "A player stands near NPCs on a wooden pier next to boats.",
-      "payoff": "A fist fight ensues, sending multiple NPCs tumbling off the edge into the water.",
-      "evidence": "Fistfight breaks out on pier causing characters to fall in water.",
-      "score": 80.0,
-      "fingerprint": "",
-      "gta_vi_evidence": "",
-      "alternate_cuts": []
-    },
-    {
       "id": "511763491a4dc8176780",
       "span": {
         "source": "youtube:yX4DH_msPkI",
@@ -2213,40 +2146,6 @@
       "setup": "After eliminating the suspects inside the lab, Jason rushes out of the building.",
       "payoff": "Jason vaults over a fence, runs down the street, and resumes his patrol.",
       "evidence": "Look for signs of synthetic drugs and question nearby residents to locate the lab.",
-      "score": 80.0,
-      "fingerprint": "",
-      "gta_vi_evidence": "",
-      "alternate_cuts": []
-    },
-    {
-      "id": "3f4cc30346619922a129",
-      "span": {
-        "source": "youtube:GMZzFJsf844",
-        "start": 464.0,
-        "end": 479.0
-      },
-      "theme": "discovery",
-      "hook": "A peaceful fishing trip interrupted unexpectedly.",
-      "setup": "A character stands on a dock holding a fishing rod over the water.",
-      "payoff": "An NPC abruptly pushes the character off the dock into the water, sending them swimming.",
-      "evidence": "An NPC shoves the player off the dock into the water.",
-      "score": 80.0,
-      "fingerprint": "",
-      "gta_vi_evidence": "",
-      "alternate_cuts": []
-    },
-    {
-      "id": "a8a0ed037bcc9badbb60",
-      "span": {
-        "source": "youtube:1GeQU0SEC-E",
-        "start": 1165.57,
-        "end": 1207.57
-      },
-      "theme": "discovery",
-      "hook": "Grabbing quick cash from the floorboards.",
-      "setup": "The player is short on cash and checks their hidden stash under the floorboards.",
-      "payoff": "Jason retrieves all his savings, increasing his cash total significantly.",
-      "evidence": "I went to my personal stash and grabbed everything there.",
       "score": 80.0,
       "fingerprint": "",
       "gta_vi_evidence": "",
@@ -2315,23 +2214,6 @@
       "setup": "The player runs out of the store and targets a police cruiser.",
       "payoff": "The player steals the police cruiser and speeds away through city streets while evading notice.",
       "evidence": "The player opens the door of a marked police car, enters, and drives away.",
-      "score": 80.0,
-      "fingerprint": "",
-      "gta_vi_evidence": "",
-      "alternate_cuts": []
-    },
-    {
-      "id": "42db319e7f1f41c48355",
-      "span": {
-        "source": "youtube:RMGdwkZ5VFw",
-        "start": 187.72,
-        "end": 198.72
-      },
-      "theme": "stunt",
-      "hook": "Jumping a Patriot Beer monster truck over dirt ramps",
-      "setup": "The player locates the Patriot Beer monster truck parked on a platform in the Wild Hog Point area.",
-      "payoff": "The monster truck launches off a dirt ramp and triggers the Air Time challenge.",
-      "evidence": "Patriot Beer monster truck and Air Time challenge score UI visible.",
       "score": 80.0,
       "fingerprint": "",
       "gta_vi_evidence": "",
@@ -2508,17 +2390,17 @@
       "alternate_cuts": []
     },
     {
-      "id": "49365b9887f8ed10dcac",
+      "id": "b3a4ad2a8fc54b5647cb",
       "span": {
-        "source": "youtube:RMGdwkZ5VFw",
-        "start": 200.72,
-        "end": 213.72
+        "source": "youtube:Vkbdv10eFcI",
+        "start": 12109.48,
+        "end": 12137.48
       },
-      "theme": "driving",
-      "hook": "Testing an off-road buggy by the river",
-      "setup": "The player approaches the BF Sludge Rafe Injection buggy parked near the river.",
-      "payoff": "The buggy drives along the dirt paths and handles off-road terrain.",
-      "evidence": "BF Sludge Rafe Injection vehicle name is shown.",
+      "theme": "discovery",
+      "hook": "Conversing with construction workers overlooking the city.",
+      "setup": "The player character walks up to workers near large windows.",
+      "payoff": "The workers talk in Spanish about heights and sleeping on the floor.",
+      "evidence": "In Spanish: I don't like heights, man.",
       "score": 78.0,
       "fingerprint": "",
       "gta_vi_evidence": "",
@@ -2678,23 +2560,6 @@
       "alternate_cuts": []
     },
     {
-      "id": "b6cab545d3fc11c9e854",
-      "span": {
-        "source": "youtube:QQV-0OUGxGs",
-        "start": 717.75,
-        "end": 758.75
-      },
-      "theme": "driving",
-      "hook": "Dodging the train tracks",
-      "setup": "The player drives an SUV along train tracks to escape wanted levels.",
-      "payoff": "The car narrowly avoids oncoming trains while sliding under bridges to lose the cops.",
-      "evidence": "The camera pans closely to the train tracks as the car struggles to maneuver past concrete pillars.",
-      "score": 75.0,
-      "fingerprint": "",
-      "gta_vi_evidence": "",
-      "alternate_cuts": []
-    },
-    {
       "id": "0e88deea4dae0031448d",
       "span": {
         "source": "youtube:eJKZKf0gL-s",
@@ -2706,23 +2571,6 @@
       "setup": "Jason browses various tops, Hawaiian shirts, and hoodies.",
       "payoff": "He picks a burgundy leaf print Hawaiian shirt and a tank top.",
       "evidence": "Hawaiian shirt burgundy leaf print",
-      "score": 75.0,
-      "fingerprint": "",
-      "gta_vi_evidence": "",
-      "alternate_cuts": []
-    },
-    {
-      "id": "b9aa44e44823c8929e89",
-      "span": {
-        "source": "youtube:XUQ7qoZjNBA",
-        "start": 24618.19,
-        "end": 24637.19
-      },
-      "theme": "driving",
-      "hook": "Choosing the getaway vehicle.",
-      "setup": "A countdown timer is displayed over three different vehicles in a garage.",
-      "payoff": "The armored truck is selected and speeds out of the garage.",
-      "evidence": "PICK YOUR GETAWAY VEHICLE",
       "score": 75.0,
       "fingerprint": "",
       "gta_vi_evidence": "",
@@ -2825,6 +2673,23 @@
       "setup": "Jason opens the refrigerator to select a protein shake.",
       "payoff": "He drinks the shake, triggering an on-screen notification that his health and stamina are buffed.",
       "evidence": "UI popups showing Health buffed and Stamina buffed after drinking.",
+      "score": 75.0,
+      "fingerprint": "",
+      "gta_vi_evidence": "",
+      "alternate_cuts": []
+    },
+    {
+      "id": "02cc9c8855fa04031e8b",
+      "span": {
+        "source": "youtube:ymCHX_Dcc-U",
+        "start": 71.0,
+        "end": 105.0
+      },
+      "theme": "driving",
+      "hook": "Driving a motorcycle through city streets.",
+      "setup": "The player rides a motorcycle down a street during Hour 4.",
+      "payoff": "The player navigates traffic smoothly and comments on the driving mechanics.",
+      "evidence": "Driving motorcycle on urban road at 00:01",
       "score": 75.0,
       "fingerprint": "",
       "gta_vi_evidence": "",
