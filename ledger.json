@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "edits": [],
+  "rejected": [
+    {
+      "id": "6e57d81284726de923cf",
+      "date": "2026-11-23T12:20:34Z",
+      "reason": "The finished edit lacked verifiable GTA VI evidence. The edit utilizes modded Grand Theft Auto V gameplay rather than confirmed Grand Theft Auto VI footage."
+    },
+    {
+      "id": "e332e1b3d5d7ceec9940",
+      "date": "2026-11-23T12:22:25Z",
+      "reason": "Final opening takes too long to establish the hook."
+    }
+  ]
+}
