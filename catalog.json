@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-24T01:43:23Z",
+  "generated_at": "2026-11-24T21:46:04Z",
   "scanned": {
     "d66f80f00ab35d8f5532": "2026-11-18T12:29:44Z",
     "4f8b3e763c3765bfbfdf": "2026-11-18T12:29:55Z",
@@ -298,6 +298,21 @@
     "deb4bad21faf2230857a": "2026-11-23T16:37:27Z",
     "dade641ea3d7ffb819c5": "2026-11-23T16:37:36Z",
     "b7e822fe0e273f31b374": "2026-11-23T16:40:04Z",
+    "53f94c36691f0e6477c9": "2026-11-24T16:11:20Z",
+    "86679b499344fd73b6f1": "2026-11-24T16:13:57Z",
+    "8b73eebc8281cdc2e5fb": "2026-11-24T16:14:57Z",
+    "4f20b610d6946d228fce": "2026-11-24T16:15:09Z",
+    "9c6b9794c50d2be58dc6": "2026-11-24T16:15:21Z",
+    "f9e341aac39a8bae8748": "2026-11-24T16:15:30Z",
+    "3f29587ad8cf57dacc9a": "2026-11-24T16:15:42Z",
+    "2fe661af076ec9a6a441": "2026-11-24T16:19:42Z",
+    "62affbcdfa72bbbb4dd1": "2026-11-24T16:20:05Z",
+    "374ae8f437e43bf676fd": "2026-11-24T16:21:28Z",
+    "03593483e55bc92de47b": "2026-11-24T16:22:16Z",
+    "60603241b6b4e77238c4": "2026-11-24T16:22:55Z",
+    "3f3c1183d611aaf35b2f": "2026-11-24T16:23:53Z",
+    "e460b00dd2ef53279c0f": "2026-11-24T16:24:11Z",
+    "ba3425b1c798968ce045": "2026-11-24T16:24:18Z",
     "bfeb05425a994329bc09": "2026-11-19T06:41:03Z",
     "f88b206f750c0abb3e6e": "2026-11-19T06:44:56Z",
     "6581be64d6ac4603914c": "2026-11-19T06:46:31Z",
@@ -461,7 +476,6 @@
     "03f5a31090108b103b69": "2026-11-23T11:32:25Z",
     "6191993e821045b42b8e": "2026-11-23T11:32:25Z",
     "854c7103279489ef1af7": "2026-11-23T11:32:25Z",
-    "f9e341aac39a8bae8748": "2026-11-23T11:32:33Z",
     "a91d6c05400f8bc137e5": "2026-11-23T11:33:08Z",
     "a8f714344d737e9cfd65": "2026-11-23T11:33:18Z",
     "778e0d67ecb101d072c3": "2026-11-23T11:33:50Z",
@@ -480,19 +494,15 @@
     "72d9f5664294292972c3": "2026-11-23T14:07:23Z",
     "a700348065d383644c29": "2026-11-23T14:12:04Z",
     "dc166f4441e7f964ef0e": "2026-11-23T14:18:55Z",
-    "53f94c36691f0e6477c9": "2026-11-24T01:30:38Z",
     "b4ad3dfbf8bee244c434": "2026-11-24T01:30:38Z",
     "b688c0150825584101dd": "2026-11-24T01:30:38Z",
     "4d984cca88f2a108e0a1": "2026-11-24T01:31:12Z",
-    "9c6b9794c50d2be58dc6": "2026-11-24T01:31:12Z",
     "944335d6dd3e85c0b671": "2026-11-24T01:31:12Z",
     "345a3edc4cce3bc8f7dc": "2026-11-24T01:32:06Z",
     "e98a542afbffeb83e68c": "2026-11-24T01:32:38Z",
     "3ea7b343532fddb01930": "2026-11-24T01:32:38Z",
-    "8b73eebc8281cdc2e5fb": "2026-11-24T01:32:38Z",
     "7b8fc658a1d11c8c7bfc": "2026-11-24T01:32:57Z",
     "c384db15725da24ce529": "2026-11-24T01:32:57Z",
-    "3f29587ad8cf57dacc9a": "2026-11-24T01:32:57Z",
     "9faf5b5a6077e8679c55": "2026-11-24T01:33:24Z",
     "30bd01ea41d3863fc8f0": "2026-11-24T01:33:48Z",
     "8ab386c865fb7a9fc886": "2026-11-24T01:33:48Z",
@@ -517,7 +527,35 @@
     "0398f6a9f0c3186abf6a": "2026-11-24T01:37:53Z",
     "ccfb00efc9c8c34c4cdd": "2026-11-24T01:38:17Z",
     "a035ec682824c7959b5d": "2026-11-24T01:39:06Z",
-    "ba011195c86ac9ada079": "2026-11-24T01:39:52Z"
+    "ba011195c86ac9ada079": "2026-11-24T01:39:52Z",
+    "fa316cc26d2a4a9e3272": "2026-11-24T21:30:51Z",
+    "50967bcf40988326f986": "2026-11-24T21:30:51Z",
+    "6c5805499a3e29f040ce": "2026-11-24T21:30:51Z",
+    "bc907a29a7b6f225bfd0": "2026-11-24T21:31:27Z",
+    "bf032142a609e8a89f8d": "2026-11-24T21:31:27Z",
+    "29be3c840faf134360f3": "2026-11-24T21:31:27Z",
+    "475b99c148833e4886fb": "2026-11-24T21:32:25Z",
+    "9de2e80d38d171a6baed": "2026-11-24T21:32:58Z",
+    "6234ff147ad2841f2c73": "2026-11-24T21:32:58Z",
+    "5a3a46ffbe90c3105f58": "2026-11-24T21:32:58Z",
+    "61ee631a510bbbb61d7d": "2026-11-24T21:33:30Z",
+    "b83965f5d6498469eec7": "2026-11-24T21:33:30Z",
+    "7202ac66de76ae4849d4": "2026-11-24T21:33:30Z",
+    "f26bcd43f57c1c0f54d2": "2026-11-24T21:34:29Z",
+    "c89045943846170bfa47": "2026-11-24T21:35:11Z",
+    "d926f6c6eaf4f52fefc6": "2026-11-24T21:35:11Z",
+    "222b1c35cb4889a85cf9": "2026-11-24T21:35:11Z",
+    "4d539bd8802ae67d568f": "2026-11-24T21:36:00Z",
+    "a453101347404b1aca21": "2026-11-24T21:36:13Z",
+    "58b498428ab08e934707": "2026-11-24T21:36:20Z",
+    "f5cd4f5770568c52e23e": "2026-11-24T21:36:55Z",
+    "202b3b603ed4d317d9ae": "2026-11-24T21:37:18Z",
+    "a153600b84824fabcf64": "2026-11-24T21:37:28Z",
+    "8472d3ea35f69ae1f62b": "2026-11-24T21:37:39Z",
+    "6601b399895f0555e6fa": "2026-11-24T21:37:51Z",
+    "9ae71ea44f60a31798d6": "2026-11-24T21:37:57Z",
+    "d4611eb7a3c340e62ac9": "2026-11-24T21:38:17Z",
+    "a55bbd7ebf0b8e3b8c5d": "2026-11-24T21:39:16Z"
   },
   "sources": {
     "twitch-clip:PiercingDaintyEyeballDansGame-E4ScXXg1iflvPuVr": {
@@ -639,7 +677,7 @@
       "title": "Grand Theft Auto VI - 19th November 2026",
       "creator": "MissMikkaa",
       "duration": 36170.0,
-      "views": 280448,
+      "views": 281388,
       "published": "2026-11-19T13:45:03Z",
       "rights": "unspecified",
       "anchors": [],
@@ -671,7 +709,7 @@
       "title": "🦎GTA VI🦎CODIGOS CADA 10 MIN🦎DROPS EXCLUSIVOS🦎SEGUIMOS SIMPEANDO A LUCIA🦎",
       "creator": "Rubius",
       "duration": 31260.0,
-      "views": 2942451,
+      "views": 2960498,
       "published": "2026-11-19T17:07:46Z",
       "rights": "unspecified",
       "anchors": [],
@@ -739,7 +777,7 @@
       "title": "[PS5 Pro] [HOURLY GIVEAWAYS] Day 3 of GTA VI",
       "creator": "DarkViperAU",
       "duration": 42958.0,
-      "views": 242883,
+      "views": 243590,
       "published": "2026-11-20T10:01:28Z",
       "rights": "unspecified",
       "anchors": [],
@@ -897,6 +935,44 @@
       "rights": "unspecified",
       "anchors": [
         25110.0
+      ],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false,
+      "recorded": ""
+    },
+    "twitch-vod:2938342600": {
+      "key": "twitch-vod:2938342600",
+      "url": "https://www.twitch.tv/videos/2938342600",
+      "platform": "twitch-vod",
+      "title": "🔴[DROPS] GTA 6 FULL PLAYTHROUGH (99% DONE)🔴",
+      "creator": "ohnePixel",
+      "duration": 31710.0,
+      "views": 1248100,
+      "published": "2026-11-23T13:39:17Z",
+      "rights": "unspecified",
+      "anchors": [
+        9975.0
+      ],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false,
+      "recorded": ""
+    },
+    "twitch-vod:2938467977": {
+      "key": "twitch-vod:2938467977",
+      "url": "https://www.twitch.tv/videos/2938467977",
+      "platform": "twitch-vod",
+      "title": "gta 6 vivendo a vida curtindo adoidado é",
+      "creator": "alanzoka",
+      "duration": 31976.0,
+      "views": 944070,
+      "published": "2026-11-23T16:40:41Z",
+      "rights": "unspecified",
+      "anchors": [
+        26312.0,
+        19292.0,
+        17907.0
       ],
       "parent": "",
       "parent_offset": null,
@@ -1710,6 +1786,23 @@
       "alternate_cuts": []
     },
     {
+      "id": "e11fa7f6753cbf369c7e",
+      "span": {
+        "source": "twitch-vod:2938342600",
+        "start": 10030.5,
+        "end": 10048.0
+      },
+      "theme": "comedy",
+      "hook": "Andy shares how she handled being behind on sales.",
+      "setup": "Andy tells the group about what she did when she was behind on her sales.",
+      "payoff": "Andy reveals she put feet pics up on Peekhole anonymously.",
+      "evidence": "Andy states, 'When I was really behind on my sales, to top off my earnings, I put feet pics up on Peekhole, anonymously, of course.'",
+      "score": 86.5,
+      "fingerprint": "030212020743484c.030212020743484c.030212030743484c",
+      "gta_vi_evidence": "The sequence features Lucia in the yoga circle and dialogue referencing Peekhole and sales quotas.",
+      "alternate_cuts": []
+    },
+    {
       "id": "f3bbb4a6262936e74f45",
       "span": {
         "source": "youtube:8zpkGW2DGCo",
@@ -1793,6 +1886,23 @@
           "alternate_cuts": []
         }
       ]
+    },
+    {
+      "id": "9a5bf4e552dadae67d8e",
+      "span": {
+        "source": "twitch-vod:2938342600",
+        "start": 9916.0,
+        "end": 9940.5
+      },
+      "theme": "comedy",
+      "hook": "Jenna starts sharing a messy wedding secret.",
+      "setup": "Jenna explains she was a bridesmaid at Lauren's wedding and threw up on her mom at the reception.",
+      "payoff": "Jenna reveals her mom has dementia, leading to an awkward apology to Lauren.",
+      "evidence": "Jenna says: 'Um... So I was a bridesmaid at Lauren's wedding... and threw up on her mom at the reception... Her mom has dementia, so she doesn't remember... but now I can finally tell someone. Sorry, Lauren! Oh, and sorry, Lauren's mom!'",
+      "score": 84.0,
+      "fingerprint": "e0c0e29195980898.c0c1f1b092981898.c0c1f1b092981890",
+      "gta_vi_evidence": "The in-game dialogue features characters interacting in a yoga circle, with the UI showing controls for Lucia.",
+      "alternate_cuts": []
     },
     {
       "id": "d4419cea516825bb6b93",
@@ -2166,6 +2276,23 @@
       "score": 80.5,
       "fingerprint": "0e0f0bcf9f13130f.0e0f0fcf9f13131d.0e0d0fcf9f93130d",
       "gta_vi_evidence": "",
+      "alternate_cuts": []
+    },
+    {
+      "id": "aab39c38ccefe6f73975",
+      "span": {
+        "source": "twitch-vod:2938467977",
+        "start": 26266.5,
+        "end": 26278.0
+      },
+      "theme": "mission",
+      "hook": "Jason abruptly sprints into the lighthouse after realizing Lucia fell.",
+      "setup": "Jason panics and runs inside the lighthouse entrance.",
+      "payoff": "Jason looks down the dark interior shaft and shouts in shock as he prepares to climb down.",
+      "evidence": "Jason runs through the doorway, peers down into the inner shaft, and shouts 'Macho!' in panic.",
+      "score": 78.75,
+      "fingerprint": "f5f57474f9f179db.8fcbc3e7270646d7.f2f2e8d0dbdbd2d3",
+      "gta_vi_evidence": "The sequence displays Jason and Lucia character models interacting within a lighthouse interior with matching HUD elements.",
       "alternate_cuts": []
     },
     {
