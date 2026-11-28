@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-27T19:33:44Z",
+  "generated_at": "2026-11-28T02:18:48Z",
   "scanned": {
     "d66f80f00ab35d8f5532": "2026-11-18T12:29:44Z",
     "4f8b3e763c3765bfbfdf": "2026-11-18T12:29:55Z",
@@ -520,6 +520,45 @@
     "f95414928b0b20962b90": "2026-11-27T15:32:49Z",
     "ac933b50cac2947ac331": "2026-11-27T15:33:14Z",
     "db3225f97390430547c4": "2026-11-27T15:33:40Z",
+    "ddecad03da1072324f89": "2026-11-28T00:44:40Z",
+    "b3c371ac0b4b76231307": "2026-11-28T00:44:40Z",
+    "1fd01678564311de52c1": "2026-11-28T00:44:40Z",
+    "bcbcd3c570f8997b0af0": "2026-11-28T00:44:57Z",
+    "c24f283648f3436d2944": "2026-11-28T00:44:57Z",
+    "64286a71c0b60b35c371": "2026-11-28T00:44:57Z",
+    "ca770139853a0667fab5": "2026-11-28T00:45:46Z",
+    "835f5a28eb8c77833215": "2026-11-28T00:46:08Z",
+    "f3f0982b86b50d7e9c02": "2026-11-28T00:46:08Z",
+    "8f2b11d74b88416de990": "2026-11-28T00:46:08Z",
+    "848d52bbd7aa80d5dee1": "2026-11-28T00:46:41Z",
+    "c9bf0d56b787a09b0160": "2026-11-28T00:46:41Z",
+    "c725e94ce96d14e80705": "2026-11-28T00:46:41Z",
+    "150bf3ce424bfa8bfdaa": "2026-11-28T00:47:28Z",
+    "bbccac4a372b560aa865": "2026-11-28T00:47:55Z",
+    "7a2b521ec7067e7cbdec": "2026-11-28T00:47:55Z",
+    "49c58a4e19b9f8566962": "2026-11-28T00:47:55Z",
+    "a7c170993ba677919079": "2026-11-28T00:48:21Z",
+    "e65bd9dda0cbc7f0dd5c": "2026-11-28T00:48:21Z",
+    "c2520dada827b2601347": "2026-11-28T00:48:21Z",
+    "b57591395057932b2c38": "2026-11-28T00:49:03Z",
+    "f1338fdfbcdade0b4116": "2026-11-28T00:49:27Z",
+    "edbeb7ddb082225733a8": "2026-11-28T00:49:27Z",
+    "94163c9ea830360e5d14": "2026-11-28T00:49:27Z",
+    "3b11fe8bc9903606eb4d": "2026-11-28T00:49:55Z",
+    "72af78b4daee5cba7288": "2026-11-28T00:49:55Z",
+    "eb4b478f2726fd185895": "2026-11-28T00:49:55Z",
+    "bf5d0835bc89bcdb2ae2": "2026-11-28T00:50:19Z",
+    "f04801226ff47a7e3390": "2026-11-28T00:50:40Z",
+    "e2023b60207df3bdce20": "2026-11-28T00:50:40Z",
+    "a08d70680574b9a7d978": "2026-11-28T00:50:40Z",
+    "65245b049950671ca39f": "2026-11-28T00:50:53Z",
+    "948cd27eb6839e42934e": "2026-11-28T00:50:53Z",
+    "f3ee11996d704490c4aa": "2026-11-28T00:51:17Z",
+    "b3b85a1b8e30ad3e0698": "2026-11-28T00:51:42Z",
+    "ae0366467440dea19aee": "2026-11-28T00:52:28Z",
+    "82a2f53d7d7efa8f575c": "2026-11-28T00:52:49Z",
+    "ca4f6a542283b67848a1": "2026-11-28T00:53:13Z",
+    "b248ec78fc0d9f0b3cd2": "2026-11-28T00:53:56Z",
     "bfeb05425a994329bc09": "2026-11-19T06:41:03Z",
     "f88b206f750c0abb3e6e": "2026-11-19T06:44:56Z",
     "6581be64d6ac4603914c": "2026-11-19T06:46:31Z",
@@ -843,7 +882,6 @@
     "4ebc98cd11792f515073": "2026-11-27T09:20:07Z",
     "82772a5de754c4d3410c": "2026-11-27T09:20:59Z",
     "727cb119f948275bdd6f": "2026-11-27T19:09:37Z",
-    "b3c371ac0b4b76231307": "2026-11-27T19:09:37Z",
     "0d959900e08f22b143b9": "2026-11-27T19:09:37Z",
     "110e8b48114bfef557f9": "2026-11-27T19:10:16Z",
     "cdb566733ac9171599b3": "2026-11-27T19:10:16Z",
@@ -870,7 +908,41 @@
     "165b388957172168f6f7": "2026-11-27T19:19:33Z",
     "9ed9511130b4c81a78ea": "2026-11-27T19:19:48Z",
     "c442a84e806de6adeaf5": "2026-11-27T19:20:47Z",
-    "84396dbe0dd1c1fbffa6": "2026-11-27T19:21:49Z"
+    "84396dbe0dd1c1fbffa6": "2026-11-27T19:21:49Z",
+    "15cbc085ea77c1baca90": "2026-11-28T02:07:23Z",
+    "91b625448fe291c5ceae": "2026-11-28T02:07:23Z",
+    "9d69c0cf7bb6ef59465c": "2026-11-28T02:07:23Z",
+    "4d8412178745b0cce304": "2026-11-28T02:07:53Z",
+    "fb39fafede677d91723b": "2026-11-28T02:07:53Z",
+    "f17886c7187fba6fcb58": "2026-11-28T02:07:53Z",
+    "d3a8a6727335ba699942": "2026-11-28T02:08:33Z",
+    "4777b6d5d5a44ca19985": "2026-11-28T02:09:08Z",
+    "e75d23ad4e51db6401f0": "2026-11-28T02:09:08Z",
+    "d5357fbbdb0f1629900c": "2026-11-28T02:09:08Z",
+    "61809153e0f1b434a2cd": "2026-11-28T02:09:26Z",
+    "11a09da9d7faaa80adfc": "2026-11-28T02:09:26Z",
+    "b117aea69ac831375f09": "2026-11-28T02:09:26Z",
+    "65e3043cd68d0620929e": "2026-11-28T02:09:53Z",
+    "27b4ea540b56e36ce54a": "2026-11-28T02:10:14Z",
+    "e250abd40ae56c2403f0": "2026-11-28T02:10:14Z",
+    "cd0360b58085e9319cda": "2026-11-28T02:10:14Z",
+    "d6d867738da92fdb307d": "2026-11-28T02:10:39Z",
+    "1926e862b33567b2aeac": "2026-11-28T02:10:39Z",
+    "672f533f38bbf9ed8399": "2026-11-28T02:10:39Z",
+    "bb10df7b9d17b0c87c20": "2026-11-28T02:11:06Z",
+    "7b2fcbfe218d309b8a2e": "2026-11-28T02:11:22Z",
+    "4db3da65a42ea16c70b0": "2026-11-28T02:11:22Z",
+    "8a5e04505b432d170977": "2026-11-28T02:11:22Z",
+    "ec9a6facc70a6c31c4c2": "2026-11-28T02:11:45Z",
+    "775d60f362e103fa2d24": "2026-11-28T02:12:29Z",
+    "140752e68a0a9925353b": "2026-11-28T02:12:53Z",
+    "083a067bc9e3c7338f52": "2026-11-28T02:13:36Z",
+    "a30936f4a80fbc47c98d": "2026-11-28T02:14:20Z",
+    "8df73f6cd3df69f5b8e9": "2026-11-28T02:14:34Z",
+    "5c4223d57bec3abbc657": "2026-11-28T02:14:57Z",
+    "e9a5a7c5f326388d2085": "2026-11-28T02:15:26Z",
+    "71ea125dd261a788051d": "2026-11-28T02:16:10Z",
+    "cdef1fbe355791ed8d73": "2026-11-28T02:16:33Z"
   },
   "sources": {
     "twitch-clip:AntsyPolishedKoupreyBibleThump-NHTlUqUqyb4BUNY3": {
@@ -1264,13 +1336,11 @@
       "title": "#AD | GTA 6 IS FINALLY HERE 🥹 FIRST TIME PLAYING — $10K RUMBLE HEIST!",
       "creator": "Tminnzy",
       "duration": 49309.0,
-      "views": 373107,
+      "views": 373141,
       "published": "2026-11-21T05:17:05Z",
       "rights": "unspecified",
       "anchors": [
-        10520.0,
-        35065.0,
-        33679.0
+        10543.0
       ],
       "parent": "",
       "parent_offset": null,
@@ -1550,12 +1620,10 @@
       "title": "Looking At Unhinged GTA 6 Metacritic User Reviews",
       "creator": "DarkViperAU",
       "duration": 40559.0,
-      "views": 180890,
+      "views": 181065,
       "published": "2026-11-25T16:30:21Z",
       "rights": "unspecified",
-      "anchors": [
-        8061.0
-      ],
+      "anchors": [],
       "parent": "",
       "parent_offset": null,
       "recording": false,
@@ -1606,13 +1674,11 @@
       "title": "🔴[DROPS] GTA 6 FULL PLAYTHROUGH *ALMOST DONE*🔴",
       "creator": "ohnePixel",
       "duration": 27670.0,
-      "views": 969840,
+      "views": 978033,
       "published": "2026-11-26T14:00:16Z",
       "rights": "unspecified",
       "anchors": [
-        26082.0,
-        22556.0,
-        19429.0
+        15380.0
       ],
       "parent": "",
       "parent_offset": null,
@@ -1632,6 +1698,42 @@
       "anchors": [
         18401.0,
         18754.0
+      ],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false,
+      "recorded": ""
+    },
+    "twitch-vod:2941535822": {
+      "key": "twitch-vod:2941535822",
+      "url": "https://www.twitch.tv/videos/2941535822",
+      "platform": "twitch-vod",
+      "title": "🚉GTA6 VICE CITY CH4🚉DRAMA🚉CENKSGIVING!!!!🚉ARMY LEAD BOMB OVER IOWA🗽CHIRLA AND NILC DONOS MAKE ME BLOND!🗽 !donate",
+      "creator": "HasanAbi",
+      "duration": 26470.0,
+      "views": 586340,
+      "published": "2026-11-26T18:35:45Z",
+      "rights": "unspecified",
+      "anchors": [
+        14686.0
+      ],
+      "parent": "",
+      "parent_offset": null,
+      "recording": false,
+      "recorded": ""
+    },
+    "twitch-vod:2942196441": {
+      "key": "twitch-vod:2942196441",
+      "url": "https://www.twitch.tv/videos/2942196441",
+      "platform": "twitch-vod",
+      "title": "[HAPPY THANKSGIVING!] GTA 6! - New games MONDAY! - !SubGift - !Beanie is BACK in the store! - PS5 Pro - !Emberville (Jan 7th!)",
+      "creator": "CohhCarnage",
+      "duration": 17653.0,
+      "views": 141629,
+      "published": "2026-11-27T13:01:11Z",
+      "rights": "unspecified",
+      "anchors": [
+        3016.0
       ],
       "parent": "",
       "parent_offset": null,
@@ -2564,6 +2666,23 @@
       "alternate_cuts": []
     },
     {
+      "id": "d023d534576ce93da6f4",
+      "span": {
+        "source": "twitch-vod:2941535822",
+        "start": 14675.0,
+        "end": 14693.0
+      },
+      "theme": "mission",
+      "hook": "Terre inspects the backyard brick oven while the group watches closely.",
+      "setup": "Terre asks about the pizza oven and insists it stays, leading Bones to joke about making dough before calling it delicious.",
+      "payoff": "Terre abruptly switches to Spanish and orders them to go to the car.",
+      "evidence": "Terre asks What's this? and then orders everyone to go to the car in Spanish.",
+      "score": 85.75,
+      "fingerprint": "0bc3b7151dedcec9.0f0c07a3d353a6a9.075d8f85b5363632",
+      "gta_vi_evidence": "Characters discuss the outdoor pizza oven in a rendered cinematic scene corresponding to Grand Theft Auto VI.",
+      "alternate_cuts": []
+    },
+    {
       "id": "be8ed0c9d10b9aab2c73",
       "span": {
         "source": "twitch-vod:2940322036",
@@ -2937,6 +3056,23 @@
       "alternate_cuts": []
     },
     {
+      "id": "e5803e3092109c42c2e5",
+      "span": {
+        "source": "twitch-vod:2942196441",
+        "start": 2970.0,
+        "end": 2989.5
+      },
+      "theme": "comedy",
+      "hook": "Lucia tells Herbert she is ready to take notes and asks what's good.",
+      "setup": "Lucia challenges Herbert by stating she is ready to take notes, leading Herbert to laugh and react.",
+      "payoff": "Herbert laughs, says Lucia has balls, and warns her he will be back on her ass like white on rice.",
+      "evidence": "Lucia says 'I'm ready to take notes. What's good?' and Herbert replies 'Oh, shit! You got some balls on you! Mmm... I like you, small fry. Imma let you live today, but don't push your motherfuckin' luck. I'll be back on yo' ass like white on rice, motherfucker.'",
+      "score": 83.25,
+      "fingerprint": "0c0808606040c0c0.0c0808606040c0c6.0c0828606040c4c4",
+      "gta_vi_evidence": "Lucia and Herbert dialogue set in Vice City with GTA VI interface elements visible.",
+      "alternate_cuts": []
+    },
+    {
       "id": "110976d2329270613a52",
       "span": {
         "source": "twitch-vod:2940385615",
@@ -3121,6 +3257,23 @@
       "score": 82.75,
       "fingerprint": "4240434010307070.e4e0e060e8e0b072.b0d6dc48e84d4dcd",
       "gta_vi_evidence": "",
+      "alternate_cuts": []
+    },
+    {
+      "id": "701a581557efcc1efd40",
+      "span": {
+        "source": "twitch-vod:2941483018",
+        "start": 18362.0,
+        "end": 18386.0
+      },
+      "theme": "driving",
+      "hook": "A red sports car pulls out into bright sunlight and navigates city traffic.",
+      "setup": "The red sports car cruises down the street past cars and palm trees.",
+      "payoff": "The car veers off-road into a building wall, causing a pedestrian to yell and scramble over the hood.",
+      "evidence": "The vehicle drives down a sunny street and crashes into a storefront, pinning a person in green clothes against the wall.",
+      "score": 82.5,
+      "fingerprint": "0f064e0f17337373.8009a9e1c12370d6.393f3b7b7b73f1db",
+      "gta_vi_evidence": "The vehicle dashboard and navigation minimap display Spanish prompts ('Gira a la izquierda') alongside detailed next-gen lighting typical of GTA VI gameplay.",
       "alternate_cuts": []
     },
     {
@@ -3342,6 +3495,23 @@
       "score": 80.5,
       "fingerprint": "0e0f0bcf9f13130f.0e0f0fcf9f13131d.0e0d0fcf9f93130d",
       "gta_vi_evidence": "",
+      "alternate_cuts": []
+    },
+    {
+      "id": "aebef492cfb909265dbb",
+      "span": {
+        "source": "twitch-vod:2941322278",
+        "start": 15333.0,
+        "end": 15346.0
+      },
+      "theme": "mission",
+      "hook": "Jason approaches Lucia standing in the kitchen area.",
+      "setup": "Jason walks across the apartment room toward Lucia.",
+      "payoff": "Jason and Lucia embrace and share dialogue about messing around.",
+      "evidence": "Jason walks over to Lucia and embraces her by the window.",
+      "score": 80.5,
+      "fingerprint": "1c4d8d8d959338b0.c4849496a6a67298.987466424a2a3a92",
+      "gta_vi_evidence": "Confirmed GTA VI protagonist models Jason and Lucia interacting in an apartment.",
       "alternate_cuts": []
     },
     {
@@ -4333,23 +4503,6 @@
       "alternate_cuts": []
     },
     {
-      "id": "fa205e4d8696af1cac1c",
-      "span": {
-        "source": "twitch-vod:2941322278",
-        "start": 22513.0,
-        "end": 22531.0
-      },
-      "theme": "mission",
-      "hook": "Switching lotion application duties poolside",
-      "setup": "The character re-applies lotion to their hands and gets ready for the next person",
-      "payoff": "The character moves around the front of the lounger to continue massage prompts",
-      "evidence": "Subtitle states 'That's great, nail the anticipation, Samantha!'",
-      "score": 70.0,
-      "fingerprint": "",
-      "gta_vi_evidence": "",
-      "alternate_cuts": []
-    },
-    {
       "id": "7b1b9fbf3e54d07286bc",
       "span": {
         "source": "youtube:VFXleoAq6VA",
@@ -4361,23 +4514,6 @@
       "setup": "The player drives through suburban Vice City streets and mentions how cars can be licensed.",
       "payoff": "The truck navigates intersections past pedestrians and other vehicles while commentary continues.",
       "evidence": "Driving through residential suburban streets past houses and parked cars.",
-      "score": 65.0,
-      "fingerprint": "",
-      "gta_vi_evidence": "",
-      "alternate_cuts": []
-    },
-    {
-      "id": "e3c2640c502206d77586",
-      "span": {
-        "source": "twitch-vod:2941483018",
-        "start": 18362.0,
-        "end": 18376.0
-      },
-      "theme": "driving",
-      "hook": "Cruising down sunlit Vice City avenues.",
-      "setup": "Lucia pulls out of the gas station into afternoon traffic.",
-      "payoff": "Pedestrians react and speak as the red sports car navigates intersections under detailed lighting.",
-      "evidence": "Mini-map and GPS route displayed on screen while driving past palm trees.",
       "score": 65.0,
       "fingerprint": "",
       "gta_vi_evidence": "",
